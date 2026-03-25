@@ -1,0 +1,86 @@
+﻿Slide 1: Quản lý Ngân sách Nhà nước (NSNN) - Khái quát Chu trình & Giai đoạn 1
+Người 1: Chào các em. Hôm nay chúng ta sẽ bắt đầu tìm hiểu một nội dung cốt lõi trong tài chính công, đó là Chương 2.3: Quản lý Ngân sách Nhà nước, hay gọi tắt là NSNN. Trong tiết học này, trọng tâm của chúng ta sẽ là khái quát toàn bộ chu trình và đi sâu vào Giai đoạn đầu tiên: Lập dự toán.
+Người 2: Dạ thưa cô, lập dự toán ngân sách cấp quốc gia thì có giống như việc một công ty lên kế hoạch tài chính cho năm sau, hay giống như việc nhà mình lên danh sách các khoản cần chi tiêu cho tháng tới không ạ?
+Người 1: Em liên tưởng rất đúng. Về bản chất, nó chính là việc chúng ta "liệu cơm gắp mắm", tính toán xem sắp tới quốc gia sẽ thu được bao nhiêu tiền và cần chi ra bao nhiêu tiền. Tuy nhiên, thay vì cuốn sổ thu chi của gia đình, đây là "bản vẽ tài chính" của cả một quốc gia. Vì liên quan đến quốc kế dân sinh, quy trình này cực kỳ phức tạp, đòi hỏi độ chính xác cao và phải tuân theo một chu trình nghiêm ngặt mang tính pháp lý. Chúng ta cùng xem chu trình đó hoạt động thế nào ở slide tiếp theo.
+
+Slide 2: Chu trình Quản lý NSNN: Khép kín và Đan xen
+Người 1: Các em nhìn lên sơ đồ. Quản lý ngân sách không phải là một đường thẳng, mà là một vòng tuần hoàn với hai tính chất: Khép kín và Đan xen. Khép kín nghĩa là chu trình đi qua 3 bước: Lập dự toán, sau đó đem ra Chấp hành (tức là thực thi), và cuối cùng là Quyết toán (kiểm tra, chốt sổ).
+Người 2: Sơ đồ có ghi là "Quản lý Đan xen", tại sao trong cùng một thời điểm mà chúng ta lại phải xử lý song song cả năm N trừ 1, năm N và năm N cộng 1 vậy thưa cô? Nghe có vẻ hơi quá tải ạ.
+Người 1: Câu hỏi rất hay! Cô lấy ví dụ thực tế: Giả sử hiện tại đang là năm N, tức là năm 2024. Ngay lúc này, chính phủ đang ráo riết "Chấp hành" - tức là thu thuế và chi tiền xây cầu đường, trả lương cho năm 2024. Nhưng chính phủ không thể đợi hết năm nay mới nghĩ đến năm sau. Nên đồng thời, các cơ quan cũng đang phải "Lập dự toán" tính toán tiền nong cho năm N cộng 1 (tức là 2025). Chưa hết, họ vẫn đang phải làm sổ sách "Quyết toán" để báo cáo lại những khoản tiền đã tiêu của năm N trừ 1 (tức là 2023) xem có đúng luật hay không.
+Người 2: À, em hiểu rồi! Tức là giống như việc em đang tiêu tiền tháng này, nhưng đầu óc đã phải tính xem tháng sau xin tiền tiêu vặt thế nào, và vẫn phải giải trình với mẹ biên lai mua sách của tháng trước. Vậy còn câu "Kết quả quyết toán năm trước là cơ sở vững chắc để lập dự toán năm sau" nghĩa là sao ạ?
+Người 1: Chính xác! Câu đó có nghĩa là: Báo cáo chốt sổ của năm 2023 sẽ cho chúng ta biết thực tế mình có khả năng thu được bao nhiêu, có bị hụt thu hay không. Dựa vào "sự thật" đó, bản kế hoạch xin tiền cho năm 2025 mới thực tế, tránh việc vẽ ra một con số viển vông.
+
+Slide 3: Định vị Năm Ngân sách trên Toàn cầu
+Người 1: Khi nói đến lập dự toán cho "một năm", chúng ta cần hiểu rõ khái niệm "Năm Ngân sách". Đây là khoảng thời gian 12 tháng để thực hiện các hoạt động thu, chi NSNN. Tuy nhiên, không phải quốc gia nào cũng bắt đầu năm ngân sách vào ngày 1 tháng 1.
+Người 2: Em thấy trên slide, Anh, Ấn Độ, Nhật Bản lại bắt đầu từ 1 tháng 4. Còn Úc hay Na Uy lại là 1 tháng 7. Tại sao lại có sự khác biệt kỳ lạ như vậy thưa cô? Sao không dùng chung năm dương lịch cho dễ tính ạ?
+Người 1: Nó phụ thuộc vào lịch sử, chu kỳ kinh tế và đặc thù của mỗi nước. Ví dụ như Ấn Độ hay một số nước nông nghiệp trước đây, họ chọn 1 tháng 4 để bắt đầu vì thời điểm này mùa màng đã thu hoạch xong, chính phủ dự báo được sản lượng nông nghiệp, từ đó dự báo thu thuế chính xác hơn. Còn ở Úc (từ 1 tháng 7 đến 30 tháng 6), điều này giúp hệ thống hành chính tránh được kỳ nghỉ hè dài ngày vào dịp Giáng sinh và đầu năm mới.
+Người 2: Dạ, vậy Việt Nam mình áp dụng trùng với năm dương lịch là từ 1 tháng 1 đến 31 tháng 12 đúng không ạ?
+Người 1: Đúng vậy, Việt Nam nằm trong nhóm sử dụng năm dương lịch làm năm ngân sách, giống như Đức, Pháp, Bỉ, Hà Lan và Trung Quốc. Việc này giúp đồng bộ dữ liệu tài chính với các báo cáo kinh tế vĩ mô và kế hoạch phát triển kinh tế - xã hội thường niên một cách dễ dàng hơn.
+
+Slide 4: Khái quát Giai đoạn 1: Lập dự toán NSNN
+Người 1: Bây giờ, chúng ta "zoom" kỹ vào Giai đoạn 1: Lập dự toán. Giai đoạn này gồm 3 mốc chính: Khởi đầu (tính toán, dự trù các khoản thu chi), Đầu ra (tạo thành một bản Hồ sơ dự toán chi tiết) và Đích đến (trình cấp thẩm quyền phê duyệt).
+Người 2: Em thấy thời gian thực tiễn tại Việt Nam ghi là từ 15 tháng 5 đến 31 tháng 12. Tức là mất hơn nửa năm chỉ để lên kế hoạch tiêu tiền cho năm sau sao cô? Có vẻ hơi lâu ạ.
+Người 1: Không hề lâu đâu em, thậm chí các hoạt động chuẩn bị rải rác còn diễn ra trước mốc 15/5 cơ. Em thử nghĩ xem, ở quy mô một phường xã đã có cả trăm khoản chi, từ sửa nắp cống đến trả lương cán bộ. Từ phường phải tổng hợp lên quận, từ quận lên thành phố, rồi từ 63 tỉnh thành mới tổng hợp lên Bộ Tài chính để trình Quốc hội. Hàng triệu con số cần được tính toán (Khởi đầu), nhào nặn thành một cuốn sách dày cộp (Đầu ra), rồi phải qua bao vòng phản biện trước khi được Quốc hội gõ búa thông qua (Đích đến). Phải chốt trước 31/12 để sáng ngày 1/1 năm sau, kho bạc có cơ sở pháp lý mở cửa rót tiền ngay.
+
+Slide 5: Mục tiêu & 3 Trụ cột Căn cứ Lập dự toán
+Người 1: Để việc lập dự toán không bị chệch hướng, luật pháp xây dựng một mô hình vững chắc như "Ngôi nhà dự toán" trên slide. Phần mái nhà là Mục tiêu: Dự toán phải đáp ứng được chính sách kinh tế - xã hội, phải phân bổ tiền theo ưu tiên, và tạo cơ sở để sau này quản lý, chốt sổ.
+Người 2: Dạ, một ngôi nhà thì phải có móng và cột vững chắc. Vậy 3 trụ cột Căn cứ ở đây cụ thể là những gì thưa cô?
+Người 1: Trụ cột thứ nhất là Vĩ mô: Tiền chi ra phải phục vụ nhiệm vụ kinh tế, quốc phòng an ninh, hay bình đẳng giới. Trụ cột thứ hai là Trung hạn: Không thể chỉ nhìn 1 năm, mà phải bám sát Kế hoạch tài chính và đầu tư công 5 năm. Trụ cột thứ ba là Pháp lý & Thực tiễn: Dựa vào các luật thuế/phí, định mức, và tình hình thực tế năm trước.
+Người 2: Cô có thể cho một ví dụ gom cả 3 trụ cột này lại không ạ?
+Người 1: Rất sẵn lòng. Ví dụ, Quốc hội quyết định xây Sân bay Long Thành.
+• Yếu tố "Vĩ mô": Dự án này phục vụ phát triển kinh tế trọng điểm phía Nam.
+• Yếu tố "Trung hạn": Sân bay không thể xây trong 1 năm, nên ngân sách năm nay phải nằm trong chuỗi kế hoạch rót vốn đầu tư công 5 năm.
+• Yếu tố "Pháp lý & Thực tiễn": Số tiền rót xuống năm nay được duyệt là bao nhiêu phải tuân thủ đúng định mức xây dựng của Bộ Xây dựng, và dựa trên tiến độ giải phóng mặt bằng thực tế của năm ngoái. Nếu năm ngoái làm chậm, năm nay không thể dự toán rót một đống tiền rồi để ngâm ở đó được.
+
+Slide 6: Yêu cầu chung và Cơ cấu Phân định Chi
+Người 1: Ở slide 6, chúng ta thấy việc lập dự toán phải tuân theo 3 yêu cầu chung như những chiếc khiên bảo vệ: Quán triệt chính sách tài chính quốc gia, Tuân thủ nghiêm ngặt Luật Ngân sách Nhà nước, và Bao trùm tức là phải tổng hợp từng khoản, đúng biểu mẫu, đúng thời hạn.
+Người 2: Dạ, còn phần phân định rõ 4 cơ cấu chi gồm Chi đầu tư phát triển, Chi thường xuyên, Chi dự trữ quốc gia & dự phòng, và Chi trả nợ lãi & viện trợ thì sao ạ? Cô có thể lấy ví dụ cho dễ phân biệt không?
+Người 1: Rất đơn giản. Cô ví dụ nhà nước đầu tư xây dựng một bệnh viện công lập mới, tiền gạch vữa, máy móc thiết bị y tế ban đầu được tính vào "Chi đầu tư phát triển". Nhưng khi bệnh viện đã đi vào hoạt động, tiền trả lương hàng tháng cho y bác sĩ, tiền mua bông băng cồn gạc dùng hàng ngày sẽ là "Chi thường xuyên". Còn "Chi dự trữ & dự phòng" giống như quỹ tiết kiệm khẩn cấp để mua vaccine khi có đại dịch bệnh hoặc mua áo phao khi có bão lũ. Cuối cùng, "Chi trả nợ lãi" là khoản tiền chuẩn bị sẵn để trả lãi cho các trái phiếu chính phủ đã phát hành.
+
+Slide 7: Yêu cầu chuyên biệt: Dự toán Thu vs. Chi (Điều 45)
+Người 1: Chuyển sang slide 7, luật quy định những yêu cầu chuyên biệt cực kỳ chặt chẽ theo Điều 45. Về dự toán Thu, nguyên tắc là phải tính đầy đủ, đúng biểu mẫu, dựa trên các chỉ tiêu kinh tế vĩ mô và tuân thủ nghiêm ngặt khung pháp lý về luật thuế, phí. Còn về phần Chi, có một điểm cốt lõi mà các em không được phép quên.
+Người 2: Đó là ô màu cam "Ưu tiên Bắt buộc" đúng không cô? Em thấy có ghi Điểm d Khoản 2 yêu cầu bắt buộc phải ưu tiên chi cho Giáo dục - đào tạo, dạy nghề và Khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số.
+Người 1: Chính xác. Đây là ranh giới đỏ ưu tiên. Cô lấy ví dụ thực tế: một tỉnh không thể lấy lý do thiếu tiền để cắt giảm ngân sách đang phân bổ cho dự án chuyển đổi số sổ điểm tại các trường học, nhằm mang số tiền đó đi xây một chiếc cổng chào hoành tráng ngoài đường được. Các khoản chi khác như đầu tư phát triển, chi thường xuyên hay trả nợ dù quan trọng nhưng vẫn phải được xem xét sau khi đã đảm bảo nguồn lực cho những ưu tiên bắt buộc này.
+
+Slide 8: Phương pháp Lập dự toán: Xử lý Chênh lệch
+Người 1: Giờ chúng ta sang slide 8 để xem các chuyên gia tài chính chốt lại con số cuối cùng bằng phương pháp nào. Đây chính là bài toán xử lý sự chênh lệch giữa hai cách tiếp cận: Từ trên xuống (Top-down) và Từ dưới lên (Bottom-up).
+Người 2: Em hình dung "cách tiếp cận từ dưới lên" tức là nhu cầu thực tế của các cơ sở báo cáo xin tiền, còn "cách tiếp cận từ trên xuống" là giới hạn vĩ mô mà trung ương phân bổ rớt xuống đúng không ạ? Nhưng nếu hai bên không khớp nhau thì sao cô?
+Người 1: Thực tế là gần như không bao giờ khớp nhau cả. Các đơn vị cấp dưới luôn có "Nhu cầu cơ sở" muốn xin nhiều tiền hơn để dễ làm việc, trong khi cấp trên phải áp đặt "Giới hạn vĩ mô" dựa trên khả năng thu ngân sách thực tế có hạn. Nên người ta phải đặt hai luồng số liệu này lên bàn cân để "So sánh và tìm ra Chênh lệch". Khi thấy chênh lệch, họ sẽ áp dụng các "Biện pháp xử lý" thông qua các vòng đàm phán, thương lượng, cắt giảm những công trình chưa cấp bách để ra được sự đồng thuận cuối cùng.
+
+Slide 9: Quy trình 3 Bước & Chi tiết Bước 1 (Hướng dẫn)
+Người 1: Nhìn vào slide 9, chúng ta sẽ bắt đầu tìm hiểu thực tế quy trình này diễn ra qua 3 bước: 1. Hướng dẫn, 2. Xây dựng & Tổng hợp, và 3. Quyết định & Giao. Hôm nay chúng ta phân tích kỹ Bước 1 "Hướng dẫn". Nó hoạt động giống như một cuộc chạy tiếp sức với thời gian được đong đếm chặt chẽ.
+Người 2: Dạ, Thủ tướng Chính phủ sẽ là người phát súng lệnh đầu tiên vào thời điểm trước ngày 15/5 để ban hành quy định xây dựng kế hoạch kinh tế - xã hội và dự toán đúng không ạ?
+Người 1: Đúng vậy. Ngay khi có văn bản của Thủ tướng, Bộ Tài chính có chậm nhất là 10 ngày để ban hành văn bản hướng dẫn chi tiết về chuyên môn. Kế tiếp, chậm nhất 7 ngày sau đó, các Bộ, Cơ quan Trung ương và Ủy ban nhân dân cấp tỉnh lại phải ban hành văn bản hướng dẫn xuống các đơn vị cơ sở thuộc phạm vi mình quản lý. Việc quy định số ngày "chậm nhất +10 ngày", "+7 ngày" này là để đảm bảo cỗ máy hành chính khổng lồ không bị ách tắc ở bất kỳ khâu nào.
+
+Slide 10: Bước 2: Xây dựng & Tổng hợp Dự toán
+Người 1: Sau khi nhận được hướng dẫn, toàn bộ hệ thống chuyển sang Bước 2 ở slide 10: Xây dựng và Tổng hợp. Các em hãy nhìn sơ đồ hình kim tự tháp, nó thể hiện luồng tổng hợp đi từ đáy lên đỉnh. Đầu tiên, tại Đơn vị cơ sở (ví dụ như một trường cấp 3 hay một trạm y tế phường), họ lập dự toán của mình rồi gửi lên cho đơn vị cấp trên và cơ quan tài chính cùng cấp.
+Người 2: Theo mũi tên thì tiếp đó sẽ lên tới cấp Địa phương. Cơ quan tài chính sẽ tổng hợp lại trình lên Ủy ban Nhân dân, rồi đưa sang Thường trực Hội đồng Nhân dân cho ý kiến, đồng thời phải gửi báo cáo về Bộ Tài chính và Đoàn đại biểu Quốc hội để giám sát đúng không cô?
+Người 1: Rất tốt, luồng đi như vậy là rất chính xác. Cuối cùng, ở đỉnh kim tự tháp là tuyến Trung ương. Bộ Tài chính sẽ "ôm" toàn bộ số liệu của 63 tỉnh thành cộng với dự toán của tất cả các Bộ, Ngành để tổng hợp thành bản dự toán khổng lồ của cả nước. Bản này sẽ được trình lên Chính phủ, sau đó trình Ủy ban Thường vụ Quốc hội và Quốc hội để đưa ra thảo luận. Em thấy đấy, hàng triệu con số từ một bản làng xa xôi nhất, cuối cùng đều được gom lại, nhào nặn và đặt lên bàn nghị sự của Quốc hội.
+
+Slide 11: Bước 3 - Quyết định & Giao Dự toán
+Người 1: Chúng ta bước sang slide 11, cũng là Bước 3: Quyết định và Giao dự toán. Lúc này, bản dự toán đã được tổng hợp xong và bắt đầu hành trình từ trên đi xuống để chốt hạ. Cơ quan quyền lực cao nhất là Quốc hội sẽ quyết định dự toán và phân bổ Ngân sách Trung ương.
+Người 2: Sau khi Quốc hội chốt thì tiền sẽ đi đâu tiếp thưa cô? Em thấy sơ đồ chỉ mũi tên xuống Thủ tướng Chính phủ rồi mới rẽ nhánh.
+Người 1: Đúng vậy. Quốc hội chỉ chốt con số tổng và định hướng lớn. Thủ tướng Chính phủ sẽ là người cầm "quyết định" đó để giao cụ thể cho từng Bộ, Ngành và từng Tỉnh/Thành phố. Ví dụ, Thủ tướng sẽ ký quyết định giao cho Thành phố Hồ Chí Minh năm tới được phép chi bao nhiêu nghìn tỷ. Từ con số đó, Ủy ban Nhân dân (UBND) cấp tỉnh mới trình lên Hội đồng Nhân dân (HĐND) cùng cấp để quyết định ngân sách của địa phương mình, rồi lại tiếp tục phân bổ xuống cấp thấp hơn là cấp xã. Nó giống như việc cắt một chiếc bánh lớn thành từng phần nhỏ dần từ trung ương xuống địa phương vậy.
+
+Slide 12: Dòng thời gian Lập dự toán (Tuyến Trung Ương)
+Người 1: Nhưng việc "cắt bánh" này không thể làm tùy tiện lúc nào cũng được, mà bị ràng buộc bởi một dòng thời gian cực kỳ nghiêm ngặt trên tuyến Trung ương ở slide 12. Như chúng ta đã nói ở Bước 1, mốc khởi điểm là trước ngày 15 tháng 5, Thủ tướng ra quy định.
+Người 2: Dạ, và sau đó 10 ngày thì Bộ Tài chính có văn bản hướng dẫn chi tiết. Thế những tháng giữa năm từ tháng 6 đến tháng 8 là để các cơ sở, địa phương nhào nặn số liệu gửi lên đúng không cô? Vì em thấy mốc tiếp theo mãi đến trước 20 tháng 9 mới xuất hiện.
+Người 1: Em phân tích tiến trình rất chuẩn! Mốc trước 20 tháng 9 là hạn chót để Bộ Tài chính tổng hợp xong tất cả và báo cáo cho Ủy ban Thường vụ Quốc hội thẩm tra. Sau vòng thẩm tra khắt khe đó, đến trước ngày 10 tháng 11, Quốc hội sẽ chính thức quyết định và ban hành nghị quyết. Và cuối cùng, trước ngày 20 tháng 11, Thủ tướng Chính phủ sẽ hoàn tất việc giao dự toán cho các Bộ, ngành và địa phương. Tuyến trung ương phải chốt sớm để tuyến địa phương còn có thời gian làm việc.
+
+Slide 13: Dòng thời gian Lập dự toán (Tuyến Địa Phương & Hoàn tất)
+Người 1: Nhận được "chỉ tiêu" từ Thủ tướng trước 20/11, tuyến Địa phương ở slide 13 sẽ bắt tay vào việc. Toàn bộ tháng 12 là khoảng thời gian chạy nước rút. Chậm nhất là trước ngày 10 tháng 12, HĐND cấp tỉnh phải quyết định xong ngân sách của tỉnh mình.
+Người 2: Ở đây có quy định "cộng 05 ngày" và "cộng 10 ngày", nghĩa là sao thưa cô?
+Người 1: Nghĩa là ngay sau khi HĐND tỉnh gõ búa quyết định, UBND tỉnh chỉ có tối đa 5 ngày để giao dự toán xuống cho các đơn vị trực thuộc. Và trong vòng tối đa 10 ngày kể từ lúc có quyết định của tỉnh, HĐND cấp xã cũng phải họp và chốt xong ngân sách của xã mình. Nhưng dù cộng trừ ngày tháng thế nào, tất cả đều phải đụng một "bức tường đỏ" là ngày 31 tháng 12. Mọi cấp quản lý đều PHẢI hoàn thành việc giao dự toán cho các đơn vị trực thuộc trước thời khắc chuyển giao năm mới.
+
+Slide 14: Xử lý Lập lại Dự toán (Điều 50)
+Người 1: Mọi thứ chúng ta vừa học là kịch bản suôn sẻ. Nhưng trên thực tế, chuyển sang slide 14, Điều 50 của Luật quy định về một tình huống ngoại lệ: Nếu bản dự toán trình lên mà bị Quốc hội hoặc HĐND bác bỏ (không thông qua) thì sao?
+Người 2: Chắc là phải làm lại từ đầu đúng không ạ? Nhưng lúc đó đã cận kề cuối năm rồi, làm lại thì trễ mất thưa cô.
+Người 1: Chắc chắn là phải lập lại, nhưng với tốc độ "tên lửa". Ở Trung ương, Chính phủ sẽ phải làm lại hồ sơ và thời gian trình lại do chính Quốc hội ấn định. Ở Địa phương, UBND làm lại và HĐND ấn định thời gian thông qua. Tuy nhiên, có một điều kiện bắt buộc để đảm bảo kỷ luật: Thời gian lập lại ở địa phương tuyệt đối KHÔNG được chậm hơn mốc thời gian mà Chính phủ quy định. Điều này để tránh tình trạng "câu giờ" làm tê liệt các hoạt động chi tiêu công của năm mới.
+
+Slide 15: Chẩn đoán Sai phạm: Hồ sơ Dự toán Tỉnh X (Năm 2027)
+Người 1: Để tổng kết bài học hôm nay, chúng ta cùng xem slide 15 và thực hành chẩn đoán 3 sai phạm trong tình huống lập dự toán năm 2027 của Tỉnh X vào tháng 11 năm 2026. Sự kiện đầu tiên, HĐND tỉnh X dời ngày thông qua dự toán sang 15/12/2026. Em thấy sao?
+Người 2: Dạ sai bét rồi cô! Như cô vừa dạy ở mốc thời gian tuyến địa phương, theo Khoản 6 Điều 46 thì HĐND cấp tỉnh phải quyết định trước ngày 10/12. Dời sang 15/12 là trễ hạn ạ.
+Người 1: Rất chính xác! Sự kiện thứ hai, do thông qua trễ nên mãi đến 05/01/2027 UBND tỉnh mới giao xong dự toán chi tiết. Lỗi này càng nghiêm trọng vì đã vi phạm hạn chót tuyệt đối ở Khoản 8 Điều 46: Mọi việc giao dự toán phải hoàn thành trước ngày 31/12 của năm trước đó.
+Người 2: Còn sự kiện cuối cùng là "Cắt toàn bộ kinh phí chuyển đổi số để xây cổng chào". Em nhớ rồi, ở slide số 7 có cái khung màu cam nói về "Ưu tiên bắt buộc". Tỉnh X làm vậy là sai nguyên tắc của Điểm d Khoản 2 Điều 45, vì ngân sách phải ưu tiên cho khoa học công nghệ và chuyển đổi số trước. Xây cổng chào không nằm trong nhóm ưu tiên bắt buộc này!
+Người 1: Em nắm bài rất vững, xuất sắc! Qua bài tập thực tế này, các em có thể thấy các mốc thời gian và quy tắc ưu tiên trong Ngân sách Nhà nước là mệnh lệnh pháp luật, không thể tùy tiện thay đổi. Tiết học của chúng ta về Giai đoạn 1 khép lại ở đây, các em về ôn bài để chuẩn bị cho Giai đoạn Chấp hành ngân sách ở buổi sau nhé.
+

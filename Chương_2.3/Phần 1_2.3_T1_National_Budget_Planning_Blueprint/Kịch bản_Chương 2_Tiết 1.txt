@@ -1,0 +1,118 @@
+﻿Slide 1: TRANG BÌA & GIỚI THIỆU (Hình ảnh: Logo Học viện, Tên bài học, Thông tin giảng viên)
+Người 1: Chào các em sinh viên lớp Quản lý nhà nước tại Phân hiệu Đắk Lắk. Hôm nay, chúng ta chính thức bước vào Chương 2: Quản lý Ngân sách Nhà nước.
+Các em ạ, nếu coi nền hành chính là một cỗ xe, thì Tài chính công chính là xăng. Không có xăng, xe dù đẹp đến mấy cũng không chạy được. Chương này sẽ giúp các em hiểu “bình xăng” của Quốc gia được đổ đầy và sử dụng như thế nào.
+Người 2: Thưa cô, môn này nghe tên thì rất khô khan. Liệu nó có liên quan gì đến cuộc sống hàng ngày của tụi em ở Buôn Ma Thuột này không ạ?
+Người 1: Câu hỏi rất hay. Ngân sách không nằm trên tivi đâu em.
+Sáng nay em đi học trên đường Nguyễn Tất Thành – tiền làm đường từ đâu? Từ Ngân sách.
+Đèn đường chiếu sáng tối qua – tiền điện ai trả? Ngân sách.
+Thậm chí, giảng đường mát mẻ chúng ta đang ngồi đây, lương của các thầy cô trong trường… tất cả đều vận hành nhờ dòng chảy của Ngân sách Nhà nước. Vì vậy, học môn này là để hiểu về chính quyền lợi sát sườn của mình.
+
+Slide 2: CẤU TRÚC NỘI DUNG CHƯƠNG 2 (Hình ảnh: Sơ đồ 4 trụ cột: Khái niệm - Phân cấp - Chu trình - Cân đối)
+Người 1: Để làm chủ được kiến thức chương này, chúng ta sẽ đi qua 4 trụ cột lý thuyết sau:
+2.1. Khái niệm & Phạm vi: Để phân biệt đâu là tiền túi của quan chức, đâu là tiền chung của Nhà nước.
+2.2. Phân cấp quản lý: Đây là phần rất nóng hổi. Ai có quyền quyết định tiền nong? Trung ương hay Tỉnh Đắk Lắk chúng ta?
+2.3. Chu trình quản lý: Một đồng tiền đi từ lúc Lập kế hoạch -> Chấp hành -> Quyết toán như thế nào?
+2.4. Cân đối: Câu chuyện về thâm hụt ngân sách và nợ công.
+Trong 4 phần này, Phân cấp và Chu trình là hai nội dung thi công chức hay hỏi nhất, các em lưu ý nhé.
+
+Slide 3: MỤC TIÊU & TÀI LIỆU HỌC TẬP (Hình ảnh: 3 mục tiêu K-S-A và Bìa Luật NSNN)
+Người 1: Về mục tiêu, bên cạnh Kiến thức và Kỹ năng, cô đặc biệt nhấn mạnh mục tiêu Thái độ.
+Là những nhà quản lý công tương lai, các em phải khắc cốt ghi tâm: “Tiền ngân sách là tiền mồ hôi nước mắt của dân”.
+Ví dụ thực tế: Các vụ án tham nhũng lớn gần đây như vụ Việt Á hay Vạn Thịnh Phát đều xuất phát từ việc thiếu đạo đức công vụ và buông lỏng quản lý tài chính. Học môn này để biết sợ, biết tránh và biết làm đúng.
+Tài liệu: Các em mở sẵn Luật NSNN số 83/2015. Đồng thời, cô sẽ cập nhật thêm các định hướng mới nhất từ Dự thảo Luật sửa đổi 2025 để kiến thức chúng ta không bị lạc hậu.
+
+Slide 4: NGUỒN GỐC THUẬT NGỮ “NGÂN SÁCH” (Hình ảnh: Chiếc túi da cổ “Bougette” và Nghị viện Anh)
+Người 1: Có bao giờ các em tự hỏi tại sao tiếng Anh gọi Ngân sách là “Budget” không?
+Người 2: Em đoán chắc nó liên quan đến số má hay tính toán ạ?
+Người 1: Không đâu. Gốc của nó là từ tiếng Pháp cổ “Bougette”, nghĩa là “Cái túi da nhỏ”.
+Sự tích: Ngày xưa ở Anh, khi Bộ trưởng Tài chính đến Nghị viện xin tiền, ông ấy xách theo một cái túi da đựng các đề xuất thuế. Hành động “mở túi” (Opening the budget) dần trở thành thuật ngữ chỉ việc công bố ngân sách.
+Người 1: Nhưng cái túi này có sự tiến hóa về bản chất:
+Thời Phong kiến: Đó là túi tiền của Vua. Vua thích xây cung điện hay đi đánh trận là tùy ý. Không ai dám hỏi.
+Thời Hiện đại: Khi giai cấp tư sản lớn mạnh, họ yêu cầu: “Muốn tôi đóng thuế thì tôi phải được quyền biết ông dùng tiền làm gì”. Từ đó, Ngân sách trở thành công cụ để Nghị viện (đại diện cho dân) kiểm soát quyền lực của Chính phủ.
+
+Slide 5: QUAN ĐIỂM QUỐC TẾ (Hình ảnh: So sánh quan điểm Pháp - Anh - OECD)
+Người 1: Trên thế giới, họ coi trọng Ngân sách như thế nào?
+Ở các nước theo dòng luật Lục địa (như Pháp, và Việt Nam ảnh hưởng), Ngân sách là một Đạo luật cho phép.
+Người 2: “Cho phép” nghĩa là sao ạ? Nếu Chính phủ cứ tiêu đại thì sao cô?
+Người 1: À, ở nước ngoài, tiêu “đại” là chính phủ ngừng hoạt động ngay.
+Ví dụ thực tế: Các em nhớ sự kiện Chính phủ Mỹ đóng cửa (Shutdown) năm 2018-2019 không? Vì Quốc hội Mỹ không duyệt ngân sách xây tường biên giới của ông Trump, nên Chính phủ không được phép rút tiền từ kho bạc. Hậu quả là nhân viên an ninh sân bay phải đi làm không lương, công viên quốc gia đóng cửa.
+Điều này chứng tỏ: Không có dự toán được duyệt = Không có quyền chi tiêu. Đó là tính pháp lý tối thượng.
+
+Slide 6: KHÁI NIỆM NSNN TẠI VIỆT NAM (Hình ảnh: Trích Luật NSNN 2015)
+Người 1: Vậy ở Việt Nam, Luật định nghĩa thế nào? Cô mời một bạn đọc to Khoản 14, Điều 4 Luật NSNN 2015.
+Người 2: “Ngân sách nhà nước là toàn bộ các khoản thu, chi của Nhà nước được dự toán và thực hiện trong một khoảng thời gian nhất định do cơ quan nhà nước có thẩm quyền quyết định…”
+Người 1: Cảm ơn em. Định nghĩa khá dài, nhưng chúng ta sẽ “mổ xẻ” nó ngay sau đây. Các em chú ý 4 cụm từ khóa quan trọng nhất mà cô đã tô đậm.
+
+Slide 7: PHÂN TÍCH KHÁI NIỆM (Hình ảnh: 4 thành tố: Nội dung - Hình thức - Thẩm quyền - Mục đích)
+Người 1: Cô sẽ giải thích sâu hai ý quan trọng nhất mà sinh viên hay nhầm:
+1. “Được dự toán”:
+Ngân sách không phải là tiền mặt ngay lập tức. Nó là kế hoạch.
+Ví dụ: Tháng 11 năm ngoái, Quốc hội duyệt thu 1.700 nghìn tỷ. Đó là con số trên giấy (Dự toán). Đến cuối năm nay, thu được thực tế bao nhiêu, đó là số Thực hiện. Chênh lệch giữa hai số này thể hiện năng lực dự báo của chúng ta.
+2. “Do cơ quan có thẩm quyền quyết định”:
+Tại sao Thủ tướng hay Chủ tịch tỉnh không được tự quyết định con số ngân sách?
+Lý thuyết: Vì tiền là của dân, nên phải do cơ quan đại diện cho dân quyết định.
+Thực tế: Ở Trung ương là Quốc hội, ở địa phương là Hội đồng nhân dân. UBND chỉ là người đi “xin” (trình dự toán) và là người tiêu tiền (chấp hành) thôi.
+
+Slide 8: ĐẶC TRƯNG CƠ BẢN CỦA NSNN (Phần 1) (Hình ảnh: Cảnh sát thuế (Quyền lực) và Kho bạc Nhà nước (Tập trung))
+Người 1: Đặc trưng nào làm nên sự khác biệt của NSNN?
+Thứ nhất: Gắn với Quyền lực Nhà nước (Tính cưỡng chế).
+So sánh: Em vào siêu thị, em có quyền không mua hàng. Nhưng em kinh doanh có lãi, em bắt buộc phải nộp thuế.
+Nếu doanh nghiệp nợ tiền nhau, họ có thể thương lượng trả chậm. Nhưng nếu nợ thuế, Nhà nước có quyền cưỡng chế, phong tỏa tài khoản, thậm chí cấm xuất cảnh chủ doanh nghiệp. Đó là sức mạnh quyền lực chính trị.
+Thứ hai: Là Quỹ tiền tệ tập trung.
+Ví dụ: Hãy tưởng tượng Kho bạc Nhà nước như một cái “hồ chứa nước” khổng lồ.
+Tiền thuế từ Đắk Lắk, tiền dầu thô từ Vũng Tàu, tiền phạt vi phạm giao thông… tất cả dòng suối nhỏ đều chảy về cái hồ này.
+Tại sao? Để Nhà nước điều tiết. Lấy nước ở hồ chung tưới cho những vùng khô hạn (các tỉnh miền núi khó khăn), chứ không để tình trạng “nơi thừa mứa, nơi chết khát”. Đây là nguyên tắc thống nhất của nền tài chính.
+
+Slide 9: ĐẶC TRƯNG CƠ BẢN CỦA NSNN (Phần 2) (Hình ảnh: So sánh: Mua vé xem phim (Trao đổi ngang giá) vs. Nộp thuế (Một chiều). Hình ảnh xe buýt công cộng)
+Người 1: Chúng ta đến với đặc trưng thứ 3, đây là “chìa khóa” để phân biệt Thuế và Giá cả dịch vụ: Tính không hoàn trả trực tiếp (Non-quid-pro-quo).
+Người 2: Thuật ngữ này nghe lạ quá cô ơi. Có phải là nộp tiền xong là mất trắng không ạ?
+Người 1: Không mất, nhưng em không nhận lại lợi ích ngay lập tức tương xứng với số tiền đã đóng.
+Ví dụ: Khi em đi xem phim ở rạp CGV hay Beta, em trả 100k, em nhận ngay 1 vé và 2 giờ giải trí. Nếu rạp mất điện, em có quyền đòi lại tiền. Đó là Hoàn trả trực tiếp (“Tiền trao cháo múc”).
+Nhưng với Thuế: Giả sử năm nay doanh nghiệp của em đóng 1 tỷ tiền thuế. Em không thể đến cơ quan Thuế đòi hỏi: “Vì tôi đóng nhiều thuế nên hãy ưu tiên trải nhựa con đường trước cửa công ty tôi trước”. Nhà nước có thể dùng 1 tỷ đó để xây trường học ở tận Cà Mau. Em hưởng lợi gián tiếp từ sự ổn định chung của xã hội, chứ không có sự trao đổi ngang giá cho từng cá nhân.
+Người 1: Đặc trưng thứ 4 là Lợi ích công cộng.
+Câu hỏi: Tại sao vé xe buýt ở Buôn Ma Thuột mình rẻ thế? Vì Nhà nước dùng ngân sách bù lỗ. Doanh nghiệp tư nhân thấy lỗ sẽ bỏ, nhưng Nhà nước thấy lỗ vẫn làm nếu điều đó tốt cho dân (giảm kẹt xe, giảm ô nhiễm). Đó là mục tiêu phi lợi nhuận.
+
+Slide 10: XÉT TRÊN CÁC GÓC ĐỘ CHUYÊN SÂU (Hình ảnh: Hình khối lập phương đa diện, mỗi mặt ghi một góc độ: Hình thức, Bản chất, Cơ cấu)
+Người 1: Để hiểu sâu hơn, hãy nhìn Ngân sách như một khối đa diện.
+Về hình thức: Nó là bản Dự toán (Kế hoạch).
+Về bản chất: Nó là mối quan hệ Kinh tế giữa Nhà nước và xã hội.
+Người 2: Cô có thể ví dụ dễ hiểu hơn về cái “Cơ cấu” được không ạ?
+Người 1: Hãy hình dung Ngân sách Quốc gia giống như túi tiền của gia đình em vậy:
+Chi thường xuyên: Giống như tiền đi chợ, trả tiền điện, nước hàng tháng. Không chi thì gia đình không sống được. Trong nhà nước, đó là tiền lương giáo viên, bác sĩ, tiền điện cơ quan…
+Chi đầu tư phát triển: Giống như tiền em dành dụm để xây thêm tầng lầu hay mua đất. Chi khoản này thì gia đình (đất nước) mới giàu lên, cơ sở hạ tầng mới khang trang được.
+
+Slide 11: VAI TRÒ PHÁP LÝ VÀ KINH TẾ (Hình ảnh: Hình cái búa thẩm phán (Pháp lý) và Biểu đồ tăng trưởng (Kinh tế))
+Người 1: Ngân sách có hai vai trò cực lớn.
+Vai trò Pháp lý: Ngân sách là Đạo luật.
+Minh chứng: Các em thấy các vụ án tham ô tài sản gần đây không? Tại sao làm thất thoát tiền của công ty tư nhân thì chỉ bị đền bù hoặc sa thải, nhưng thất thoát tiền nhà nước thì bị đi tù rất nặng? Vì đó là hành vi xâm phạm vào kỷ luật tài chính quốc gia đã được Luật định.
+Vai trò Kinh tế: Nó là công cụ điều tiết vĩ mô.
+Ví dụ: Năm 2021 khi đại dịch COVID-19 hoành hành, ai là người cứu nền kinh tế? Chính phủ đã dùng Ngân sách tung ra gói 62.000 tỷ đồng hỗ trợ người dân. Hành động này giống như “bơm oxy” cấp cứu cho nền kinh tế vậy. Tư nhân không thể làm được việc này.
+
+Slide 12: ĐẶC TRƯNG VỀ MẶT THỜI GIAN (Hình ảnh: Bảng so sánh năm tài khóa các nước. Hình ảnh tờ lịch 31/12)
+Người 1: Một câu hỏi nhanh: Năm ngân sách của Việt Nam bắt đầu và kết thúc khi nào?
+Người 2: Dạ, từ 01/01 đến 31/12, trùng năm dương lịch ạ.
+Người 1: Chính xác. Nhưng Mỹ thì khác (từ 01/10), Nhật lại khác (từ 01/04).
+Chính vì chốt sổ vào 31/12 nên mới sinh ra “Hội chứng tiêu tiền cuối năm”.
+Người 2: Có phải vì thế mà cứ gần Tết là đường phố hay bị đào lên lấp xuống để sửa chữa không cô?
+Người 1: Rất tinh ý! Đó là thực tế. Theo luật, nếu đơn vị không tiêu hết tiền dự toán trước 31/12, số tiền đó sẽ bị hủy bỏ hoặc năm sau bị cắt giảm vốn. Vì tâm lý “tiếc tiền” và sợ bị cắt vốn, các đơn vị thường vội vàng giải ngân (“chạy nước rút”) vào dịp cuối năm. Đây là hạn chế mà Luật NSNN sửa đổi đang cố gắng khắc phục.
+
+Slide 13: TỔNG KẾT NỘI DUNG TIẾT 1 (Hình ảnh: Sơ đồ tư duy (Mindmap) tóm tắt 5 từ khóa chính)
+Người 1: Để kết thúc phần lý thuyết, cô muốn một bạn nhắc lại 3 từ khóa quan trọng nhất của bài hôm nay?
+Người 2: Dạ thưa cô, em nhớ nhất là: Dự toán, Quyền lực nhà nước và Không hoàn trả trực tiếp ạ.
+Người 1: Rất tốt. Hãy khắc ghi 3 từ khóa này, nó sẽ theo các em suốt cả môn học. Bây giờ chúng ta sẽ vận dụng ngay vào bài tập tình huống.
+
+Slide 14: BÀI TẬP VẬN DỤNG (Hình ảnh: Câu hỏi trắc nghiệm A, B, C to rõ)
+Người 1: Nào, chúng ta cùng làm trắc nghiệm. Khoản nào dưới đây là Ngân sách Nhà nước?
+A. Quỹ từ thiện của Tập đoàn Vingroup.
+B. Thuế Thu nhập cá nhân nộp vào Kho bạc.
+C. Học phí sinh viên đóng cho trường Đại học Tư thục.
+Người 1: Cô mời cả lớp giơ tay biểu quyết. Ai chọn A? Ai chọn C?… Và ai chọn B?
+
+Slide 15: LỜI GIẢI CHI TIẾT (Hình ảnh: Dấu tích xanh vào đáp án B. Dấu gạch chéo đỏ vào A và C kèm giải thích)
+Người 1: Chúc mừng đa số các bạn đã chọn B. Tại sao A và C sai? Rất nhiều người nhầm lẫn chỗ này.
+Câu A (Quỹ Vingroup): Dù quỹ này làm việc tốt (xây nhà tình nghĩa, tài trợ mổ tim), nhưng tiền là của doanh nghiệp (Tư nhân). Ông chủ tịch có quyền quyết định cho ai, không cho ai. Không mang tính quyền lực nhà nước. nên Loại.
+Câu C (Học phí Đại học Tư): Đây là quan hệ Mua - Bán dịch vụ. Em đóng tiền (mua kiến thức), nhà trường dạy (bán dịch vụ). Em có quyền chọn trường khác nếu thấy không phù hợp. Có tính hoàn trả trực tiếp. nên Loại.
+Người 1: Chỉ có Thuế (B) mới hội tụ đủ:
+Bắt buộc nộp (Cưỡng chế).
+Không hoàn trả trực tiếp.
+Do cơ quan quyền lực nhà nước quyết định và giám sát.
