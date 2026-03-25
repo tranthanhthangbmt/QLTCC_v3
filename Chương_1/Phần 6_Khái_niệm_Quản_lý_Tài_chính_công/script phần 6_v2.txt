@@ -1,0 +1,86 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Hình ảnh trên slide: Tên môn học lớn “QUẢN LÝ TÀI CHÍNH CÔNG”. Tên bài học: “Phần 6: Khái niệm Quản lý Tài chính công”. Hình ảnh nền là một chiếc la bàn đặt trên bản đồ quy hoạch, tượng trưng cho việc định hướng dòng tiền. Góc dưới có logo NotebookLM).
+Người 1: Chào các em. Hôm nay chúng ta bước sang một chương mới rất thú vị: Phần 6 - Khái niệm Quản lý Tài chính công. Nếu như ở những bài trước, chúng ta đã biết “Tài chính công” là các nguồn lực tài chính của Nhà nước, thì hôm nay chúng ta sẽ học cách “cầm cương” con ngựa đó. Có tiền mà không biết quản lý thì tiền núi cũng lở, đúng không nào?
+Người 2: Dạ thưa cô, em thấy môn này tên là “Quản lý Tài chính công”, vậy nó có khác gì với môn “Quản trị Tài chính doanh nghiệp” mà tụi em từng học không ạ?
+Người 1: Khác rất nhiều đấy. Nếu doanh nghiệp quản lý tiền để sinh lời cho ông chủ, thì Nhà nước quản lý tiền để phục vụ cộng đồng. Bài học hôm nay sẽ giúp các em hiểu rõ sự khác biệt căn bản đó ngay từ khái niệm đầu tiên. Chúng ta bắt đầu nhé!
+
+Slide 2: VỊ TRÍ VÀ CẤU TRÚC BÀI HỌC (Hình ảnh trên slide: Sơ đồ cây thư mục của Chương 1. Mục 1.2 “Tổng quan về Quản lý TCC” được tô đậm. Nhánh con 1.2.1 “Khái niệm” được phóng to và làm nổi bật màu đỏ. Bên cạnh là dòng chữ: “Mục tiêu: Làm rõ bản chất và các yếu tố cấu thành”).
+Người 1: Trước khi đi vào chi tiết, hãy nhìn xem chúng ta đang đứng ở đâu trong bản đồ môn học. Chúng ta đang ở mục 1.2.1: Khái niệm. Cô muốn hỏi một chút: Tại sao chúng ta phải học kỹ “Khái niệm” trước khi học về các quy trình thu chi cụ thể?
+Người 2: Dạ, em nghĩ là để thống nhất cách hiểu ạ. Vì nếu không nắm rõ khái niệm, sau này nói đến “Chủ thể quản lý” hay “Đối tượng quản lý” mình sẽ bị lúng túng không biết nó là ai hay cái gì.
+Người 1: Rất chính xác. Không chỉ vậy, việc nắm chắc khái niệm giúp các em có tư duy pháp lý đúng đắn. Ví dụ, khi nghe tin “Chính phủ cắt giảm chi tiêu công”, nếu hiểu đúng khái niệm, em sẽ biết ngay đó là một biện pháp của Chủ thể (Chính phủ) tác động vào Đối tượng (Chi ngân sách) nhằm đạt Mục tiêu (Kiềm chế lạm phát chẳng hạn). Slide này nhắc nhở chúng ta: Hãy đi từ gốc rễ vấn đề.
+
+Slide 3: THÀNH TỐ 1 - BẢN CHẤT CỦA QUẢN LÝ (NÓI CHUNG)
+Người 1: Để hiểu “Quản lý Tài chính công”, chúng ta dùng phương pháp tách từ. Đầu tiên là chữ “Quản lý”. Quên chuyện tiền nong đi, theo các em, quản lý nói chung là gì? Hãy nhìn sơ đồ trên bảng.
+Người 2: Nhìn sơ đồ thì em thấy quản lý là một quy trình. Phải có người đứng ra làm chủ (Chủ thể), dùng cách nào đó (Công cụ) để bắt cái gì đó (Đối tượng) phải theo ý mình (Mục tiêu).
+Người 1: Chuẩn xác. Cô lấy ví dụ đời thường nhé: Cảnh sát giao thông điều tiết ngã tư.
+• Chủ thể: Cảnh sát giao thông.
+• Công cụ/Phương pháp: Còi, gậy chỉ huy, Luật giao thông (phương pháp hành chính).
+• Tác động: Ra hiệu lệnh dừng/đi.
+• Đối tượng: Người tham gia giao thông và các phương tiện.
+• Mục tiêu: Không bị tắc đường, an toàn. Bản chất của quản lý chính là sự tác động có chủ đích. Các em nhớ kỹ 5 bước này nhé, vì lát nữa chúng ta sẽ điền từ vào chỗ trống cho Tài chính công.
+
+Slide 4: THÀNH TỐ 2 - TÀI CHÍNH CÔNG LÀ GÌ? (Hình ảnh trên slide: Sơ đồ dòng chảy đơn giản: Đầu vào (Thu) -> Hộp đen (Nhà nước) -> Đầu ra (Chi). Các dòng chữ quan trọng: “Tổng thể hoạt động thu, chi bằng tiền”, “Hệ thống các quan hệ kinh tế”, “Tạo lập và sử dụng các quỹ công”).
+Người 1: Vế thứ hai chúng ta cần ghép vào là “Tài chính công”. Trên slide là định nghĩa: “Tài chính công là tổng thể các hoạt động thu, chi bằng tiền do Nhà nước tiến hành”. Nhưng cô muốn các em chú ý dòng chữ nhỏ hơn bên dưới: “Phản ánh hệ thống các quan hệ kinh tế”. Tại sao lại gọi là quan hệ kinh tế?
+Người 2: Dạ, có phải vì khi Nhà nước thu thuế, nó tạo ra mối quan hệ giữa Nhà nước và người dân không ạ? Người dân mất tiền nhưng được hưởng dịch vụ công.
+Người 1: Đúng rồi. Đó là quan hệ phân phối. Ví dụ: Khi em đóng phí cầu đường (BOT) hay thuế xăng dầu, đó là em đang tham gia vào một quan hệ kinh tế với Nhà nước. Tiền của em chạy vào quỹ công, rồi quỹ đó lại chảy ra để xây đường cao tốc Bắc - Nam cho em đi. Vậy Tài chính công không chỉ là những tờ tiền nằm trong két sắt kho bạc, mà là sự vận động không ngừng của các dòng tiền và các mối quan hệ lợi ích xung quanh nó.
+
+Slide 5: KHÁI NIỆM QUẢN LÝ TÀI CHÍNH CÔNG (TỔNG HỢP) (Hình ảnh trên slide: Một bảng tổng hợp lớn kết hợp Slide 3 và Slide 4. Định nghĩa chính thức: “Quản lý tài chính công là hoạt động của các chủ thể quản lý… nhằm đạt được các mục tiêu đã định.” Liệt kê 5 yếu tố cấu thành:
+Người 1: Giờ là lúc chúng ta ghép hai mảnh ghép lại để ra khái niệm hoàn chỉnh của bài học hôm nay. Hãy nhìn định nghĩa trên slide. Nó khá dài, nhưng thực chất chỉ là việc thay thế các từ ngữ chuyên ngành vào cái khung “Quản lý” ở Slide 3.
+Người 2: Em thử ghép nhé: Lúc nãy là Cảnh sát giao thông, thì giờ Chủ thể là Nhà nước. Lúc nãy dùng còi, gậy, thì giờ Công cụ là Luật Ngân sách, Kế hoạch tài chính. Lúc nãy điều khiển xe cộ, thì giờ Đối tượng là điều khiển hoạt động thu chi ngân sách.
+Người 1: Tuyệt vời! Em đã nắm bắt rất nhanh. Nhưng có một điểm quan trọng cần lưu ý: Mục tiêu. Nếu Cảnh sát giao thông mục tiêu là hết tắc đường, thì Quản lý tài chính công mục tiêu là Lợi ích tổng thể kinh tế - xã hội. Tức là Nhà nước tiêu tiền không phải để cho vui, mà để dân giàu, nước mạnh, xã hội công bằng. Đây là slide quan trọng nhất của phần Khái niệm, các em hãy ghi chép lại 5 yếu tố cấu thành này cẩn thận, vì các phần sau của chương trình sẽ đi sâu phân tích từng gạch đầu dòng này.
+
+Slide 6: PHÂN TÍCH CHI TIẾT - 1. CHỦ THỂ QUẢN LÝ (THE SUBJECT) (Hình ảnh trên slide: Sơ đồ phân cấp quyền lực hình tháp. Đỉnh tháp là Quốc hội, ở giữa là Chính phủ, dưới cùng là các Bộ ngành/Địa phương. Hình ảnh minh họa: Một chiếc búa của chủ tọa phiên tòa (tượng trưng cho Quyền lực) đặt cạnh một chiếc máy tính (tượng trưng cho Kỹ thuật quản lý). Logo NotebookLM).
+Người 1: Chúng ta bắt đầu đi vào “mổ xẻ” từng bộ phận của cỗ máy. Đầu tiên là Chủ thể quản lý. Theo các em, ai là người quản lý tiền của đất nước?
+Người 2: Dạ, em nghĩ ngay đến Bộ Tài chính ạ. Hay là các cô chú thu thuế?
+Người 1: Đó là câu trả lời phổ biến nhưng chưa đủ. Chủ thể quản lý ở đây là Nhà nước, nhưng được phân công nhiệm vụ rất rõ ràng.
+• Quốc hội: Là người quyết định “chi cái gì, thu bao nhiêu”. Đây là quyền lực chính trị cao nhất.
+• Chính phủ & Bộ Tài chính: Là người thực thi, tức là người trực tiếp đi thu tiền và cầm tiền đi chi tiêu.
+• Ví dụ thực tế: Khi làm đường cao tốc Bắc - Nam, Quốc hội là người bấm nút “Đồng ý cấp vốn” (Quyết định), còn Bộ Giao thông Vận tải và Bộ Tài chính là người giải ngân từng đồng cho nhà thầu (Thực hiện). Vậy nên, chủ thể quản lý không chỉ là người giữ két sắt, mà là cả hệ thống quyền lực chính trị.
+
+Slide 7: PHÂN TÍCH CHI TIẾT - 2. ĐỐI TƯỢNG QUẢN LÝ (THE OBJECT) (Hình ảnh trên slide: Hình ảnh tảng băng trôi (Iceberg). Phần nổi (10%): Các quỹ tiền tệ (Thu - Chi). Phần chìm (90%): Các quan hệ kinh tế (Lợi ích, Hành vi, Phân phối). Câu hỏi lớn: “Bạn đang quản lý tiền hay quản lý hành vi?”).
+Người 1: Sang đến yếu tố thứ hai: Đối tượng quản lý. Đây là phần thú vị nhất và cũng dễ nhầm lẫn nhất. Nhìn vào slide “Tảng băng trôi”, các em thấy gì?
+Người 2: Em thấy phần nổi là “Tiền”, còn phần chìm là “Quan hệ kinh tế”. Có phải ý cô là việc đếm tiền chỉ là bề ngoài không ạ?
+Người 1: Chính xác! Một nhà quản lý tài chính công giỏi không nhìn vào tiền, mà nhìn vào sự vận động của kinh tế - xã hội đằng sau đồng tiền đó. Ví dụ kinh điển: Thuế tiêu thụ đặc biệt đánh vào thuốc lá.
+• Đối tượng bề nổi: Nhà nước thu được vài ngàn tỷ đồng tiền thuế mỗi năm.
+• Đối tượng chiều sâu (Quan hệ kinh tế): Nhà nước đang dùng tiền để điều chỉnh hành vi hút thuốc, giảm gánh nặng cho bệnh viện phổi, và cân bằng lợi ích giữa công ty thuốc lá và sức khỏe cộng đồng. Nếu chỉ chăm chăm thu cho nhiều tiền (Bề nổi) mà dân càng ốm yếu (Chiều sâu hỏng) thì quản lý đã thất bại.
+
+Slide 8: PHÂN TÍCH CHI TIẾT - 3. PHƯƠNG PHÁP QUẢN LÝ (THE METHODS) (Hình ảnh trên slide: Ba hình ảnh biểu tượng: Phương pháp Tổ chức: Sơ đồ cây (Organization Chart). Phương pháp Hành chính: Biển báo cấm/Búa đập (Mệnh lệnh). Phương pháp Kinh tế: Củ cà rốt và đồng tiền (Đòn bẩy lợi ích). Tiêu đề: “Nghệ thuật sử dụng Nhu và Cương”).
+Người 1: Có chủ thể, có đối tượng rồi, giờ làm sao để tác động? Chúng ta có 3 phương pháp, giống như “Nhu” và “Cương” trong võ thuật vậy.
+• Phương pháp Hành chính (Cương): Dùng mệnh lệnh, bắt buộc. Ví dụ: “Đến ngày 31/3 phải nộp quyết toán thuế, chậm 1 ngày phạt tiền”. Không thương lượng.
+• Phương pháp Kinh tế (Nhu): Dùng lợi ích để dẫn dụ.
+Người 2: Cô cho em ví dụ về phương pháp kinh tế được không ạ? Nghe có vẻ hấp dẫn hơn.
+Người 1: Rất hay dùng đấy. Ví dụ: Nhà nước muốn phát triển công nghệ cao. Thay vì ra lệnh “Các anh phải làm công nghệ cao đi”, Nhà nước dùng phương pháp kinh tế là: “Ai mở công ty phần mềm ở Khu Công nghệ cao Hòa Lạc sẽ được miễn thuế 4 năm, giảm 50% trong 9 năm tiếp theo”. Kết quả là các tập đoàn lớn tự động kéo về. Đó là cách dùng “mồi ngon” để quản lý dòng chảy đầu tư.
+
+Slide 9: PHÂN TÍCH CHI TIẾT - 4. CÔNG CỤ QUẢN LÝ (THE TOOLS) (Hình ảnh trên slide: Một hộp công cụ kỹ thuật (Toolbox) mở ra: Cờ lê, mỏ lết: Hệ thống Luật pháp (Luật NSNN, Luật Thuế). Bản đồ chỉ đường: Kế hoạch tài chính 5 năm/3 năm. Kính lúp: Thanh tra, Kiểm toán. Thước đo: Định mức chi tiêu. Góc slide có trích dẫn thực tế: “Luật Đầu tư công 2019”).
+Người 1: Phương pháp là chiến thuật, còn đây là vũ khí cụ thể: Công cụ quản lý. Công cụ quan trọng nhất là Pháp luật.
+Người 2: Tại sao lại cần nhiều công cụ thế ạ? Dùng Luật thôi chưa đủ sao cô?
+Người 1: Luật chỉ là khung cứng thôi. Để vận hành trơn tru cần những công cụ mềm dẻo hơn. Hãy lấy ví dụ về “Định mức chi tiêu” - cái thước đo kia kìa. Nếu không có định mức: Một cơ quan mua cái ghế 10 triệu, cơ quan khác mua cái ghế 1 triệu. Loạn ngay! Nhà nước ban hành công cụ “Định mức”: Ghế làm việc nhân viên tối đa 1,5 triệu/cái. Thế là tất cả phải tuân theo, đảm bảo tiết kiệm. Hay “Thanh tra/Kiểm toán” (cái kính lúp) để soi xem ai mua ghế giá khống. Các công cụ này phối hợp chặt chẽ để giữ tiền không bị thất thoát.
+
+Slide 10: PHÂN TÍCH CHI TIẾT - 5. MỤC TIÊU QUẢN LÝ (THE GOAL) (Hình ảnh trên slide: Hình ảnh so sánh tương phản: Bên trái: Một két sắt đầy tiền (Mục tiêu hẹp - Cân bằng ngân sách). Bên phải: Một xã hội thịnh vượng, trường học khang trang, người dân cười tươi (Mục tiêu cốt lõi - Lợi ích KT-XH). Dòng chữ lớn: “Hiệu quả - Ổn định - Công bằng”).
+Người 1: Chúng ta đến mảnh ghép cuối cùng: Mục tiêu quản lý. Quản lý vất vả như thế để làm gì? Có phải để Nhà nước “làm giàu” không?
+Người 2: Chắc chắn là không rồi ạ. Nhà nước giàu mà dân nghèo thì vô nghĩa.
+Người 1: Chuẩn. Mục tiêu tối thượng là Lợi ích tổng thể kinh tế - xã hội. Nó được chia làm 3 mục tiêu cụ thể:
+1. Phân bổ nguồn lực hiệu quả: Tiền phải chảy vào chỗ cần thiết nhất (như điện đường trường trạm).
+2. Ổn định kinh tế vĩ mô: Kiềm chế lạm phát, thất nghiệp.
+3. Công bằng xã hội: Lấy của người giàu chia cho người nghèo (thông qua phúc lợi).
+Người 2: Em nhớ đợt dịch Covid, Nhà nước chi rất nhiều tiền mua vắc-xin miễn phí. Lúc đó chắc chắn là lỗ nặng về tiền bạc cô nhỉ?
+Người 1: Đúng, ngân sách thâm hụt nặng. Nhưng đó là ví dụ tuyệt vời về mục tiêu QLTCC. Nhà nước chấp nhận “lỗ” về tài chính để đổi lấy “lãi” về sức khỏe và sự ổn định cho toàn xã hội. Đó chính là sự khác biệt vĩ đại giữa Tài chính công và Tài chính tư.
+
+Slide 11: TỔNG HỢP - HỆ THỐNG QUẢN LÝ TÀI CHÍNH CÔNG (Hình ảnh trên slide: Một sơ đồ dòng chảy (Flowchart) hoàn chỉnh kết nối 5 yếu tố đã học: CHỦ THỂ (Nhà nước) Sửdụng​ CÔNG CỤ & PHƯƠNG PHÁP (Luật, Kế hoạch…) Taˊcđộngvaˋo​ ĐỐI TƯỢNG (Thu/Chi & Quan hệ kinh tế) Nha ̆ˋmđạt​ MỤC TIÊU (Lợi ích KT-XH). Góc dưới: Logo NotebookLM).
+Người 1: Sau khi đã phân tích rời rạc từng bộ phận, bây giờ chúng ta hãy lắp ráp chúng lại thành một cỗ máy hoàn chỉnh. Các em hãy nhìn lên sơ đồ “Hệ thống Quản lý Tài chính công”.
+Người 2: Nhìn sơ đồ này em thấy nó giống như một quy trình khép kín cô nhỉ. Từ ông chủ (Nhà nước) đi một vòng rồi cuối cùng ra kết quả là Lợi ích xã hội.
+Người 1: Đúng vậy. Sơ đồ này cho chúng ta thấy logic vận hành của cả bộ máy: Muốn đạt được mục tiêu (ví dụ: Dân giàu nước mạnh), Nhà nước không thể dùng “tay không bắt giặc”, mà phải dùng Công cụ (Luật pháp, Chính sách). Và công cụ đó phải tác động đúng vào Đối tượng (Dòng tiền và Hành vi). Nếu một trong các mũi tên này bị gãy - ví dụ: Chính sách sai (Công cụ hỏng) hoặc tham nhũng (Đối tượng bị rút ruột) - thì Mục tiêu cuối cùng sẽ không bao giờ đạt được.
+Người 2: Dạ, vậy slide này chính là tấm bản đồ tổng quát nhất để mình nhớ bài hôm nay đúng không ạ?
+Người 1: Chính xác. Các em hãy chụp lại slide này, vì nó là “xương sống” tư duy cho tất cả các bài học về sau.
+
+Slide 12: BÀI TẬP VẬN DỤNG - TÌNH HUỐNG THỰC TẾ (Hình ảnh trên slide: Tiêu đề: “Bài tập tình huống: Thuế Bảo vệ Môi trường”. Hình minh họa: Một nhà máy đang xả khói và cán cân thuế (TAX). Đoạn văn tình huống: “Quốc hội thông qua Luật Thuế bảo vệ môi trường nhằm hạn chế các hành vi gây ô nhiễm và tăng nguồn thu ngân sách để tái tạo môi trường.” 4 câu hỏi gợi ý lớn: Chủ thể? Công cụ? Đối tượng? Mục tiêu?).
+Người 1: Học đi đôi với hành. Để xem các em đã thực sự hiểu “chiều sâu” của quản lý hay chưa, chúng ta cùng làm một bài tập tình huống thực tế đang áp dụng tại Việt Nam: Luật Thuế bảo vệ môi trường. Tình huống như trên slide. Bây giờ, cô mời một bạn hãy thử đóng vai nhà quản lý để chỉ ra 4 yếu tố cấu thành trong tình huống này nào.
+Người 2: (Hào hứng) Em xin xung phong ạ! Để em xem… Thứ nhất, Chủ thể chắc chắn là Quốc hội vì đề bài ghi “Quốc hội thông qua”. Thứ hai, Công cụ là cái Luật Thuế bảo vệ môi trường đó ạ. Cái thứ ba và thứ tư thì em đang phân vân chút…
+Người 1: Bình tĩnh nào. Hãy nhớ lại kiến thức “Tảng băng trôi” ở Slide 7. Đối tượng quản lý có “bề nổi” (tiền) và “chiều sâu” (quan hệ/hành vi). Em thử nhìn vào tình huống xem?
+Người 2: À, em hiểu rồi! Đối tượng bề nổi là cái “nguồn thu ngân sách” tăng thêm. Còn Đối tượng chiều sâu chính là cái “hành vi gây ô nhiễm” mà Nhà nước muốn hạn chế. Còn Mục tiêu… chắc chắn là “Môi trường xanh sạch đẹp” rồi ạ.
+Người 1: Phân tích rất sắc sảo! Chúng ta cùng xem đáp án chi tiết ở slide tiếp theo để xem bạn trả lời đúng 100% không nhé.
+
+Slide 13: LỜI GIẢI & PHÂN TÍCH (KẾT THÚC BÀI)
+Người 1: Chúc mừng em, câu trả lời hoàn toàn chính xác. Cô muốn nhấn mạnh lại một lần nữa ở phần Đối tượng: Rất nhiều người lầm tưởng Thuế môi trường là để Nhà nước kiếm tiền. Nhưng không, nhìn vào phân tích này, ta thấy mục đích sâu xa (chiều sâu) là đánh vào túi tiền để doanh nghiệp sợ mà giảm xả thải. Đó mới là đỉnh cao của Quản lý Tài chính công - dùng tiền để quản lý xã hội.
+Người 2: Dạ, nhờ bài tập này mà em vỡ vạc ra nhiều điều. Trước giờ em cứ nghĩ Thuế là chỉ để thu tiền thôi.
+Người 1: Đó chính là thành công của bài học hôm nay: Hiểu được bản chất “Quản lý” đằng sau các con số tài chính. Bài học “Khái niệm Quản lý Tài chính công” kết thúc tại đây. Về nhà các em hãy thử tìm một chính sách khác (ví dụ: Thuế rượu bia, hay Trợ cấp người nghèo) và tự phân tích theo 5 yếu tố này nhé. Cảm ơn các em đã lắng nghe. Hẹn gặp lại vào buổi sau với chủ đề: “Các công cụ quản lý tài chính công chi tiết”!
+Người 2: Dạ chúng em cảm ơn cô ạ!

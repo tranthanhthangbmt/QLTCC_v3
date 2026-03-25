@@ -1,0 +1,81 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Nội dung hình ảnh để trên 1 dòng, Hình ảnh trên slide: Tên môn học “Quản lý Tài chính công” và tên bài “Chương 1: 1.2.3. Nội dung Quản lý Tài chính công”. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Hôm nay chúng ta tiếp tục đi sâu vào Chương 1 của môn Quản lý Tài chính công. Cụ thể, chúng ta sẽ dừng lại ở mục 1.2.3: Nội dung Quản lý Tài chính công. Đây là phần 8 trong chuỗi bài giảng. Trước khi bắt đầu, cô muốn hỏi một chút: Khi nghe cụm từ “Quản lý tài chính công”, các em thường nghĩ đến hành động gì đầu tiên?
+Người 2: Dạ thưa cô, em thường nghĩ ngay đến việc Nhà nước đi thu thuế hoặc Chính phủ chi tiền xây cầu đường ạ.
+Người 1: Rất thực tế! Đó chính xác là những mảnh ghép quan trọng. Tuy nhiên, quản lý tài chính công không chỉ là việc thu tiền hay tiêu tiền rời rạc. Bài học hôm nay sẽ giúp các em xâu chuỗi các hành động đó lại thành một quy trình khoa học. Chúng ta cùng bắt đầu nhé.
+
+Slide 2: BA TRỤ CỘT CỦA NỘI DUNG QUẢN LÝ TÀI CHÍNH CÔNG (Nội dung hình ảnh: Sơ đồ 3 khối theo vòng tròn hoặc quy trình: 1. Quản lý quá trình Thu -> 2. Quản lý quá trình Chi -> 3. Quản lý Cân đối Thu, Chi. Dòng chữ nổi bật: “Từ khâu tập trung nguồn lực đến đảm bảo cân đối vĩ mô”)
+Người 1: Nhìn lên slide, các em sẽ thấy bức tranh toàn cảnh. Nội dung quản lý tài chính công thực chất xoay quanh 3 trụ cột chính, hay cô thường gọi là “vòng đời của đồng tiền công”.
+1. Đầu tiên là Quản lý quá trình Thu: Làm sao để có tiền?
+2. Tiếp theo là Quản lý quá trình Chi: Tiêu tiền vào đâu cho hiệu quả?
+3. Và cuối cùng, quan trọng nhất là Quản lý Cân đối Thu - Chi: Làm sao để không bị “vung tay quá trán”?
+Người 2: Thưa cô, vậy nghĩa là mình không được nhìn các khâu này tách rời nhau đúng không ạ?
+Người 1: Đúng vậy. Hãy tưởng tượng nó giống như việc hít thở của cơ thể. Thu là “hít vào”, Chi là “thở ra”, và Cân đối chính là nhịp thở đều đặn để cơ thể khỏe mạnh. Nếu chỉ chú trọng thu mà chi bừa bãi, hoặc chi quá nhiều mà không thu được, nền tài chính quốc gia sẽ bị “khó thở” ngay.
+Người 2: Em hiểu rồi ạ. Nó là một chu trình khép kín chứ không phải các con số nằm im trên giấy.
+
+Slide 3: QUẢN LÝ QUÁ TRÌNH THU: HÌNH THỨC VÀ NGUỒN THU (Nội dung hình ảnh: Sơ đồ phân nhánh. Nhánh 1: Quỹ Ngân sách Nhà nước (Thuế, Phí, Lệ phí, Bán tài sản công, Vay nợ…). Nhánh 2: Các quỹ tài chính nhà nước ngoài ngân sách (BHXH, BHYT…).)
+Người 1: Chúng ta đi vào trụ cột đầu tiên: Quản lý Thu. Tiền của Nhà nước đến từ đâu? Nhìn vào sơ đồ, chúng ta có hai nguồn lớn: Một là Quỹ Ngân sách Nhà nước (NSNN): Trong đó Thuế là nguồn thu chủ yếu và mang tính bắt buộc. Ngoài ra còn có phí, lệ phí, bán tài sản công (như bán cổ phần doanh nghiệp nhà nước), hay vay nợ. Hai là Các quỹ tài chính ngoài ngân sách: Ví dụ điển hình nhất là Quỹ Bảo hiểm xã hội hay Quỹ Bảo hiểm y tế.
+Người 2: Cô ơi, tại sao Quỹ Bảo hiểm xã hội lại gọi là “ngoài ngân sách” ạ? Chẳng phải cũng do Nhà nước quản lý sao?
+Người 1: Câu hỏi rất hay. Nó là “tài chính công” nhưng nằm “ngoài ngân sách” vì nguồn hình thành của nó khác.
+• NSNN (Thuế): Là khoản đóng góp bắt buộc không hoàn trả trực tiếp. Em đóng thuế nhưng không thể đòi Chính phủ phải xây con đường ngay trước cửa nhà em.
+• Quỹ ngoài ngân sách (BHXH): Có sự đóng góp của người dân và tổ chức (doanh nghiệp), có tính chất “có đi có lại”. Em đóng bảo hiểm để sau này em nhận lương hưu.
+• Ví dụ thực tế: Năm 2023, Quốc hội bàn rất nhiều về việc quản lý nguồn thu từ đất đai hay đấu giá biển số xe. Đó chính là việc đa dạng hóa nguồn thu vào NSNN đấy.
+
+Slide 4: CÁC BIỆN PHÁP QUẢN LÝ THU TÀI CHÍNH CÔNG (Nội dung hình ảnh: 6 ô chữ nhật đại diện cho 6 biện pháp: 1. Chính sách, 2. Kế hoạch, 3. Phân cấp, 4. Quy trình, 5. Giám sát, 6. Tổ chức bộ máy)
+Người 1: Có nguồn thu rồi, nhưng làm sao để thu đúng, thu đủ mà không tận thu hay thất thoát? Chúng ta có 6 biện pháp quản lý như trên slide. Cô muốn nhấn mạnh vào biện pháp “Quy trình” và “Giám sát”.
+Người 2: Có phải là việc các cán bộ thuế đi kiểm tra các cửa hàng không ạ?
+Người 1: Đúng nhưng chưa đủ.
+• Ví dụ thực tiễn: Các em có thấy dạo này đi ăn uống, mua sắm hay được yêu cầu xuất Hóa đơn điện tử (E-invoice) không? Đó chính là biện pháp cải tiến Quy trình và tăng cường Giám sát. Thay vì ghi chép tay dễ gian lận, hệ thống điện tử giúp ngành Thuế kiểm soát doanh thu thực tế của cửa hàng theo thời gian thực.
+• Hay biện pháp Phân cấp: Trung ương thu những khoản lớn (như thuế xuất nhập khẩu), còn địa phương được giữ lại một phần thuế thu nhập cá nhân hay phí lệ phí để chủ động chi tiêu.
+
+Slide 5: QUẢN LÝ QUÁ TRÌNH CHI: KHÁI NIỆM VÀ ĐẶC ĐIỂM (Nội dung hình ảnh: Định nghĩa “Chi TCC”. 3 Đặc điểm chính: 1. Quy mô lớn & đa dạng, 2. Tính chất không hoàn trả & hoàn trả, 3. Phạm vi: Chi NSNN + Chi Quỹ công)
+Người 1: Bây giờ chúng ta sang trụ cột thứ hai: Quản lý Chi. Khái niệm rất đơn giản: Là quá trình Nhà nước dùng tiền đã thu được để thực hiện chức năng của mình (y tế, giáo dục, an ninh…). Nhưng hãy chú ý đến đặc điểm: Quy mô lớn và Tính chất phức tạp.
+Người 2: Phức tạp ở chỗ “vừa hoàn trả, vừa không hoàn trả” đúng không cô?
+Người 1: Chính xác.
+• Không hoàn trả trực tiếp: Ví dụ Nhà nước chi tiền tiêm vắc-xin miễn phí cho toàn dân. Người dân được hưởng lợi nhưng không phải trả tiền trực tiếp lúc tiêm. Đây là cung cấp hàng hóa công cộng.
+• Có hoàn trả: Ví dụ Nhà nước đầu tư cho vay ưu đãi đối với sinh viên nghèo, hoặc đầu tư vào các dự án có thu phí để thu hồi vốn sau này. Việc quản lý hai loại chi này đòi hỏi cơ chế hoàn toàn khác nhau.
+
+Slide 6: CÁC BIỆN PHÁP QUẢN LÝ CHI TIÊU CÔNG (Nội dung hình ảnh: Thang bậc các biện pháp: Chính sách -> Kế hoạch -> Phân cấp -> Định mức -> Ưu tiên -> Quy trình -> Kiểm tra/Kiểm toán. Mục tiêu: Hiệu quả & Tiết kiệm)
+Người 1: Để quản lý “túi tiền” khổng lồ này, chúng ta cần các biện pháp chặt chẽ. Trong các biện pháp trên slide, cô muốn các em đặc biệt lưu ý đến “Định mức” và “Thứ tự ưu tiên”.
+Người 2: “Định mức” có phải là kiểu quy định “một ông Giám đốc sở chỉ được dùng xe công trị giá dưới 1 tỷ đồng” không ạ?
+Người 1: Rất chuẩn xác! Đó là ví dụ điển hình của Định mức chi tiêu. Nếu không có định mức, ai cũng muốn dùng xe sang, ngồi phòng lạnh, gây lãng phí ngân sách.
+• Còn về Thứ tự ưu tiên: Ví dụ thực tế, trong đại dịch COVID-19 vừa qua, Nhà nước đã phải cắt giảm rất nhiều khoản chi cho hội nghị, khánh tiết, đi công tác nước ngoài để dồn toàn lực (ưu tiên số 1) cho chi mua vắc-xin và hỗ trợ y tế. Đó chính là quản lý chi tiêu dựa trên bối cảnh thực tế.
+• Cuối cùng là Kiểm toán: Kiểm toán Nhà nước sẽ vào cuộc để xem anh tiêu tiền có đúng định mức và mục đích không. Nếu sai phạm sẽ bị xử lý.
+Người 2: Dạ, nhờ ví dụ của cô mà em thấy các biện pháp này rất gần gũi, không hề khô khan chút nào ạ.
+Người 1: Tốt lắm. Vậy khi đã biết Thu thế nào, Chi ra sao, làm thế nào để giữ cho hai cán cân này thăng bằng? Chúng ta sẽ sang phần tiếp theo về Cân đối Thu - Chi.
+
+Slide 7: QUẢN LÝ CÂN ĐỐI THU - CHI: MỐI QUAN HỆ BIỆN CHỨNG (Nội dung hình ảnh: Hình ảnh chiếc cân đĩa đang dao động. Đĩa trái: “Nguồn lực (Khả năng kinh tế)”. Đĩa phải: “Nhu cầu (Nhiệm vụ chi)”. Dòng chữ lớn: “Thu là tiền đề và giới hạn của Chi”. Góc dưới có logo NotebookLM)
+Người 1: Chúng ta vừa tìm hiểu cách quản lý Thu và cách quản lý Chi. Bây giờ hãy đặt chúng lên bàn cân. Slide số 7 nói về mối quan hệ biện chứng giữa chúng. Nguyên lý vàng ở đây là: “Thu là tiền đề và giới hạn của chi”.
+Người 2: Câu này nghe có vẻ hiển nhiên, có tiền mới chi được. Nhưng “biện chứng” ở đây nghĩa là sao ạ? Có phải chỉ là thu bao nhiêu tiêu bấy nhiêu không?
+Người 1: Không đơn giản thế. “Biện chứng” nghĩa là chúng tác động qua lại lẫn nhau và phụ thuộc vào sức khỏe nền kinh tế.
+• Nhìn vào chiếc cân: Một bên là Nguồn lực (Khả năng nền kinh tế tạo ra tiền), bên kia là Nhu cầu (Nhà nước cần tiêu gì).
+• Ví dụ thực tế: Khi kinh tế suy thoái (như đợt dịch COVID-19), doanh nghiệp đóng cửa thì nguồn thu Thuế giảm mạnh (bên Nguồn lực nhẹ đi). Lúc này, nếu Nhà nước vẫn giữ nguyên nhu cầu chi tiêu xa xỉ, cán cân sẽ lệch hẳn, gây thâm hụt ngân sách nghiêm trọng. Ngược lại, chính sách Thu - Chi hợp lý sẽ kích thích kinh tế tăng trưởng.
+
+Slide 8: GIẢI PHÁP ĐẢM BẢO CÂN ĐỐI TÀI CHÍNH CÔNG (Nội dung hình ảnh: Mô hình “Ngôi nhà Tài chính công”. Mái nhà: Quỹ dự phòng/Dự trữ. 3 Cột trụ: Thu đúng - Chi tiết kiệm - Nguyên tắc hụt thu giảm chi. Nền móng: Phát triển kinh tế. Góc dưới có logo NotebookLM)
+Người 1: Vậy làm sao để giữ cái cân đó thăng bằng? Các em hãy nhìn vào mô hình “Ngôi nhà” trên slide này. Đây là các giải pháp cốt lõi. Cô muốn các em chú ý đến Nền móng. Tại sao móng nhà lại là “Bảo đảm phát triển kinh tế” mà không phải là “Tăng thuế”?
+Người 2: Em nghĩ là nếu kinh tế không phát triển, dân không có tiền thì Nhà nước có muốn tăng thuế cũng không thu được gì ạ. Giống như “nước nổi thì thuyền mới nổi”.
+Người 1: Rất chính xác! Đó là tư duy “nuôi dưỡng nguồn thu”.
+• Bên cạnh đó, hãy nhìn lên Mái nhà: Đó là Dự phòng. Trong quản lý tài chính công, bao giờ cũng phải để dành một khoản (khoảng 2-5% tổng chi) để phòng khi thiên tai, dịch bệnh bất ngờ.
+• Và một nguyên tắc thép ở phần cột trụ: “Nếu hụt thu kế hoạch thì phải giảm chi tương ứng”. Không thể cứ vay mượn mãi để bù đắp được.
+
+Slide 9: BÀI TẬP VẬN DỤNG: TÌNH HUỐNG QUẢN LÝ CÂN ĐỐI (Nội dung hình ảnh: Icon cảnh báo đỏ và đồ thị đi xuống. Text: “Quốc gia A suy thoái kinh tế -> Thu sụt giảm. Câu hỏi: Làm gì để cân đối?”. Góc dưới có logo NotebookLM)
+Người 1: Để các em nhớ lâu hơn, chúng ta làm một bài tập tình huống nhé.
+• Tình huống: Quốc gia A đang suy thoái, các nhà máy đóng cửa, số tiền thuế thu được thấp hơn nhiều so với dự tính đầu năm. Nhưng Chính phủ vẫn muốn giữ nguyên các khoản chi tiêu như cũ (xây tượng đài, tổ chức lễ hội, trả lương…).
+• Câu hỏi: Theo em, nguyên nhân gốc rễ là gì và Quốc gia A phải làm gì NGAY LẬP TỨC?
+Người 2: Dạ, theo lý thuyết ở Slide 7, nguyên nhân gốc rễ chắc chắn là do kinh tế suy yếu nên không có nguồn lực. Còn giải pháp… em nghĩ là phải đi vay nợ gấp có được không ạ?
+Người 1: Vay nợ là một cách, nhưng không phải là cách bền vững nhất lúc này. Nếu cứ vay để tiêu dùng thì sẽ vỡ nợ. Các em hãy suy nghĩ về việc “thắt lưng buộc bụng” xem sao. Chúng ta cùng xem đáp án ở slide sau nhé.
+
+Slide 10: LỜI GIẢI GỢI Ý (Nội dung hình ảnh: Checklist 3 mục hành động. 1. Thu: Chống thất thu (không lạm thu). 2. Chi: Cắt giảm chi chưa cấp thiết. 3. Dự phòng: Sử dụng quỹ dự trữ. Góc dưới có logo NotebookLM)
+Người 1: Đây là lời giải gợi ý của các chuyên gia quản lý tài chính công:
+1. Về Thu: Không được tăng thuế bừa bãi (gọi là lạm thu) vì sẽ làm doanh nghiệp chết hẳn. Thay vào đó, phải thanh tra để bắt những kẻ trốn thuế, đảm bảo thu đúng, thu đủ.
+2. Về Chi: Đây là lúc áp dụng nguyên tắc “hụt thu thì giảm chi”.
+o Ví dụ thực tế: Năm 2023, Chính phủ Việt Nam đã yêu cầu các Bộ, ngành cắt giảm tối thiểu 5% các khoản chi thường xuyên (như chi hội nghị, tiếp khách, đi nước ngoài) để dành nguồn lực cho các nhiệm vụ cấp bách hơn. Đó chính là hành động cụ thể của bài học này.
+3. Về Dự phòng: Lúc này mới lôi “của để dành” (Quỹ dự trữ tài chính) ra dùng để bù đắp thiếu hụt tạm thời.
+Người 2: À, em hiểu rồi. Tức là phải kết hợp cả “vừa kiếm thêm (từ chỗ bị sót), vừa bớt tiêu, vừa dùng tiền tiết kiệm” chứ không chỉ dựa vào một cách.
+
+Slide 11: TỔNG KẾT PHẦN 8 (Nội dung hình ảnh: Sơ đồ tư duy tóm tắt 3 vòng tròn giao nhau: Thu - Chi - Cân đối. Dòng chữ: “Hẹn gặp lại ở Phần 9: Cơ quan quản lý và cán bộ tài chính công”. Góc dưới có logo NotebookLM)
+Người 1: Vậy là chúng ta đã đi hết Phần 8 của chương trình. Chúng ta đã cùng nhau xây dựng bức tranh toàn cảnh về Quản lý Tài chính công qua 3 mảnh ghép:
+• Quản lý Thu (Làm sao có tiền?)
+• Quản lý Chi (Tiêu sao cho đáng?)
+• Quản lý Cân đối (Giữ thăng bằng thế nào?)
+Người 2: Bài học hôm nay giúp em hiểu rằng Tài chính công không khô khan, mà nó phản ánh sức khỏe của cả nền kinh tế và túi tiền của mỗi người dân chúng ta.
+Người 1: Đúng vậy. Nhưng ai là người đứng sau thực hiện những công việc khổng lồ này? Đó là Bộ Tài chính, Kho bạc hay cơ quan Thuế? Nhiệm vụ của họ là gì? Chúng ta sẽ tìm hiểu kỹ ở Phần 9: Cơ quan quản lý và cán bộ tài chính công. Cảm ơn các em đã lắng nghe. Hẹn gặp lại vào buổi sau!

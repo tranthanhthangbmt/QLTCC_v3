@@ -1,0 +1,123 @@
+﻿Slide 1: TRANG BÌA (QUẢN LÝ TÀI CHÍNH CÔNG - CHƯƠNG 2) ( Hình ảnh trên slide: Tên môn học “Quản lý Tài chính công” và tên bài “Tiết 6: Cơ chế cân đối, vay nợ và thẩm quyền”. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Hôm nay chúng ta sẽ đi vào mảnh ghép cuối cùng và cũng là mảnh ghép phức tạp nhất của Chương 2. Chúng ta đang ở Tiết 6: “Cơ chế cân đối, vay nợ và thẩm quyền trong chu trình ngân sách”. Nếu như các tiết trước chúng ta đã biết cách lập dự toán, biết quy trình thu chi, thì hôm nay chúng ta sẽ trả lời câu hỏi: “Nếu tiền thu không đủ chi thì làm thế nào?” và “Ai có quyền quyết định những con số khổng lồ đó?”.
+Người 2: Dạ thưa cô, nghe tiêu đề “Vay nợ” và “Cân đối” là em thấy “nóng” rồi ạ. Có phải bài này sẽ giải thích tại sao một số tỉnh thành giàu như TP.HCM hay Hà Nội phải điều tiết tiền về Trung ương, trong khi các tỉnh miền núi lại được nhận tiền về không ạ?
+Người 1: Rất chính xác. Đó chính là cốt lõi của vấn đề cân đối ngân sách mà chúng ta sẽ mổ xẻ ngay sau đây. Bài học này không chỉ là kỹ thuật quản lý, mà còn là câu chuyện về sự công bằng và chia sẻ nguồn lực quốc gia. Chúng ta bắt đầu nhé.
+
+Slide 2: NỘI DUNG CHÍNH BÀI HỌC ( Hình ảnh trên slide: 3 trụ cột gồm “1. Điều hòa & Bổ sung”, “2. Phân cấp vay nợ”, “3. Thẩm quyền quyết định”. Góc dưới có logo NotebookLM)
+Người 1: Để ổn định tài chính địa phương, bài học hôm nay của chúng ta sẽ xoay quanh 3 trụ cột chính như trên slide các em đang thấy.
+• Thứ nhất là Điều hòa & Bổ sung: Đây là công cụ để “lấy chỗ thừa bù chỗ thiếu”.
+• Thứ hai là Phân cấp vay nợ: Khi thiếu tiền đầu tư, địa phương được vay như thế nào?
+• Thứ ba là Thẩm quyền quyết định: Quyền hạn của Quốc hội và Hội đồng nhân dân (HĐND) nằm ở đâu?
+Người 2: Em thấy phần “Phân cấp vay nợ” có vẻ mới mẻ. Trước giờ em cứ nghĩ chỉ có Chính phủ (Trung ương) mới đi vay nợ nước ngoài hay phát hành trái phiếu, chứ không nghĩ các tỉnh cũng được làm việc này.
+Người 1: Đúng vậy, đây là một điểm mở trong Luật Ngân sách Nhà nước (NSNN) 2015. Tuy nhiên, không phải tỉnh nào muốn vay bao nhiêu cũng được, mà phải có những “hàng rào” kỹ thuật rất chặt chẽ. Chúng ta sẽ tìm hiểu kỹ ở phần giữa bài. Nhưng trước hết, mình phải hiểu tại sao lại cần điều hòa ngân sách đã.
+
+Slide 3: VẤN ĐỀ CỐT LÕI - MẤT CÂN ĐỐI TÀI KHÓA ( Hình ảnh trên slide: Cán cân lệch với một bên là “Nhiệm vụ chi” nặng hơn “Nguồn thu”, minh họa Mất cân đối dọc và ngang. Góc dưới có logo NotebookLM)
+Người 1: Nhìn vào hình ảnh cán cân bị lệch này, các em sẽ thấy vấn đề muôn thuở của tài chính công: Mất cân đối tài khóa. Nó diễn ra theo hai chiều: Dọc và Ngang.
+• Mất cân đối theo chiều dọc (Vertical Imbalance): Là khi Chính phủ giao cho địa phương quá nhiều việc (nhiệm vụ chi) nhưng lại cho họ quá ít nguồn thu.
+• Mất cân đối theo chiều ngang (Horizontal Imbalance): Là sự chênh lệch giàu nghèo giữa các vùng miền.
+Người 2: Cô có thể cho một ví dụ thực tế ở Việt Nam để tụi em dễ hình dung sự “mất cân đối ngang” này khủng khiếp cỡ nào không ạ?
+Người 1: Được chứ. Ví dụ như năm 2023, TP.HCM thu ngân sách đạt hơn 446.000 tỷ đồng. Trong khi đó, một tỉnh miền núi như Bắc Kạn hay Lai Châu, số thu nội địa chỉ quanh quẩn khoảng 800 - 2.000 tỷ đồng. Chênh lệch nhau hàng trăm lần! Nhưng vấn đề là: Một đứa trẻ sinh ra ở TP.HCM hay ở Bắc Kạn đều có quyền được hưởng giáo dục, y tế công cộng cơ bản như nhau. Nếu để các tỉnh tự bơi, thì Bắc Kạn lấy tiền đâu xây trường, trả lương giáo viên? Đó chính là lý do chúng ta cần cơ chế điều hòa.
+
+Slide 4: CÔNG CỤ ĐIỀU HÒA NGÂN SÁCH ( Hình ảnh trên slide: Sơ đồ dòng tiền từ TW xuống địa phương qua 2 kênh: “Tỷ lệ % phân chia” và “Số bổ sung”. Góc dưới có logo NotebookLM)
+Người 1: Để xử lý sự mất cân đối đó, Luật NSNN 2015 trang bị cho chúng ta 2 công cụ quyền lực:
+1. Tỷ lệ phần trăm (%) phân chia: Áp dụng cho các khoản thu mà cả Trung ương và Địa phương cùng hưởng (ví dụ: Thuế GTGT, Thuế TNDN…).
+2. Số bổ sung ngân sách (Transfers): Là việc Trung ương rút ví “cho thẳng” địa phương một khoản tiền.
+Người 2: Em hiểu nôm na thế này cô xem đúng không nhé:
+• Tỷ lệ %: Giống như đi làm chung, tiền kiếm được chia theo tỷ lệ. Anh Hà Nội giàu thì chỉ được giữ lại 35%, còn 65% nộp về TW. Còn tỉnh nghèo thì được giữ lại 100%.
+• Số bổ sung: Là dù đã giữ lại 100% rồi mà tỉnh nghèo vẫn không đủ sống, thì TW phải “bơm” thêm tiền cứu trợ.
+Người 1: Rất xuất sắc! Cách ví von của em rất sát thực tế. Ví dụ thực tế giai đoạn 2022-2025: TP.HCM là địa phương làm ra nhiều tiền nhất nhưng chỉ được giữ lại 21% các khoản thu phân chia, còn lại nộp về Trung ương để Trung ương lấy số tiền đó làm “Số bổ sung” cho các tỉnh khó khăn hơn. Đây chính là tính nhân văn và thống nhất của nền tài chính quốc gia.
+
+Slide 5: PHÂN BIỆT HAI LOẠI BỔ SUNG NGÂN SÁCH ( Hình ảnh trên slide: Bảng so sánh “Bổ sung cân đối” và “Bổ sung có mục tiêu”. Góc dưới có logo NotebookLM)
+Người 1: Đi sâu hơn vào công cụ thứ 2 là “Số bổ sung”. Không phải cứ đưa tiền là xong, mà dòng tiền này chia làm 2 loại với tính chất pháp lý khác hẳn nhau:
+1. Bổ sung cân đối (Unconditional): Cho để đảm bảo sự tồn tại của bộ máy.
+2. Bổ sung có mục tiêu (Conditional): Cho để làm việc cụ thể.
+Người 2: Nhìn vào slide, em thấy loại “Bổ sung cân đối” có vẻ “dễ thở” hơn vì địa phương được chủ động phân bổ. Còn loại “có mục tiêu” thì bị ràng buộc chặt chẽ. Cô cho em ví dụ để phân biệt rõ hơn được không ạ?
+Người 1: Chắc chắn rồi.
+• Bổ sung cân đối: Ví dụ tỉnh Hà Giang thu không đủ chi. Trung ương cấp cho 5.000 tỷ để “cân đối”. Tỉnh sẽ dùng tiền này để trả lương công chức, điện nước cơ quan, hoạt động thường xuyên… Miễn sao bộ máy chạy được. Tỉnh được quyền quyết định chi cho sở nào bao nhiêu.
+• Bổ sung có mục tiêu: Trung ương cấp 200 tỷ cho Hà Giang nhưng ghi rõ: “Tiền này để thực hiện Chương trình Mục tiêu Quốc gia xây dựng Nông thôn mới”. Lúc này, Hà Giang buộc phải dùng 200 tỷ đó để làm đường xã, xây nhà văn hóa thôn… chứ không được lấy tiền đó đi xây trụ sở UBND tỉnh hay trả lương. Đó là sự khác biệt về kỷ luật tài khóa.
+
+Slide 6: TẠI SAO VÀ KHI NÀO ÁP DỤNG BỔ SUNG? (Hình ảnh trên slide: 4 mảnh ghép lý do gồm “Thiếu hụt cơ bản”, “Nhiệm vụ mới”, “Khuyến khích”, “Rủi ro”. Góc dưới có logo NotebookLM)
+Người 1: Chúng ta vừa biết có tiền “bổ sung”, vậy khi nào thì Trung ương mới chịu rút ví? Luật quy định 4 trường hợp cụ thể như trên bảng.
+1. Thiếu hụt cơ bản: Đơn giản là tỉnh quá nghèo, thu không đủ chi tối thiểu.
+2. Nhiệm vụ mới: Khi Trung ương bỗng nhiên giao thêm việc (ví dụ: Chính sách miễn học phí mới) thì phải cấp thêm tiền để làm.
+3. Khuyến khích: Để địa phương hào hứng làm các dự án trọng điểm.
+4. Xử lý rủi ro: Thiên tai, dịch bệnh bất ngờ.
+Người 2: Em thấy cái số 2 “Nhiệm vụ mới” rất hay xảy ra. Ví dụ như đợt dịch COVID-19 vừa rồi, địa phương phải chi bao nhiêu tiền chống dịch, chắc chắn là phải chờ Trung ương cấp bổ sung chứ ngân sách tỉnh làm sao chịu nổi cô nhỉ?
+Người 1: Chính xác. Đó là ví dụ điển hình của việc “giao nhiệm vụ thì phải giao nguồn lực”. Hay như trường hợp bão Yagi vừa qua, các tỉnh miền núi phía Bắc bị thiệt hại nặng nề, quỹ dự trữ địa phương cạn kiệt ngay lập tức. Lúc này, Trung ương buộc phải cấp bổ sung có mục tiêu khẩn cấp để cứu trợ và khôi phục hạ tầng.
+
+Slide 7: XU HƯỚNG QUẢN LÝ TRONG THỜI KỲ ỔN ĐỊNH ( Hình ảnh trên slide: Biểu đồ bậc thang thể hiện mức thu giữ lại tăng lên trong thời kỳ ổn định và điều chỉnh sau khi hết thời kỳ. Góc dưới có logo NotebookLM)
+Người 1: Ở Việt Nam, chúng ta không tính lại tỷ lệ chia tiền mỗi năm, mà giữ cố định trong 5 năm. Gọi là “Thời kỳ ổn định ngân sách”. Nguyên tắc vàng là: Trong 5 năm đó, nếu địa phương cày cuốc làm ăn tốt, thu vượt dự toán, thì địa phương được hưởng trọn phần vượt đó.
+Người 2: À, em hiểu rồi. Giống như khoán doanh số cho nhân viên kinh doanh đúng không cô? Sếp bảo năm nay chỉ tiêu 1 tỷ, nếu em bán được 2 tỷ thì em hưởng hoa hồng cao. Như vậy mới có động lực để các tỉnh thu hút đầu tư chứ ạ.
+Người 1: Rất thông minh. Nếu năm nào cũng tính lại và cắt bớt phần vượt thu, thì các tỉnh sẽ nảy sinh tâm lý “làm nhiều bị cắt nhiều”, rồi họ sẽ ỷ lại, không chịu phấn đấu tăng thu nữa. Tuy nhiên, hết 5 năm, Trung ương sẽ xem xét lại. Nếu thấy tỉnh đó giàu lên hẳn rồi, thì tỷ lệ điều tiết về Trung ương sẽ tăng lên để chia sẻ cho các tỉnh nghèo khác.
+
+Slide 8: PHÂN CẤP THẨM QUYỀN VAY NỢ ( Hình ảnh trên slide: Két sắt với 3 chìa khóa: “Quyền quyết định”, “Giới hạn”, “Phương thức”. Góc dưới có logo NotebookLM)
+Người 1: Chuyển sang trụ cột thứ 2: Vay nợ. Đây là con dao hai lưỡi. Cho địa phương vay để có vốn đầu tư hạ tầng nhanh hơn, nhưng nếu vỡ nợ thì cả quốc gia gánh hậu quả. Vì thế phải quản lý qua 3 yếu tố: Ai được vay? Vay bao nhiêu? Và Vay bằng cách nào?
+Người 2: Em thấy nhiều nước, chính quyền thành phố vỡ nợ là chuyện bình thường. Ở Việt Nam mình đã có tỉnh nào tuyên bố phá sản chưa cô?
+Người 1: Ở Việt Nam thì chưa, vì Luật NSNN của chúng ta kiểm soát cực kỳ chặt chẽ, theo nguyên tắc “Quản lý thống nhất”. Chúng ta không để địa phương tự do vay mượn tràn lan. Cụ thể ai được vay, mời các em sang slide tiếp theo.
+
+Slide 9: AI CÓ QUYỀN VAY NỢ? (Hình ảnh trên slide: Mô hình tháp phân cấp. Đỉnh tháp là “UBND Cấp Tỉnh (Được vay)”, đáy tháp là “Huyện/Xã (Cấm vay)”. Góc dưới có logo NotebookLM)
+Người 1: Nhìn vào mô hình tháp này, câu trả lời là duy nhất: Chỉ có Chính quyền Cấp Tỉnh (UBND Tỉnh/Thành phố trực thuộc TW) mới có quyền vay vốn. Huyện, Xã tuyệt đối KHÔNG.
+Người 2: Tại sao lại cấm tiệt huyện, xã vậy cô? Ví dụ một huyện muốn vay tiền làm lại cái chợ trung tâm cho khang trang thì cũng hợp lý mà?
+Người 1: Vì hai lý do:
+1. Năng lực quản lý: Quản lý nợ công rất phức tạp, đòi hỏi trình độ chuyên môn cao mà cấp xã/huyện thường chưa đáp ứng được.
+2. Rủi ro đạo đức: Nếu 700 huyện và hơn 10.000 xã trên cả nước đều đi vay, Trung ương không thể kiểm soát nổi tổng nợ công quốc gia. Lưu ý kỹ: Ngay cả cấp Tỉnh muốn vay cũng phải được HĐND tỉnh đồng ý và dự án đó phải nằm trong kế hoạch đầu tư công trung hạn.
+
+Slide 10: KHUÔN KHỔ GIỚI HẠN NỢ (THE DEBT CAGE) ( Hình ảnh trên slide: Cái lồng sắt nhốt con quái vật “Nợ xấu”. Trên lồng ghi 4 quy tắc: “Chỉ đầu tư”, “Không vay trực tiếp”, “Trần dư nợ”, “Tự trả”. Góc dưới có logo NotebookLM)
+Người 1: Đây là slide quan trọng nhất về nợ: “4 Điều Răn” của việc vay nợ địa phương. Quan trọng nhất là điều số 1: Chỉ vay cho ĐẦU TƯ PHÁT TRIỂN. Tuyệt đối không vay để Ăn tiêu (Chi thường xuyên).
+Người 2: Tức là không được vay để trả lương giáo viên, bác sĩ hay mua giấy mực in ấn đúng không ạ?
+Người 1: Chuẩn xác. Vay là phải tạo ra tài sản (đường, cầu, cống, trường học) để tài sản đó thúc đẩy kinh tế phát triển trong tương lai. Nếu vay về để ăn tiêu thì lấy gì trả nợ? Đó là nguyên tắc tối thượng để tránh bẫy nợ. Ngoài ra, địa phương không được ra nước ngoài vay trực tiếp. Muốn vay WB hay ADB, Chính phủ sẽ đứng ra vay, rồi cho tỉnh vay lại (cơ chế vay lại).
+
+Slide 11: PHƯƠNG THỨC HUY ĐỘNG VỐN ( Hình ảnh trên slide: Minh họa “Trái phiếu Chính quyền địa phương” và dòng vốn “ODA vay lại”. Góc dưới có logo NotebookLM)
+Người 1: Vậy địa phương lấy tiền từ đâu? Có 3 kênh chính:
+1. Phát hành Trái phiếu Chính quyền địa phương: TP.HCM và Hà Nội rất hay làm cách này.
+2. Vay lại vốn ODA: Như dự án Metro Bến Thành - Suối Tiên, TP.HCM đang vay lại vốn ODA của Chính phủ (vốn JICA Nhật Bản).
+3. Vay từ các quỹ đầu tư tài chính nhà nước.
+Người 2: Em nghe nói mua trái phiếu Chính quyền địa phương an toàn lắm phải không cô?
+Người 1: Rất an toàn, rủi ro gần như bằng 0, nhưng lãi suất thường thấp hơn trái phiếu doanh nghiệp. Đây là cách địa phương huy động vốn nhàn rỗi trong dân để xây dựng hạ tầng cho chính địa phương mình.
+
+Slide 12: PHÂN CẤP QUYẾT ĐỊNH TRONG CHU TRÌNH NGÂN SÁCH ( Hình ảnh trên slide: Vòng tròn khép kín 3 giai đoạn: "1. Lập dự toán" $\rightarrow$ "2. Chấp hành" $\rightarrow$ "3. Quyết toán". Ở giữa là biểu tượng Tòa nhà Quốc hội/HĐND. Góc dưới có logo NotebookLM)
+Người 1: Chúng ta đến với trụ cột cuối cùng: Thẩm quyền quyết định.
+Trong một gia đình, người kiếm tiền và tiêu tiền có thể là bố mẹ, nhưng người quyết định chi bao nhiêu cho việc lớn (như mua nhà, mua xe) phải là sự thống nhất của cả gia đình.
+Trong ngân sách nhà nước cũng vậy, quyền lực cao nhất thuộc về Cơ quan dân cử (Quốc hội và HĐND) và quyền lực này bao trùm cả 3 giai đoạn:
+1. Lập dự toán: Quyết định năm sau được thu bao nhiêu, chi bao nhiêu.
+2. Chấp hành: Giám sát xem Chính phủ/UBND có tiêu đúng không.
+3. Quyết toán: Phê chuẩn số liệu cuối cùng, xem xét trách nhiệm nếu có sai phạm.
+Người 2: Thưa cô, em thấy bình thường Bộ Tài chính hay Sở Tài chính là nơi tính toán các con số. Vậy tại sao mình không để họ quyết định luôn cho nhanh mà phải trình ra Quốc hội hay HĐND làm gì cho mất thời gian ạ?
+Người 1: Câu hỏi rất hay. Bộ Tài chính hay Sở Tài chính là cơ quan chuyên môn, họ giỏi tính toán kỹ thuật. Nhưng Ngân sách là tiền thuế của dân.
+Chỉ có những người đại diện cho dân (Đại biểu Quốc hội, Đại biểu HĐND) mới có quyền quyết định tiền của dân nên dùng vào việc gì (xây trường học hay xây tượng đài).
+Cơ quan tài chính giống như "Kiến trúc sư" vẽ bản thiết kế, còn Quốc hội/HĐND mới là "Chủ nhà" chốt phương án thi công. Chủ nhà gật đầu thì Kiến trúc sư mới được làm.
+
+Slide 13: SO SÁNH THẨM QUYỀN QUYẾT ĐỊNH ( Hình ảnh trên slide: Bảng so sánh 2 cột. Cột trái "Quốc hội" và cột phải "HĐND Tỉnh" phản chiếu nhau như soi gương. Góc dưới có logo NotebookLM)
+Người 1: Để các em dễ nhớ bài, cô gọi đây là "Nguyên tắc soi gương".
+Quyền hạn của HĐND cấp Tỉnh gần như là hình ảnh phản chiếu thu nhỏ của Quốc hội.
+• Quốc hội quyết định cho cả nước.
+• HĐND Tỉnh quyết định cho địa phương mình.
+Hãy nhìn vào bảng so sánh:
+• Quốc hội quyết định dự toán Quốc gia $\rightarrow$ HĐND quyết định dự toán Địa phương.
+• Quốc hội phê chuẩn quyết toán Quốc gia $\rightarrow$ HĐND phê chuẩn quyết toán Địa phương.
+Người 2: Em nhìn kỹ thấy có một điểm khác biệt nhỏ ở dòng thứ 2 ạ. Quốc hội quyết định "Mức bội chi", còn HĐND lại quyết định "Tổng mức vay". Tại sao HĐND không được quyết định mức bội chi của tỉnh mình ạ?
+Người 1: Em rất tinh ý! Đây là điểm bẫy trong các bài thi trắc nghiệm.
+Theo Luật NSNN, chỉ có Ngân sách Trung ương mới được phép có bội chi (chi nhiều hơn thu) để kiến thiết quốc gia. Còn Ngân sách Địa phương về nguyên tắc là phải cân bằng (thu bao nhiêu chi bấy nhiêu).
+Tuy nhiên, địa phương được phép vay nợ để đầu tư (như ta đã học ở các slide trước), nên HĐND sẽ quyết định "Tổng hạn mức được phép vay" chứ không quyết định bội chi theo nghĩa rộng như Quốc hội. Nhớ kỹ chi tiết này nhé!
+
+Slide 14: BÀI TẬP VẬN DỤNG - TÌNH HUỐNG THỰC TẾ ( Hình ảnh trên slide: Một hồ sơ đề xuất vay vốn của “Tỉnh X” với con số 50 triệu USD từ WB, bên cạnh là dấu hỏi chấm lớn. Góc dưới có logo NotebookLM)
+Người 1: Chúng ta đã học xong lý thuyết. Bây giờ, cô muốn các em đóng vai là chuyên viên Vụ Ngân sách Nhà nước (Bộ Tài chính) để thẩm định hồ sơ sau.
+• Tình huống: Tỉnh X là một tỉnh miền núi nghèo (chưa tự cân đối được ngân sách).
+• Đề xuất năm 2024: Tỉnh muốn vay 50 triệu USD trực tiếp từ Ngân hàng Thế giới (WB).
+• Mục đích sử dụng:
+o 25 triệu USD để làm đường tỉnh lộ (Đầu tư phát triển).
+o 25 triệu USD còn lại để… trả nợ lương giáo viên và chi phí hành chính (Chi thường xuyên) do năm nay kinh tế khó khăn quá.
+Người 2:  Nghe qua thì thấy Tỉnh X cũng đáng thương, vì nghèo nên mới phải đi vay để trả lương. Nhưng em cảm giác có cái gì đó rất “sai sai” ở đây. Nếu em là Bộ Tài chính, em có được quyền gật đầu vì tình thương không ạ?
+Người 1: Trong quản lý tài chính công, “thương” phải đi đôi với “luật”. Nếu em gật đầu, em sẽ vi phạm nghiêm trọng Luật NSNN và có thể đẩy cả quốc gia vào bẫy nợ. Các em hãy suy nghĩ xem đề xuất này sai ở những điểm cốt tử nào dựa trên những “hàng rào” chúng ta vừa học?
+
+Slide 15: LỜI GIẢI VÀ PHÂN TÍCH CHUYÊN SÂU ( Hình ảnh trên slide: Bên trái là dấu X đỏ lên mục “Vay trả lương” và “Vay trực tiếp”. Bên phải là sơ đồ đúng: Chính phủ vay WB -> Cho Tỉnh vay lại -> Chỉ dùng làm đường. Góc dưới có logo NotebookLM)
+Người 1: Nào, chúng ta cùng “bắt lỗi” Tỉnh X. Có 2 lỗi chết người trong đề xuất này.
+• Lỗi thứ nhất - Về Mục đích (Nghiêm trọng nhất): Tỉnh X định dùng tiền vay để Chi thường xuyên (trả lương, hành chính). Điều này là CẤM TUYỆT ĐỐI.
+o Nguyên tắc vàng: “Chỉ vay để đầu tư”. Giống như việc em vay tiền ngân hàng mua nhà (tài sản) thì được, chứ vay tiền để đi ăn nhậu (tiêu dùng) thì lấy gì sinh lời để trả nợ sau này?
+• Lỗi thứ hai - Về Phương thức: Tỉnh X định vay trực tiếp Ngân hàng Thế giới (WB).
+o Quy định: Các tổ chức quốc tế chỉ cho Quốc gia vay (có bảo lãnh Chính phủ). Tỉnh không có tư cách pháp nhân để vay nợ nước ngoài độc lập.
+Người 2: Dạ em đã rõ. Vậy giờ muốn giúp Tỉnh X làm đúng luật thì phải tư vấn cho họ sửa lại hồ sơ thế nào ạ?
+Người 1: Em sẽ tư vấn cho họ tách làm 2 gói:
+1. Về tiền lương (Chi thường xuyên): Không được vay. Hãy làm văn bản xin Trung ương cấp “Bổ sung cân đối” (vì X là tỉnh nghèo, đây là quyền lợi hợp pháp).
+2. Về làm đường (Đầu tư): Đề xuất Chính phủ đứng ra vay 25 triệu USD từ WB, sau đó Chính phủ cho Tỉnh X “vay lại” (On-lending). Tỉnh X sẽ chịu trách nhiệm trả nợ khoản này từ nguồn thu ngân sách địa phương trong tương lai.
+Người 2: Tuyệt vời quá! Vậy là vừa có tiền lương (được cho), vừa có đường mới (được vay đúng luật). Bài học này giúp em hiểu rõ ràng ranh giới giữa “xin tiền” và “vay tiền” của nhà nước rồi ạ.

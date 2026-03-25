@@ -1,0 +1,84 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Hình ảnh trên slide: Tên môn học “Quản lý Tài chính công” - “Chương 2: Quản lý Ngân sách Nhà nước” và tên bài “Tiết 5/6: Cơ chế Phân cấp Nguồn thu và Nhiệm vụ chi”. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Hôm nay chúng ta sẽ đi sâu vào một trong những nội dung “xương sống” và phức tạp nhất của quản lý ngân sách. Đó là Cơ chế Phân cấp Nguồn thu và Nhiệm vụ chi. Nhìn vào tên bài, các em có thấy quen không? Theo Luật Ngân sách Nhà nước (NSNN) 2025, đây là cơ sở để định hình xem ai có quyền thu tiền và ai phải chi tiền.
+Người 2: Dạ thưa cô, em thấy cụm từ “phân cấp” nghe có vẻ hơi hành chính. Có phải nôm na là việc chia tiền giữa “Bố mẹ” (Trung ương) và các “Con” (Địa phương) trong một gia đình không ạ?
+Người 1: So sánh rất thú vị! Em có thể hiểu như vậy. Nếu trong gia đình, bố mẹ quyết định khoản nào con được tự giữ (tiền lì xì), khoản nào phải nộp lại, và khoản nào bố mẹ cho thêm để đi học, thì trong Tài chính công, đó chính là phân cấp nguồn thu và nhiệm vụ chi. Bài học này sẽ giải quyết câu hỏi: Tiền thuế thu được ở địa phương thì địa phương có được giữ hết không? Hay phải nộp về Trung ương? Và tại sao lại như thế? Chúng ta cùng bắt đầu nhé.
+
+Slide 2: NỘI DUNG PHÂN CẤP QUẢN LÝ NSNN (Hình ảnh trên slide: Sơ đồ 3 khối nội dung: 1. Phân cấp Quyền lực - 2. Phân cấp Vật chất (Highlight đỏ) - 3. Phân cấp Chu trình)
+Người 1: Để hiểu bức tranh toàn cảnh, chúng ta cần biết phân cấp quản lý NSNN bao gồm 3 trụ cột chính như trên slide. Thứ nhất là Phân cấp Quyền lực: Ai được ban hành chính sách? Thường là Quốc hội và Chính phủ. Thứ hai là Phân cấp Chu trình: Ai lập dự toán, ai tiêu tiền, ai quyết toán? Nhưng trọng tâm hôm nay chúng ta xoáy sâu vào trụ cột thứ hai: Phân cấp Vật chất.
+Người 2: “Phân cấp vật chất” nghe hơi trừu tượng ạ. Có phải ý cô là chia “miếng bánh” ngân sách không?
+Người 1: Chính xác. Đó là quan hệ về nguồn thu (tiền ở đâu ra), nhiệm vụ chi (tiền dùng làm gì) và cả cân đối vay nợ. Ví dụ thực tế nhé: TP. Hồ Chí Minh là đầu tàu kinh tế, thu được rất nhiều thuế. Nhưng Thành phố không được giữ lại tất cả số tiền đó để tiêu, mà phải chia sẻ với Trung ương để hỗ trợ các tỉnh khó khăn hơn như ở miền núi phía Bắc. Quy định về việc giữ lại bao nhiêu, nộp bao nhiêu chính là nội dung cốt lõi của bài hôm nay.
+
+Slide 3: HỆ THỐNG NGÂN SÁCH NHÀ NƯỚC (Hình ảnh trên slide: Sơ đồ cây phân cấp: Ngân sách Trung ương ở trên, phía dưới là Ngân sách Địa phương gồm Cấp tỉnh và Cấp xã. Bên cạnh ghi chú: Theo Luật NSNN 2025 - Nguyên tắc thống nhất)
+Người 1: Trước khi chia tiền, ta phải biết hệ thống ngân sách có những “ngăn” nào. Theo Luật NSNN 2025, hệ thống của chúng ta tuân thủ nguyên tắc thống nhất. Chúng ta có Ngân sách Trung ương giữ vai trò chủ đạo, và Ngân sách Địa phương.
+Người 2: Em nhìn trên slide thấy Ngân sách Địa phương lại chia ra “Cấp tỉnh” và “Cấp xã”. Vậy cấp Huyện đi đâu rồi ạ? Và tại sao lại phải nhấn mạnh sự “thống nhất”?
+Người 1: Câu hỏi rất hay. Thực tế trong quản lý, cấp Huyện vẫn tồn tại, nhưng trong mô hình tổng quát của Luật mới nhấn mạnh vào sự phân cấp mạnh mẽ cho Tỉnh và cơ sở là Xã. Còn về “nguyên tắc thống nhất”: Hãy tưởng tượng nếu mỗi tỉnh là một “vương quốc” tài chính riêng biệt, tự đặt ra thuế, tự in tiền thì nền kinh tế sẽ loạn ngay. Sự thống nhất ở đây nghĩa là mọi cấp ngân sách đều phải vận hành theo một “luật chơi” chung, như những mạch máu trong cùng một cơ thể, đảm bảo mục tiêu chung của quốc gia (Điều 6 Luật NSNN).
+
+Slide 4: CƠ CHẾ PHÂN CẤP NGUỒN THU (ĐIỀU 36 & 38) (Hình ảnh trên slide: 3 giỏ tiền: 1. Thu hưởng 100% - 2. Thu phân chia tỷ lệ % - 3. Thu bổ sung. Mũi tên chỉ mục tiêu: NSTW chủ đạo, NSĐP chủ động)
+Người 1: Đây là slide quan trọng nhất về cơ chế dòng tiền. Các em hãy hình dung nguồn thu của một địa phương đến từ 3 cái “giỏ”:
+1. Giỏ 1 - Thu hưởng 100%: Khoản này địa phương thu bao nhiêu được tiêu bấy nhiêu.
+2. Giỏ 2 - Thu phân chia tỷ lệ %: Đây là khoản phải “chia chác” giữa Trung ương và Địa phương (như thuế GTGT chẳng hạn).
+3. Giỏ 3 - Thu bổ sung: Khi địa phương thiếu hụt, Trung ương sẽ rót xuống.
+Người 2: Em hiểu rồi. Vậy mục tiêu của việc chia 3 giỏ này là gì ạ? Sao không để địa phương thu được gì thì dùng nấy cho đơn giản?
+Người 1: Nếu làm thế sẽ dẫn đến bất bình đẳng nghiêm trọng. Tỉnh nào có cửa khẩu, có nhà máy lớn sẽ rất giàu, còn tỉnh thuần nông sẽ rất nghèo. Cơ chế này giúp Ngân sách Trung ương giữ vai trò chủ đạo (nắm các nguồn lực lớn để điều tiết vĩ mô) nhưng vẫn tạo sự chủ động cho địa phương (có nguồn thu riêng để lo cho dân). Ví dụ: Thuế thu nhập cá nhân là khoản “phân chia”. Hà Nội thu được nhiều, nhưng phải nộp về TW một phần lớn để TW có tiền bổ sung cho tỉnh Hà Giang xây trường học. Đó là tính ưu việt của hệ thống.
+
+Slide 5: NGUỒN THU NGÂN SÁCH TRUNG ƯƠNG HƯỞNG 100% (Hình ảnh trên slide: Danh sách các khoản thu: Thuế XNK, Thuế TTĐB hàng nhập khẩu, Dầu khí, Viện trợ chính phủ… Bên cạnh là hình ảnh minh họa Cảng biển hoặc Dàn khoan dầu khí)
+Người 1: Bây giờ ta đi vào chi tiết. Những khoản nào Ngân sách Trung ương lấy trọn 100%? Các em nhìn slide: Thuế Xuất nhập khẩu, Dầu khí, Viện trợ không hoàn lại cấp Chính phủ…
+Người 2: Em thắc mắc một chút. Ví dụ cảng Cát Lái nằm ở TP.HCM, hay giàn khoan dầu khí nằm ngoài khơi Vũng Tàu. Tại sao tiền thuế từ các hoạt động này địa phương không được hưởng mà Trung ương lại thu hết ạ?
+Người 1: Một câu hỏi rất thực tế! Lý do nằm ở “bản chất” của nguồn thu. Thứ nhất, Thuế xuất nhập khẩu gắn liền với cửa khẩu và chủ quyền quốc gia. Hàng hóa đi qua cảng Cát Lái không chỉ phục vụ TP.HCM mà phục vụ cả nước. Địa phương chỉ là nơi đặt trạm thu thôi. Thứ hai, Dầu khí và tài nguyên trong lòng đất là tài sản công thuộc sở hữu toàn dân, do Nhà nước thống nhất quản lý, không phải của riêng tỉnh nào. Do đó, các khoản này phải về Trung ương để chi cho các vấn đề vĩ mô như Quốc phòng, An ninh hay trả nợ nước ngoài. Các em nhớ từ khóa: “Gắn với chủ quyền và kinh tế đối ngoại” thì sẽ là của Trung ương 100%.
+
+Slide 6: NGUỒN THU NGÂN SÁCH ĐỊA PHƯƠNG HƯỞNG 100% (Hình ảnh trên slide: Các biểu tượng: Sổ đỏ (đất đai), Vé xổ số kiến thiết, Lệ phí trước bạ xe máy/ô tô. Dòng chữ nổi bật: “Gắn với lãnh thổ và tài sản địa phương”)
+Người 1: Rời khỏi “sân chơi” của Trung ương, chúng ta đến với “túi tiền” riêng của địa phương. Đây là những khoản mà Tỉnh/Thành phố thu được bao nhiêu thì được giữ lại bấy nhiêu để chi tiêu. Các em nhìn slide và cho cô biết điểm chung của: Thuế đất, Lệ phí trước bạ nhà đất, và Xổ số kiến thiết là gì?
+Người 2: Dạ, em thấy chúng đều là những thứ “bất động” hoặc chỉ bán tại chỗ đó thôi ạ. Đất thì không di chuyển được, còn xổ số thì tỉnh nào phát hành tỉnh đó bán.
+Người 1: Rất tinh ý! Nguyên tắc ở đây là gắn với quản lý lãnh thổ. Ví dụ điển hình nhất là Thu từ Xổ số kiến thiết. Các em hay nghe câu “Ích nước lợi nhà”. Nguồn thu này được quy định cứng là chỉ được dùng để đầu tư cho các công trình phúc lợi xã hội tại địa phương đó như xây trường học, bệnh viện, chứ không được dùng để trả lương cho quan chức. Hay như Lệ phí trước bạ: Em mua xe máy ở Hà Nội, em đăng ký biển số Hà Nội, em đi trên đường Hà Nội, thì em nộp phí cho Hà Nội để họ tu sửa đường xá. Rất công bằng đúng không?
+
+Slide 7: CÁC KHOẢN THU PHÂN CHIA THEO TỶ LỆ % (Hình ảnh trên slide: Biểu đồ hình tròn đang được cắt thành 2 phần (Một phần ghi NSTW, một phần ghi NSĐP). Danh mục: Thuế GTGT, Thuế TNDN, Thuế TNCN…)
+Người 1: Đây là phần hấp dẫn và cũng là nơi tranh luận nhiều nhất: Các khoản thu phân chia. Hãy tưởng tượng đây là chiếc bánh lớn nhất của Ngân sách Quốc gia. Nó bao gồm 3 loại thuế chủ lực: GTGT (VAT), Thuế Thu nhập doanh nghiệp (TNDN) và Thuế Thu nhập cá nhân (TNCN).
+Người 2: Thưa cô, tại sao không cho địa phương hưởng hết mấy cái này luôn ạ? Ví dụ nhà máy Samsung đặt ở Thái Nguyên, thì Thái Nguyên phải được hưởng hết thuế của Samsung chứ?
+Người 1: Nếu làm thế thì Thái Nguyên sẽ “siêu giàu”, còn các tỉnh miền núi không có nhà máy sẽ không có tiền hoạt động. Hơn nữa, xét về bản chất kinh tế: Samsung đặt ở Thái Nguyên nhưng bán điện thoại cho cả nước, dùng điện lưới quốc gia, và nhân sự từ khắp nơi đổ về. Vì vậy, nguồn thu này mang tính chất phát sinh diện rộng, cần phải chia sẻ. Phần Thái Nguyên giữ lại để tái đầu tư hạ tầng phục vụ nhà máy, phần nộp về Trung ương để điều tiết cho các tỉnh nghèo hơn.
+
+Slide 8: CƠ CHẾ XÁC ĐỊNH TỶ LỆ % PHÂN CHIA (Hình ảnh trên slide: Công thức toán học to rõ:
+Người 1: Vậy làm sao biết TP.HCM được giữ lại bao nhiêu %, còn Hà Giang được giữ bao nhiêu? Chúng ta dùng công thức trên bảng. Nôm na là: Lấy số tiền địa phương CẦN (theo định mức chi) trừ đi số tiền địa phương CÓ THỂ TỰ THU (từ các nguồn 100% ở slide 6). Phần thiếu hụt sẽ được bù đắp từ các khoản thu phân chia này.
+Người 2: Em thấy có ghi chú “Ổn định trong 05 năm”. Nghĩa là tỷ lệ này không đổi suốt 5 năm, dù kinh tế có biến động sao ạ?
+Người 1: Đúng vậy. Đây là cơ chế “khoán”. Ví dụ Quốc hội chốt cho TP.HCM tỷ lệ giữ lại là 21% trong giai đoạn 2022-2025. Nếu năm sau TP.HCM làm ăn tốt, thu vượt dự toán, thì thành phố vẫn chỉ phải nộp theo tỷ lệ cũ và được hưởng trọn vẹn phần vượt thu. Điều này khuyến khích các địa phương nỗ lực tăng thu chứ không ỷ lại. Ngược lại, nếu lười biếng để hụt thu thì địa phương phải tự chịu, Trung ương không bù.
+
+Slide 9: NGUYÊN TẮC PHÂN CẤP NHIỆM VỤ CHI (ĐIỀU 37 & 39) (Hình ảnh trên slide: Cán cân công lý. Một bên ghi “Trung ương: Vĩ mô - Chiến lược - An ninh”. Bên kia ghi “Địa phương: Trực tiếp - Dân cư - Cơ sở”)
+Người 1: Chúng ta vừa nói về cách kiếm tiền, giờ bàn sang cách tiêu tiền. Nguyên tắc phân cấp chi tiêu khá logic: Ai làm việc gì thì chi tiền cho việc đó. Trung ương sẽ lo những việc mang tầm chiến lược, quốc gia. Địa phương sẽ lo những việc trực tiếp phục vụ đời sống dân cư trên địa bàn.
+Người 2: Cô có thể cho ví dụ về sự phân biệt này trong cùng một lĩnh vực, ví dụ như Y tế không ạ?
+Người 1: Rất dễ hiểu. Nếu là Bệnh viện Bạch Mai hay Chợ Rẫy (tuyến cuối, chữa bệnh cho cả nước), thì do Trung ương (Bộ Y tế) chi. Nhưng nếu là Trạm y tế xã phường, hay Bệnh viện Đa khoa tỉnh (phục vụ dân địa phương là chính), thì do Ngân sách Địa phương chi. Việc phân cấp này giúp quy trách nhiệm rõ ràng: Đường làng ngõ xóm bị hỏng thì dân biết tìm Chủ tịch xã/huyện mà kêu, chứ không ai lên tìm Bộ trưởng Bộ Giao thông cả.
+
+Slide 10: NHIỆM VỤ CHI CỦA NGÂN SÁCH TRUNG ƯƠNG (Hình ảnh trên slide: Hình ảnh minh họa: Tàu ngầm/Máy bay (Quốc phòng), Đường cao tốc Bắc Nam (Đầu tư), Giảng đường Đại học (Giáo dục ĐH), và biểu tượng Trả nợ công)
+Người 1: Cụ thể hóa cho Slide 9, đây là danh mục chi tiêu của “anh cả” Trung ương. Các em chú ý 2 mảng lớn: Chi Đầu tư và Chi Thường xuyên. Đặc biệt lưu ý mục Chi trả nợ lãi Chính phủ. Tại sao địa phương không chi mục này?
+Người 2: Em nghĩ vì Chính phủ đứng ra vay nợ nước ngoài hoặc phát hành trái phiếu Kho bạc, nên Chính phủ (Trung ương) phải trả lãi là đúng rồi ạ.
+Người 1: Chính xác. Ngoài ra, hãy nhìn vào Giáo dục. Trung ương chi cho Đại học và Dạy nghề vì sinh viên ra trường phục vụ lao động cho cả nước. Còn Giáo dục phổ thông (Mầm non đến cấp 3) lại là nhiệm vụ của địa phương (chúng ta sẽ thấy ở slide sau). Tóm lại, Trung ương nắm giữ hầu bao cho “xương sống” của quốc gia: Quốc phòng, Ngoại giao và các dự án Hạ tầng liên vùng.
+
+
+Slide 11: NHIỆM VỤ CHI CỦA NGÂN SÁCH ĐỊA PHƯƠNG (Hình ảnh trên slide: Các biểu tượng gần gũi: Trường Mầm non/Tiểu học, Xe thu gom rác thải đô thị, Trạm Y tế xã, Dân quân tự vệ)
+Người 1: Nếu Trung ương lo việc “đại sự”, thì Địa phương lo việc “bếp núc” hàng ngày của người dân. Các em nhìn vào danh mục chi tiêu này xem có gì khác biệt với slide trước không? Tại sao Trung ương chi cho Đại học, còn Địa phương lại phải chi cho Mầm non, Tiểu học, THPT?
+Người 2: Em nghĩ là do tính chất phục vụ ạ. Trường cấp 1, cấp 2, cấp 3 chủ yếu phục vụ con em trong quận, huyện, tỉnh đó. Còn Đại học thì sinh viên cả nước đổ về học.
+Người 1: Rất chính xác! Nguyên tắc là lợi ích lan tỏa đến đâu, cấp đó chi tiền. Một ví dụ khác là Xử lý rác thải và Môi trường. Rác ở nhà các em do công ty môi trường đô thị của Tỉnh/Thành phố thu gom và xử lý. Trung ương không thể đi lo việc thu rác cho từng ngõ xóm được. Hay như An ninh trật tự cơ sở: Dân quân tự vệ phường/xã là do ngân sách địa phương chi trả để bảo vệ an ninh ngay tại địa bàn.
+
+Slide 12: THẨM QUYỀN QUYẾT ĐỊNH VỀ NGÂN SÁCH (Hình ảnh trên slide: Sơ đồ phân cấp hình tháp. Đỉnh tháp là Quốc hội (Quyết định tổng thể). Thân tháp là Chính phủ (Xây dựng định mức). Chân tháp là HĐND Tỉnh (Quyết định cụ thể tại địa phương))
+Người 1: Chúng ta đã biết ai thu, ai chi. Giờ câu hỏi là: Ai là người cầm cân nảy mực quyết định những con số đó? Quyền lực cao nhất thuộc về Quốc hội. Quốc hội là người “chia bánh” lớn: Quyết định tổng số chi bao nhiêu và tỷ lệ % phân chia cho các tỉnh.
+Người 2: Vậy vai trò của Hội đồng Nhân dân (HĐND) cấp tỉnh là gì ạ? Em thấy họ cũng họp bàn về ngân sách rất căng thẳng.
+Người 1: HĐND Tỉnh cực kỳ quan trọng. Sau khi nhận “miếng bánh” từ Quốc hội, HĐND Tỉnh sẽ quyết định chia lại cho Quận/Huyện/Xã bên dưới. Đặc biệt, HĐND Tỉnh có quyền quyết định các chế độ chi tiêu đặc thù của địa phương mình (ví dụ: TP.HCM muốn chi thêm tiền hỗ trợ giáo viên mầm non cao hơn mức lương cơ bản thì phải do HĐND Thành phố quyết).
+
+Slide 13: TỔNG HỢP - NGUYÊN TẮC GẮN KẾT (Hình ảnh trên slide: Bảng tổng kết 3 dòng màu sắc rõ ràng.
+Người 1: Slide này cô gọi là “Bảo bối đi thi”. Nếu các em quên hết các slide trước, chỉ cần nhớ đúng bảng này là làm được bài. Hãy nhớ quy luật:
+1. Cái gì dính đến Chủ quyền quốc gia, Cửa khẩu → Của Trung ương.
+2. Cái gì dính chặt vào Đất đai, Địa giới → Của Địa phương.
+3. Cái gì là Hoạt động kinh tế chảy trôi (mua bán, thu nhập) → Phải chia nhau.
+Người 2: “Bảo bối” này dễ nhớ thật ạ! Vậy là cứ thấy “Thuế nhập khẩu” là nghĩ ngay đến cửa khẩu biên giới → Trung ương. Thấy “Thuế đất” là nghĩ đến sổ đỏ tại chỗ → Địa phương.
+Người 1: Chuẩn xác. Logic này giúp đảm bảo sự thống nhất của quốc gia (Trung ương nắm đầu mối) nhưng vẫn khuyến khích địa phương (càng phát triển đất đai hạ tầng càng có nhiều tiền).
+
+Slide 14: BÀI TẬP VẬN DỤNG (Hình ảnh trên slide: Một danh sách các khoản thu kèm các ô tích (checkbox) để sinh viên lựa chọn: 1. Thuế GTGT hàng trong nước, 2. Thuế XNK, 3. Xổ số, 4. Thuế TTĐB hàng nhập khẩu, 5. Thuế đất nông nghiệp, 6. Lệ phí trước bạ)
+Người 1: Bây giờ chúng ta cùng làm một bài tập nhanh để kiểm tra kiến thức nhé. Cô có 6 khoản thu trên bảng. Các em hãy xác định xem khoản nào về túi ai? Cô đố bạn (Người 2) một câu khó nhất trong này: Khoản số 4 - Thuế Tiêu thụ đặc biệt của hàng nhập khẩu. Khoản này là Phân chia hay về Trung ương?
+Người 2: Dạ… em phân vân quá. “Thuế Tiêu thụ đặc biệt” bình thường là phân chia. Nhưng nó lại có đuôi “hàng nhập khẩu”. Theo nguyên tắc “Bảo bối” lúc nãy, dính đến nhập khẩu là cửa khẩu… Vậy em chọn Ngân sách Trung ương 100% ạ!
+Người 1: Suy luận rất sắc bén! Chúng ta cùng xem đáp án nhé.
+
+Slide 15: ĐÁP ÁN & GIẢI THÍCH (Hình ảnh trên slide: Kết quả hiện ra với dấu tích xanh.
+Người 1: Chúc mừng em, đáp án hoàn toàn chính xác.
+• Thuế TTĐB hàng nhập khẩu dù là thuế tiêu dùng nhưng vì thu tại khâu nhập khẩu (cửa khẩu) nên thuộc về Trung ương 100%.
+• Còn Thuế GTGT hàng trong nước mới là khoản phân chia tỷ lệ %, vì nó phát sinh từ hoạt động kinh tế nội địa.
+• Các khoản Xổ số, Đất, Trước bạ đều gắn với lãnh thổ nên địa phương hưởng trọn để tái đầu tư.
+Người 2: Qua bài tập này em đã hiểu rõ hơn sự khác biệt giữa “nguồn gốc” khoản thu và “tên gọi” của nó rồi ạ.
+Người 1: Bài học hôm nay dừng ở đây. Về nhà các em hãy thử tìm hiểu xem tỉnh mình đang sống có tỷ lệ phân chia ngân sách là bao nhiêu nhé (Ví dụ Hà Nội là 35%, TP.HCM là 21%). Chào các em!

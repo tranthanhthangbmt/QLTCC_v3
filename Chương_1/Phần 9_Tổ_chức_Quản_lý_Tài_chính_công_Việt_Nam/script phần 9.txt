@@ -1,0 +1,109 @@
+﻿Slide 1: TRANG BÌA (TỔNG QUAN VỀ TÀI CHÍNH CÔNG & TỔ CHỨC BỘ MÁY) (Nội dung hình ảnh: Tên chuyên đề “Tổ chức bộ máy quản lý Tài chính công” nổi bật trên nền sơ đồ mạng lưới kết nối các điểm nút. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Sau khi chúng ta đã nắm được lý thuyết về ngân sách và thuế ở các phần trước, hôm nay lớp mình sẽ bước sang Phần 9: Tổ chức bộ máy quản lý Tài chính công. Nhìn vào hình ảnh mạng lưới trên slide, các em liên tưởng đến điều gì?
+Người 2: Dạ, em thấy nó giống như một hệ thống mạch máu hoặc dây thần kinh kết nối khắp cơ thể ạ.
+Người 1: Một so sánh rất hay! Nếu ví dòng tiền (ngân sách) là máu, thì bộ máy quản lý chúng ta học hôm nay chính là hệ thống mạch máu để dẫn dòng tiền đó đi nuôi cơ thể (quốc gia) và kiểm soát xem máu có chảy đúng chỗ không. Nếu không có bộ máy tổ chức tốt, tiền có nhiều đến đâu cũng sẽ bị thất thoát hoặc tắc nghẽn. Chúng ta cùng đi vào chi tiết nhé.
+
+Slide 2: KHÁI NIỆM TỔ CHỨC BỘ MÁY QUẢN LÝ TÀI CHÍNH CÔNG (Nội dung hình ảnh: Sơ đồ so sánh hai cột: “Nghĩa Rộng” (Cơ quan TC + Đơn vị sử dụng NS) và “Nghĩa Hẹp” (Chỉ cơ quan TC chuyên môn). Logo NotebookLM ở góc)
+Người 1: Đầu tiên, chúng ta cần thống nhất với nhau về khái niệm. Slide này chia ra hai cách hiểu: Nghĩa rộng và Nghĩa hẹp. Có bạn nào xung phong phân biệt giúp cô không?
+Người 2: Thưa cô, theo slide thì nghĩa hẹp chỉ bao gồm những người làm nghề tài chính chuyên nghiệp như cán bộ Thuế, Kho bạc. Còn nghĩa rộng thì bao gồm cả những người… tiêu tiền nhà nước ạ?
+Người 1: Đúng rồi, nhưng hãy nói chuyên môn hơn chút nhé.
+• Nghĩa hẹp: Là các cơ quan có chức năng quản lý nhà nước về tài chính (Bộ Tài chính, Sở Tài chính, Thuế, Hải quan…).
+• Nghĩa rộng: Bao gồm cả các “chủ thể” sử dụng ngân sách.
+• Ví dụ thực tế: Một trường Đại học công lập hay Bệnh viện Bạch Mai. Họ không phải cơ quan tài chính, nhưng họ sử dụng ngân sách để trả lương, mua sắm thiết bị. Vậy theo nghĩa rộng, bộ phận kế toán của trường ĐH cũng là một mắt xích trong bộ máy quản lý tài chính công đấy. Hiểu rộng để thấy rằng: Quản lý tài chính công là trách nhiệm của cả xã hội, không chỉ riêng Bộ Tài chính.
+
+Slide 3: CĂN CỨ TỔ CHỨC BỘ MÁY (Nội dung hình ảnh: Hình kim tự tháp phân cấp hành chính (TW -> Xã) bên trái và Các khối hoạt động (NSNN, Quỹ, Tín dụng) bên phải. Logo NotebookLM)
+Người 1: Vậy người ta dựa vào đâu để vẽ nên sơ đồ tổ chức này? Chúng ta có 2 căn cứ chính trên slide. Thứ nhất là Căn cứ hành chính & phân cấp. Tại sao lại phải tổ chức theo hình kim tự tháp từ Trung ương xuống tận Xã/Phường?
+Người 2: Dạ, vì ở đâu có chính quyền thì ở đó cần tiền để hoạt động ạ. UBND xã cũng cần ngân sách để sửa đường làng hay trả tiền điện nên phải có cán bộ tài chính xã ạ.
+Người 1: Chính xác. Đó là lý do tài chính luôn đi song hành với quyền lực nhà nước. Căn cứ thứ hai là Đặc điểm hoạt động. Các em thấy đấy, quản lý tiền thuế (thu vào) khác hẳn với quản lý việc chi tiêu hay quản lý Quỹ Bảo hiểm xã hội.
+• Ví dụ thực tiễn: Vì tính chất hoạt động khác nhau nên chúng ta mới tách Tổng cục Thuế (chuyên đi thu tiền) riêng biệt với Kho bạc Nhà nước (chuyên giữ tiền và xuất tiền). Dù cùng thuộc Bộ Tài chính nhưng “anh kiếm tiền” và “anh giữ két” phải độc lập để kiểm soát lẫn nhau.
+
+Slide 4: NGUYÊN TẮC VẬN HÀNH CỐT LÕI (Nội dung hình ảnh: 03 mũi tên lớn chỉ 3 nguyên tắc: Thống nhất - Tập trung dân chủ; Kết hợp Ngành & Lãnh thổ; Tiết kiệm & Hiệu quả. Logo NotebookLM)
+Người 1: Để bộ máy khổng lồ này chạy trơn tru, nó cần dầu bôi trơn là các nguyên tắc. Cô muốn nhấn mạnh nguyên tắc số 2: “Kết hợp Quản lý theo Ngành và Lãnh thổ”. Nguyên tắc này nghe rất trừu tượng, có ai hiểu nó vận hành thế nào không?
+Người 2: Có phải là vừa chịu sự quản lý của cấp trên trong ngành dọc, vừa chịu sự quản lý của ông Chủ tịch tỉnh ở địa phương không ạ?
+Người 1: Rất chuẩn! Thuật ngữ chuyên môn gọi là “Song trùng trực thuộc”.
+• Ví dụ thực tiễn: Giám đốc Sở Tài chính tỉnh Đắk Lắk.
+o Về nghiệp vụ (tính toán thế nào, mẫu biểu ra sao): Phải nghe theo Bộ trưởng Bộ Tài chính (Quản lý theo Ngành).
+o Về nhân sự và quyết định chi tiêu địa phương: Phải chịu sự chỉ đạo của Chủ tịch UBND tỉnh Đắk Lắk (Quản lý theo Lãnh thổ).
+o Điều này giúp Sở Tài chính vừa đảm bảo đúng luật chung của cả nước, vừa linh hoạt phục vụ được nhu cầu riêng của tỉnh nhà.
+
+Slide 5: HỆ THỐNG QUẢN LÝ TCC TẠI VIỆT NAM (CẤP CHIẾN LƯỢC) (Nội dung hình ảnh: Sơ đồ dòng chảy quyền lực: QUỐC HỘI (trên cùng) -> CHÍNH PHỦ -> HĐND/UBND -> BỘ TÀI CHÍNH. Logo NotebookLM)
+Người 1: Đây là slide quan trọng nhất về phân cấp quyền lực. Nhìn vào đây, đố các em ai là người có quyền lực cao nhất về tài chính ở Việt Nam? Bộ trưởng Bộ Tài chính hay Thủ tướng?
+Người 2: Nhìn sơ đồ thì là Quốc hội ạ. Nhưng thực tế em thấy Bộ Tài chính hay ra văn bản nhất mà?
+Người 1: Bộ Tài chính làm việc cụ thể hàng ngày, nhưng “người cầm chìa khóa” tối cao là Quốc hội.
+• Ví dụ thực tiễn: Các em xem thời sự sẽ thấy các kỳ họp Quốc hội cuối năm. Chính phủ (đại diện là Bộ trưởng Tài chính) phải đứng ra trình bày: “Năm nay xin phép tiêu bao nhiêu tiền, vay bao nhiêu nợ”. Sau đó, các đại biểu Quốc hội phải bấm nút thông qua thì Chính phủ mới được phép làm.
+• Quốc hội quyết định cái “Bánh ngân sách” to bao nhiêu, còn Chính phủ và Bộ Tài chính là người chịu trách nhiệm chia và quản lý cái bánh đó.
+• HĐND các cấp ở địa phương cũng có quyền tương tự như vậy trong phạm vi tỉnh/huyện của mình.
+
+Slide 6: BỘ TÀI CHÍNH: VỊ TRÍ VÀ CHỨC NĂNG (“SIÊU BỘ”) (Nội dung hình ảnh: Biểu tượng Bộ Tài chính ở giữa, xung quanh là các vệ tinh chức năng: Thuế, Hải quan, Giá, Chứng khoán, Bảo hiểm, Nợ công. Góc dưới có logo NotebookLM)
+Người 1: Chúng ta đi vào cơ quan đầu não quan trọng nhất: Bộ Tài chính. Nhìn vào slide, các em có thấy Bộ Tài chính quản lý quá nhiều mảng không? Từ Thuế, Hải quan đến Giá cả, Chứng khoán, Bảo hiểm… Tại sao lại gom hết vào một bộ mà không tách ra?
+Người 2: Dạ, em nghĩ vì tất cả đều dính đến “Tiền” ạ. Chứng khoán hay Bảo hiểm cũng là các kênh luân chuyển vốn trong nền kinh tế.
+Người 1: Đúng vậy. Người ta hay gọi vui Bộ Tài chính là “Siêu Bộ” vì nó nắm giữ huyết mạch của cả nền kinh tế.
+• Ví dụ thực tiễn: Khi giá xăng dầu biến động, Bộ Tài chính (Cục Quản lý Giá) phải cùng với Bộ Công Thương tính toán xem có nên xả Quỹ bình ổn giá không. Hay khi các em mua bảo hiểm xe máy, công ty bảo hiểm đó cũng chịu sự giám sát của Cục Quản lý Giám sát Bảo hiểm thuộc Bộ Tài chính.
+• Các em nhớ cập nhật văn bản nhé: Nghị định 29/2025/NĐ-CP là “giấy khai sinh” quy định quyền hạn mới nhất của Bộ này.
+
+Slide 7: CƠ CẤU TỔ CHỨC BỘ TÀI CHÍNH (THAM MƯU & THỰC THI) (Nội dung hình ảnh: Sơ đồ cây tổ chức. Nhánh bên trái: Khối Vụ (Tham mưu). Nhánh bên phải: Khối Tổng cục/Cục (Chuyên ngành). Nhánh dưới: Đơn vị sự nghiệp. Logo NotebookLM)
+Người 1: Slide này rất dễ gây nhầm lẫn. Đố các em phân biệt được sự khác nhau giữa “Vụ” (ví dụ Vụ Ngân sách nhà nước) và “Cục/Tổng cục” (ví dụ Tổng cục Thuế)?
+Người 2: Em thấy Tổng cục thì to hơn Vụ đúng không ạ? Tổng cục Thuế có trụ sở riêng rất hoành tráng, còn Vụ thì em ít nghe tên.
+Người 1: Không hẳn là to hơn, mà là chức năng khác nhau. Hãy tưởng tượng:
+• Khối Vụ (Tham mưu): Giống như “Bộ não”. Họ ngồi ở trụ sở Bộ, soạn thảo ra các Luật, Nghị định, chính sách. Họ không trực tiếp đi thu tiền.
+• Khối Tổng cục/Cục (Thực thi): Giống như “Chân tay”. Họ có hệ thống dọc từ trên xuống dưới để trực tiếp làm việc với dân: đi thu thuế, đi bắt buôn lậu, đi phát tiền kho bạc.
+• Vì vậy, Tổng cục Thuế mới cần trụ sở to và nhiều nhân viên để làm việc cụ thể, còn Vụ NSNN thì chỉ cần các chuyên gia giỏi để tham mưu chính sách chia tiền.
+
+Slide 8: CỤC THUẾ: QUẢN LÝ THU NGÂN SÁCH (MÔ HÌNH 3 CẤP) (Nội dung hình ảnh: Tháp 3 tầng. Đỉnh: Tổng cục Thuế. Giữa: Cục Thuế Tỉnh. Đáy: Chi cục Thuế khu vực/huyện. Logo NotebookLM)
+Người 1: Bây giờ chúng ta “zoom” vào cánh tay đắc lực nhất: Ngành Thuế. Hệ thống này được tổ chức theo 3 cấp. Tại sao phải cần đến cấp “Cơ sở” (Quận/Huyện/Khu vực) làm gì cho tốn kém biên chế?
+Người 2: Dạ vì người nộp thuế ở khắp mọi nơi ạ. Bà bán tạp hóa ở huyện vùng sâu cũng phải nộp thuế môn bài, nên cần có cán bộ thuế ở ngay đó để thu.
+Người 1: Rất chính xác.
+• Thực tế: Trước đây mỗi huyện có 1 Chi cục Thuế. Nhưng gần đây để tinh giản biên chế, người ta gộp lại thành Chi cục Thuế Khu vực (ví dụ 3 huyện chung 1 chi cục).
+• Dù gộp lại, nó vẫn là cấp cơ sở trực tiếp gặp gỡ người dân. Nhiệm vụ của họ là đảm bảo “thu đúng, thu đủ, thu kịp thời”.
+
+Slide 9: CỤC HẢI QUAN: QUẢN LÝ THƯƠNG MẠI & BIÊN GIỚI (Nội dung hình ảnh: Bản đồ Việt Nam với các điểm chốt tại biên giới và cảng biển. Cấu trúc 3 cấp nhưng lưu ý “Liên tỉnh”. Logo NotebookLM)
+Người 1: Tiếp theo là Hải quan - “Người gác cổng” nền kinh tế. Cũng là 3 cấp, nhưng có điểm khác biệt lớn với bên Thuế. Các em có thấy tỉnh nào ở Việt Nam không có Cục Hải quan không?
+Người 2: Em nghĩ là những tỉnh nằm sâu trong nội địa, không có biên giới cũng không có sân bay quốc tế thì chắc không cần Hải quan ạ?
+Người 1: Chuẩn luôn. Khác với Thuế (tỉnh nào cũng phải có), Hải quan tổ chức theo lưu lượng hàng hóa.
+• Ví dụ: Tỉnh Đắk Lắk có Cục Hải quan Đắk Lắk quản lý luôn cả Đắk Nông và Lâm Đồng (trước đây). Hoặc Cục Hải quan Điện Biên quản lý cả Điện Biên, Lai Châu, Sơn La.
+• Đây gọi là mô hình Cục Hải quan Liên tỉnh.
+• Cấp cơ sở của họ là các Chi cục Hải quan cửa khẩu (như Cửa khẩu Tân Thanh, Cảng Hải Phòng) - nơi trực tiếp “soi” hàng hóa xuất nhập khẩu.
+
+Slide 10: KHO BẠC NHÀ NƯỚC: QUẢN LÝ QUỸ & NGÂN QUỸ (MÔ HÌNH 2 CẤP) (Nội dung hình ảnh: Hình ảnh chiếc két sắt khổng lồ và con dấu Quốc huy. Lưu ý đặc biệt dòng chữ: “TỔ CHỨC CHỈ THEO 02 CẤP”. Logo NotebookLM)
+Người 1: Đây là slide các em phải đánh dấu sao (*) để đi thi không bị bẫy. Tại sao Slide nói Kho bạc chỉ tổ chức theo 02 cấp (Trung ương và Tỉnh/Khu vực), trong khi thực tế các em vẫn thấy có “Kho bạc huyện”?
+Người 2: Ơ đúng rồi ạ, ở huyện nhà em vẫn có biển hiệu “Kho bạc Nhà nước huyện X” mà cô?
+Người 1: Đây là điểm mới trong cải cách hành chính theo các văn bản 2025 mà slide đề cập.
+• Trước đây đúng là có Kho bạc huyện. Nhưng hiện nay, để tinh gọn, Kho bạc đang chuyển đổi mạnh mẽ sang mô hình Kho bạc Khu vực trực thuộc Tỉnh và giao dịch điện tử là chính.
+• Về mặt quản lý nhà nước, người ta đang quy hoạch lại chỉ còn cấp Trung ương và cấp Tỉnh/Khu vực lớn làm đầu mối kiểm soát chi. Các điểm giao dịch nhỏ lẻ dần bị xóa bỏ hoặc sáp nhập.
+• Chức năng đặc biệt: Kho bạc là nơi duy nhất được giữ tiền và có con dấu hình Quốc huy (thể hiện quyền lực nhà nước trong thanh toán). Họ giống như “Ngân hàng của Chính phủ” - Chính phủ vay tiền (phát hành trái phiếu) cũng qua đây, và xuất tiền trả lương cho công chức cũng từ đây mà ra.
+
+Slide 11: CƠ QUAN TÀI CHÍNH ĐỊA PHƯƠNG (SONG TRÙNG TRỰC THUỘC) (Nội dung hình ảnh: Sơ đồ hai mũi tên chỉ vào Sở Tài chính: Một từ Bộ Tài chính (Nghiệp vụ), Một từ UBND Tỉnh (Lãnh đạo). Góc dưới có logo NotebookLM)
+Người 1: Chúng ta rời Trung ương để về địa phương. Slide này minh họa cơ chế “Song trùng trực thuộc” – một thuật ngữ kinh điển trong hành chính. Đố các em, một Giám đốc Sở Tài chính sợ Bộ trưởng Bộ Tài chính hơn hay sợ Chủ tịch Tỉnh hơn?
+Người 2: Em nghĩ là sợ Chủ tịch Tỉnh hơn ạ, vì Chủ tịch Tỉnh là người trực tiếp bổ nhiệm và trả lương mà. Nhưng về chuyên môn thì phải nghe Bộ trưởng.
+Người 1: Một câu trả lời rất thực tế!
+• Song trùng trực thuộc nghĩa là “hai tròng”:
+o Về chuyên môn: Sở Tài chính phải làm theo hướng dẫn của Bộ Tài chính (ví dụ: Mẫu báo cáo ngân sách phải theo mẫu của Bộ).
+o Về hành chính: Sở chịu sự chỉ đạo của UBND Tỉnh (ví dụ: Tỉnh quyết định cử ai làm Giám đốc Sở, hay ưu tiên chi tiền làm đường hay xây trường học trước).
+• Cấp xã cũng vậy, công chức Tài chính xã vừa nghe Chủ tịch xã, vừa phải làm đúng hướng dẫn của Phòng Tài chính huyện.
+
+Slide 12: ĐƠN VỊ DỰ TOÁN NGÂN SÁCH (CHÂN RẾT CỦA HỆ THỐNG) (Nội dung hình ảnh: Vòng tròn khép kín 4 bước: Lập dự toán -> Thực hiện -> Quản lý tài sản -> Kế toán/Báo cáo. Ví dụ hình ảnh: Trường học, Bệnh viện. Logo NotebookLM)
+Người 1: Chúng ta đã nói nhiều về cơ quan quản lý (người chia tiền), giờ hãy nói về Đơn vị dự toán (người tiêu tiền). Theo các em, Học viện chúng ta đang ngồi đây có phải là một phần của bộ máy quản lý tài chính công không?
+Người 2: Dạ có ạ. Vì trường mình là trường công, nhận ngân sách nhà nước để hoạt động, nên chắc chắn phải là đơn vị dự toán.
+Người 1: Chính xác.
+• Quy trình: Đầu năm, nhà trường phải lập bảng tính (Dự toán) xem năm nay cần bao nhiêu tiền điện, nước, lương giảng viên gửi lên trên duyệt. Cuối năm phải làm quyết toán báo cáo đã tiêu hết bao nhiêu.
+• Nếu các đơn vị này (trường học, bệnh viện, ủy ban…) tiêu sai hoặc lãng phí, thì dù Bộ Tài chính có giỏi đến đâu, nền tài chính quốc gia cũng sẽ thâm hụt. Vì vậy, vai trò của kế toán tại các đơn vị này là cực kỳ quan trọng.
+
+Slide 13: TỔNG HỢP VĂN BẢN PHÁP LÝ (CẬP NHẬT 2025) (Nội dung hình ảnh: Bảng danh mục văn bản với các dòng được tô đậm: Nghị định 29/2025, Quyết định 381/2025… Logo NotebookLM)
+Người 1: Các em lưu ý, ngành Luật và Tài chính công có một đặc thù là văn bản thay đổi liên tục. Slide này là “bảo bối” cập nhật mới nhất năm 2025. Tại sao cô lại bắt các em nhớ số hiệu văn bản làm gì cho đau đầu?
+Người 2: Dạ, để khi làm việc hoặc thi cử, mình trích dẫn đúng văn bản đang còn hiệu lực ạ. Nếu áp dụng văn bản cũ đã hết hạn thì mọi quyết định đều vô nghĩa.
+Người 1: Đúng vậy.
+• Ví dụ: Nếu các em làm khóa luận về Thuế mà trích dẫn Quyết định cơ cấu tổ chức từ năm 2018 thì coi như sai hoàn toàn về thực tế.
+• Hãy chú ý các văn bản năm 2025 của Chính phủ và Bộ Tài chính về cơ cấu tổ chức mới (tinh gọn bộ máy). Đây là nguồn tư liệu chính thống nhất để các em làm bài tập.
+
+Slide 14: BÀI TẬP VẬN DỤNG TÌNH HUỐNG (Nội dung hình ảnh: Hai hộp thoại tình huống. Hộp 1: Huy động vốn (Trái phiếu). Hộp 2: Thu thuế tại Xã. Dấu hỏi chấm lớn ở giữa. Logo NotebookLM)
+Người 1: Để tổng kết bài, cô có 2 tình huống thực tế. Các em hãy vận dụng kiến thức nãy giờ để giải quyết.
+• Tình huống 1: Chính phủ đang thiếu tiền làm đường cao tốc Bắc-Nam và muốn vay dân thông qua phát hành Trái phiếu. Ai sẽ đứng ra bán trái phiếu này?
+• Tình huống 2: Một hộ kinh doanh nhỏ ở phường A trốn thuế. Ai là người trực tiếp xuống kiểm tra và thu thuế họ? Cục Thuế Tỉnh hay ai?
+Người 2: Tình huống 1: Em nghĩ là Kho bạc Nhà nước. Vì lúc nãy cô nói Kho bạc là “két sắt” và chịu trách nhiệm huy động vốn.
+• Tình huống 2: Chắc là đội thuế ở Chi cục Thuế khu vực quản lý địa bàn đó ạ.
+
+Slide 15: LỜI GIẢI & GIẢI THÍCH (Nội dung hình ảnh: Đáp án hiện ra rõ ràng. 1. Kho bạc Nhà nước (QĐ 385). 2. Thuế Cơ sở/Chi cục Thuế (QĐ 1377). Logo NotebookLM)
+Người 1: Hoàn toàn chính xác! Chúng ta cùng chốt lại đáp án trên slide.
+• Tình huống 1: Kho bạc Nhà nước (Trung ương). Theo QĐ 385/QĐ-BTC, họ có chức năng phát hành công cụ nợ. Các em nhớ nhé, Ngân hàng Nhà nước chỉ là đại lý đấu thầu thôi, còn chủ thể phát hành là Kho bạc.
+• Tình huống 2: Thuế Cơ sở (Chi cục Thuế). Dù hệ thống thuế là ngành dọc, nhưng họ phân cấp quản lý theo địa bàn. Những hộ kinh doanh nhỏ lẻ sẽ do cấp cơ sở trực tiếp quản lý thu.
+Người 1: Bài học hôm nay kết thúc tại đây. Các em về nhà đọc kỹ các văn bản năm 2025 trong slide 13 để chuẩn bị cho bài kiểm tra sắp tới nhé. Cảm ơn cả lớp.

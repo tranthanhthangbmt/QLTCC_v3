@@ -1,0 +1,106 @@
+﻿Slide 1: TRANG BÌA (TỔNG QUAN VỀ TÀI CHÍNH CÔNG) (Hình ảnh trên slide: Tên chương “Tổng quan về TCC và Quản lý TCC”, tên bài “Các chức năng cốt lõi & Đặc điểm cơ bản”. Góc dưới có logo NotebookLM )
+Người 1: Chào các em. Hôm nay chúng ta chính thức bước vào Phần 3 trong Chương 1 của môn Quản lý Tài chính công. Chủ đề hôm nay là “Tổng quan về Tài chính công: Các chức năng cốt lõi & Đặc điểm cơ bản”. Nhìn vào tên bài học, cô muốn hỏi một chút: Theo các em, tại sao chúng ta không bắt tay vào học ngay cách tính thuế hay cách Chính phủ chi tiền, mà lại phải đi sâu vào “Khái niệm” và “Đặc điểm” trước? Nó có quá lý thuyết không?
+Người 2: Dạ thưa cô, em nghĩ giống như xây nhà phải có móng ạ. Nếu không hiểu rõ “nó là gì” (Khái niệm) và “nó khác gì với tài chính doanh nghiệp” (Đặc điểm) thì sau này rất dễ nhầm lẫn khi xử lý tình huống thực tế. Ví dụ như tại sao Nhà nước được quyền thu thuế mà doanh nghiệp thì không thể ép khách hàng đưa tiền được.
+Người 1: Rất chính xác. Tiết học này chính là việc “xây móng”. Nếu móng không chắc, các em sẽ không thể hiểu được bản chất quyền lực của Nhà nước trong kinh tế. Chúng ta cùng bắt đầu nhé.
+
+Slide 2: TIẾP CẬN THUẬT NGỮ: TÁCH BÓC KHÁI NIỆM (Hình ảnh trên slide: Sơ đồ tách đôi từ “Tài chính” và từ “Công”. Bên trái là các icon về tiền tệ, bên phải là icon tòa nhà quốc hội/nhà nước )
+Người 1: Để hiểu “Tài chính công” là gì, chúng ta hãy dùng phương pháp “chia để trị” – tách bóc hai từ này ra. Đầu tiên, “Tài chính” nghĩa là gì? Nhìn vào slide, các em thấy nó không chỉ là những tờ tiền chúng ta cầm trên tay.
+Người 2: Dạ, theo slide thì Tài chính có 3 tầng nghĩa:
+• Biểu hiện bên ngoài: Là chuyện thu, chi bằng tiền.
+• Nội dung vật chất: Là các quỹ tiền tệ (như cái ví tiền hay két sắt).
+• Bản chất kinh tế: Quan trọng nhất là các quan hệ kinh tế trong phân phối nguồn lực.
+Người 1: Đúng rồi. Còn từ “Công” ở đây xác định tính chất của nó. Khác với tư nhân, “Công” gắn liền với Sở hữu công cộng (do Nhà nước đại diện) và Mục đích vì lợi ích chung. Đặc biệt, các em lưu ý điểm này: Cơ sở pháp lý của Tài chính công là Luật Công – mang tính mệnh lệnh, quyền uy.
+Người 2: À, em hiểu rồi. Tức là khi Vingroup bán nhà, đó là quan hệ “thuận mua vừa bán” (Dân sự). Còn khi Nhà nước thu thuế, đó là “mệnh lệnh” (Luật Công), mình không thể mặc cả với cơ quan thuế được đúng không cô?
+Người 1: Ví dụ rất chuẩn xác! Đó chính là sự khác biệt cốt lõi bắt nguồn từ chữ “Công”.
+
+Slide 3: KHÁI NIỆM TÀI CHÍNH CÔNG: TỪ HÌNH THỨC ĐẾN BẢN CHẤT (Hình ảnh trên slide: Định nghĩa Tài chính công và sơ đồ hai mặt: Hình thức (bề nổi) và Bản chất (bề sâu) )
+Người 1: Từ sự phân tích trên, chúng ta đi đến định nghĩa đầy đủ. Tài chính công là tổng thể các hoạt động thu, chi bằng tiền do Nhà nước tiến hành… nhằm phục vụ các chức năng của Nhà nước và đáp ứng nhu cầu chung của xã hội. Tuy nhiên, cô muốn các em nhìn sâu hơn vào “tảng băng chìm” của khái niệm này.
+Người 2: Dạ, trên slide có chia làm hai mặt:
+• Mặt hình thức: Là những gì mắt thấy tai nghe – hoạt động thu chi tiền nong của Nhà nước.
+• Mặt bản chất: Là các quan hệ kinh tế giữa Nhà nước với các chủ thể khác.
+Người 1: Đúng vậy. Hãy tưởng tượng thế này: Khi Chính phủ chi 10.000 tỷ đồng xây dựng đường cao tốc Bắc - Nam.
+• Về hình thức: Chúng ta thấy tiền chạy từ Kho bạc Nhà nước sang túi các nhà thầu xây dựng.
+• Về bản chất: Đây là quan hệ kinh tế mà Nhà nước đang điều tiết thu nhập của xã hội (tiền thuế dân đóng) để tạo ra tài sản công cộng. Hiểu được bản chất này, các em mới thấy được trách nhiệm giải trình của Nhà nước trước người dân.
+
+Slide 4: SO SÁNH TÀI CHÍNH CÔNG VÀ TÀI CHÍNH TƯ: ẨN DỤ KHU VƯỜN (Hình ảnh trên slide: Minh họa 2 bức tranh. Một bên là các ban công riêng lẻ (Tài chính tư), một bên là hệ thống tưới tiêu chung cho cả khu vườn (Tài chính công) )
+Người 1: Slide này cô rất thích vì nó dùng một ẩn dụ rất hay để phân biệt Tài chính công và Tài chính tư. Mời em mô tả lại bức tranh này cho cả lớp.
+Người 2: Dạ, nhìn hình rất thú vị ạ.
+• Tài chính tư giống như hình ảnh những người đang chăm sóc cái cây ở ban công riêng nhà mình. Ai lo cây nhà nấy, cây ai nấy đẹp.
+• Tài chính công lại là hình ảnh một hệ thống tưới tiêu tự động, hàng rào bảo vệ và đèn chiếu sáng bao trùm lên cả một khu vườn lớn.
+Người 1: Ẩn dụ này nói lên điều gì? Nếu nền kinh tế là khu vườn, thì Tài chính tư là việc mỗi cá nhân, doanh nghiệp lo tối đa hóa lợi nhuận cho riêng mình (chăm cái cây của mình). Nhưng để cả khu vườn tồn tại, cần có Tài chính công cung cấp hạ tầng chung (hệ thống thủy lợi, an ninh) mà tư nhân không làm được hoặc không muốn làm.
+Người 2: Em liên hệ thực tế nhé: Các hãng xe vận tải (Tài chính tư) lo kiếm khách để có lời. Nhưng họ không thể tự xây đường cao tốc cho xe chạy. Nhà nước (Tài chính công) phải đứng ra xây hệ thống đường xá, đèn đường để “cả khu vườn cùng phát triển”, ngay cả những vùng sâu vùng xa cũng có đường đi.
+Người 1: Một ví dụ xuất sắc về vai trò bổ trợ lẫn nhau giữa hai khu vực này!
+
+Slide 5: 4 ĐẶC ĐIỂM CƠ BẢN CỦA TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ 4 đặc điểm xoay quanh hình tròn trung tâm. 1. Tính chủ thể, 2. Nguồn hình thành, 3. Tính hiệu quả, 4. Phạm vi hoạt động )
+Người 1: Vậy Tài chính công có những “nhận diện thương hiệu” nào để không bị lẫn với tài chính doanh nghiệp? Chúng ta có 4 đặc điểm cơ bản sau đây:
+1. Tính chủ thể: Luôn gắn với Quyền lực Nhà nước.
+2. Nguồn hình thành thu nhập: Phụ thuộc vào nền kinh tế.
+3. Tính hiệu quả: Đánh giá dựa trên Lợi ích xã hội vĩ mô chứ không phải lợi nhuận.
+4. Phạm vi hoạt động: Rộng lớn và đa lĩnh vực.
+Người 2: Cô ơi, vậy là Tài chính công không đặt mục tiêu “kiếm lời” lên hàng đầu đúng không ạ? Vì em thấy đặc điểm số 3 ghi là “Lợi ích xã hội vĩ mô”.
+Người 1: Chính xác. Nếu doanh nghiệp làm ăn thua lỗ là phá sản, nhưng Nhà nước có thể chấp nhận bù lỗ cho xe buýt công cộng hay bệnh viện vùng cao vì mục tiêu an sinh xã hội. Bây giờ, chúng ta sẽ đi sâu vào phân tích từng đặc điểm một trong các slide tiếp theo để xem quyền lực Nhà nước thể hiện như thế nào nhé.
+
+Slide 6: ĐẶC ĐIỂM 1 - TÍNH CHỦ THỂ & QUYỀN LỰC CHÍNH TRỊ (Hình ảnh trên slide: Hình ảnh Quốc huy hoặc Tòa nhà Quốc hội đặt trên đỉnh tháp tiền tệ. Bên cạnh là hình ảnh Cảnh sát giao thông hoặc Cán bộ thuế đang làm nhiệm vụ)
+Người 1: Chúng ta đi vào đặc điểm đầu tiên và quan trọng nhất: Tính chủ thể. Nhìn vào hình ảnh trên slide, đố các em biết ai là người duy nhất nắm “cán” trong quan hệ tài chính này?
+Người 2: Dạ chắc chắn là Nhà nước rồi ạ. Nhưng cô ơi, em thắc mắc là các tổ chức từ thiện họ cũng quyên góp tiền vì cộng đồng, vậy họ có phải là Tài chính công không?
+Người 1: Một câu hỏi rất hay để phân biệt! Điểm mấu chốt nằm ở cụm từ “Quyền lực chính trị”. Tổ chức từ thiện chỉ có thể “kêu gọi” lòng hảo tâm (tự nguyện). Còn Nhà nước thì dùng quyền lực chính trị để ban hành Luật (như Luật Thuế), mang tính bắt buộc. Tài chính công luôn gắn liền với bộ máy nhà nước. Nếu không có Nhà nước, sẽ không có Tài chính công.
+Người 2: À, tức là “quyền lực chính trị” biến mong muốn thu tiền thành “mệnh lệnh” bắt buộc. Ví dụ mình không đóng quyên góp thì không sao, nhưng trốn thuế là vi phạm pháp luật ngay.
+Người 1: Chính xác! Đó là quyền uy tối thượng của tính chủ thể trong Tài chính công.
+
+Slide 7: ĐẶC ĐIỂM 2 - NGUỒN HÌNH THÀNH: KHÔNG HOÀN TRẢ TRỰC TIẾP (Hình ảnh trên slide: Sơ đồ dòng tiền từ “Túi dân cư & Doanh nghiệp” –> chảy vào “Ngân sách Nhà nước”. Có biểu tượng một chiều (one-way street))
+Người 1: Sang đặc điểm thứ 2 về nguồn tiền. Các em thấy dòng tiền trên slide chảy như thế nào?
+Người 2: Dạ, tiền chảy từ nền kinh tế (dân và doanh nghiệp) vào túi Nhà nước. Nhưng cô ơi, em thấy ghi là “Không hoàn trả trực tiếp”. Nghĩa là sao ạ? Em đóng thuế cầu đường thì em được đi đường, đó là trả lại rồi mà?
+Người 1: Đúng là em được hưởng lợi, nhưng đó là hoàn trả gián tiếp và cộng đồng. “Không hoàn trả trực tiếp” nghĩa là: Không phải em đóng 1 triệu tiền thuế thì Nhà nước phải xây riêng cho em 1 mét đường trị giá 1 triệu. Có người đóng thuế rất nhiều (người giàu), có người không đóng đồng nào (người nghèo), nhưng cả hai đều được đi trên con đường đó, được cảnh sát bảo vệ như nhau.
+Người 2: Em hiểu rồi. Khác với đi mua hàng siêu thị: Tiền trao cháo múc (Hoàn trả trực tiếp). Còn ở đây là đóng góp vào “nồi cơm chung” và mọi người cùng ăn, không phân biệt ai đóng nhiều đóng ít.
+
+Slide 8: ĐẶC ĐIỂM 3 - TÍNH HIỆU QUẢ: KHÔNG VÌ LỢI NHUẬN (Hình ảnh trên slide: Một cái cân. Bên trái là cục tạ ghi “Chi phí bỏ ra”. Bên phải là quả tim ghi “Lợi ích xã hội/An sinh”. Cán cân nghiêng về phía quả tim)
+Người 1: Đến slide này, chúng ta bàn về “Lãi và Lỗ”. Trong kinh doanh, hiệu quả là: Lợi nhuận = Doanh thu - Chi phí > 0. Vậy với Nhà nước thì sao?
+Người 2: Nhìn cái cân trên slide thì em thấy Nhà nước coi trọng “Lợi ích xã hội” hơn. Nhưng nếu cứ chi mà không thu được tiền về thì lấy gì bù đắp ạ?
+Người 1: Đó là cái khó của Tài chính công. “Hiệu quả” ở đây không đo bằng tiền tươi thóc thật thu về, mà đo bằng sự ổn định xã hội, sự phát triển kinh tế vĩ mô. Ví dụ: Nhà nước chi ngàn tỷ để tiêm vắc-xin miễn phí. Về tiền bạc là “lỗ nặng”, nhưng về hiệu quả xã hội là “lãi to” vì dân khỏe mạnh thì mới đi làm tạo ra của cải được.
+Người 2: Dạ, vậy thước đo là sự phát triển bền vững chứ không phải báo cáo tài chính cuối năm như doanh nghiệp. Ví dụ như xây công viên cây xanh, chẳng thu được đồng nào nhưng giúp cả thành phố thở sạch hơn.
+
+Slide 9: ĐẶC ĐIỂM 4 - PHẠM VI HOẠT ĐỘNG: RỘNG LỚN & ĐA CHIỀU (Hình ảnh trên slide: Bản đồ Việt Nam với các mũi tên tỏa đi khắp nơi: Từ thành phố đến hải đảo, từ trường học đến bệnh viện, từ nhà máy đến khu dân cư)
+Người 1: Đặc điểm cuối cùng là Phạm vi hoạt động. Các em nhìn xem, có nơi nào trên đất nước này mà “bàn tay” tài chính của Nhà nước không chạm tới không?
+Người 2: Dạ chắc là không. Từ điện đường trường trạm ở thành phố đến trợ cấp cho bà con vùng sâu vùng xa đều có bóng dáng ngân sách.
+Người 1: Đúng vậy. Tài chính công có phạm vi rất rộng, tác động đến:
+1. Tất cả các lĩnh vực: Kinh tế, Văn hóa, Xã hội, An ninh quốc phòng.
+2. Tất cả các thành phần: Doanh nghiệp nhà nước, tư nhân, hộ gia đình. Vì nó lấy nguồn lực từ tổng thể nền kinh tế nên nó cũng phải chi tiêu bao trùm lên toàn bộ nền kinh tế để điều tiết vĩ mô.
+Người 2: Giống như “máu” chảy trong cơ thể đúng không cô? Chỗ nào cần dinh dưỡng (vốn, hỗ trợ) là máu phải chảy tới, dù đó là ngón tay út xa xôi nhất (vùng sâu vùng xa).
+Người 1: Một so sánh rất hình tượng!
+
+Slide 10: CHỨC NĂNG CỦA TÀI CHÍNH CÔNG (TỔNG QUAN) (Hình ảnh trên slide: 3 bánh răng khớp vào nhau đang quay, đại diện cho 3 chức năng: 1. Phân bổ nguồn lực, 2. Tái phân phối thu nhập, 3. Giám đốc/Điều chỉnh)
+Người 1: Sau khi hiểu “Nó là gì” và “Đặc điểm ra sao”, chúng ta sang phần quan trọng tiếp theo: Chức năng. Tức là Tài chính công dùng để làm gì? Nhìn vào 3 bánh răng trên slide, chúng ta có 3 chức năng cốt lõi.
+Người 2: Phân bổ nguồn lực: Chắc là chia tiền vào đâu cho hợp lý.
+1. Tái phân phối thu nhập: Cái này nghe như “lấy của người giàu chia cho người nghèo” phải không cô?
+2. Giám đốc (Kiểm tra): Là giám sát xem tiền đi đâu.
+Người 1: Các em nắm bắt rất nhanh.
+• Phân bổ: Nhà nước hướng tiền vào những nơi tư nhân không làm (như làm đường, quốc phòng).
+• Tái phân phối: Đúng như em nói, dùng thuế và trợ cấp để giảm bớt khoảng cách giàu nghèo, đảm bảo công bằng.
+• Giám đốc: Đảm bảo đồng tiền thuế của dân được dùng đúng mục đích, không thất thoát.
+Chúng ta sẽ đi vào chi tiết từng chức năng và một bài tập tình huống thú vị ở các slide sau nhé.
+
+Slide 11: PHÂN TÍCH CHI TIẾT 3 CHỨC NĂNG CỦA TÀI CHÍNH CÔNG (Hình ảnh trên slide: 3 cột thông tin chi tiết tương ứng với 3 chức năng. Cột 1: Hàng hóa công cộng. Cột 2: Thuế & Trợ cấp. Cột 3: Thanh tra/Kiểm soát)
+Người 1: Ở slide trước chúng ta đã biết tên 3 chức năng. Bây giờ hãy đi sâu vào “ruột gan” của từng cái nhé. Đầu tiên là Phân bổ nguồn lực. Tại sao Nhà nước phải làm việc này mà không để thị trường tự lo?
+Người 2: Dạ, vì có những thứ tư nhân không muốn làm hoặc không thể làm, gọi là “Hàng hóa công cộng” ạ. Ví dụ như quốc phòng hay đèn đường. Nếu để tư nhân làm thì họ sẽ thu tiền, mà đèn đường thì ai đi qua cũng sáng, khó thu tiền riêng từng người lắm.
+Người 1: Đúng vậy. Chức năng này giúp khắc phục “thất bại của thị trường”. Thứ hai là Tái phân phối thu nhập. Đây là chức năng nhân văn nhất. Nhà nước dùng thuế của người giàu để trợ cấp cho người nghèo, người yếu thế. Và cuối cùng, Chức năng Giám đốc (Kiểm tra). Không chỉ là kiểm tra xem tiền có bị mất cắp không, mà quan trọng hơn là kiểm tra xem chính sách đó có đi vào cuộc sống không.
+Người 2: Em hiểu rồi. Ví dụ Nhà nước chi tiền hỗ trợ ngư dân bám biển (Phân bổ), thì phải kiểm tra xem ngư dân có nhận được tiền và đóng tàu thật không (Giám đốc).
+
+Slide 12: BÀI TẬP TÌNH HUỐNG: DỰ ÁN CẦU X
+(Hình ảnh trên slide: Một con sông chia cắt đôi bờ. Hai bên là hai phương án A và B. Phương án A: Hình trạm thu phí BOT. Phương án B: Hình cây cầu mở rộng, xe chạy tự do, cờ tổ quốc treo trên cầu)
+Người 1: Để tổng kết bài học hôm nay, cô có một tình huống thực tế này. Một địa phương bị chia cắt bởi dòng sông, dân đi lại rất khổ. Có 2 phương án xây cầu được đưa ra:
+• Phương án A (Tư nhân): Công ty bỏ tiền xây cầu và thu phí BOT để hoàn vốn và kiếm lời.
+• Phương án B (Nhà nước): Dùng ngân sách địa phương xây cầu miễn phí.
+Câu hỏi cho các em: Nếu lưu lượng xe qua lại rất ít (vùng nghèo), thì Phương án A có khả thi không? Và sự khác biệt cốt lõi giữa hai phương án này là gì?
+Người 2: Dạ thưa cô, nếu xe ít thì tư nhân (Phương án A) chắc chắn sẽ không làm đâu ạ. Vì họ làm là để kiếm lời, ít xe thì bao giờ mới thu hồi vốn được? Họ thà mang tiền đi gửi ngân hàng còn hơn.
+Người 1: Rất thực tế! Tư nhân chỉ làm khi có lãi. Vậy còn Phương án B? Nhà nước biết là “lỗ” (không thu được đồng nào) nhưng tại sao vẫn xây?
+Người 2: Dạ vì mục tiêu của Nhà nước là “thông thương”, là phát triển kinh tế vùng đó, giúp bà con đi lại thuận tiện để thoát nghèo. Cái “lãi” ở đây là lãi về mặt xã hội ạ.
+
+Slide 13: GIẢI ĐÁP TÌNH HUỐNG - BẢN CHẤT CỦA SỰ LỰA CHỌN (Hình ảnh trên slide: Bảng so sánh chốt lại vấn đề. Cột trái: Tư nhân (Lợi nhuận - Trao đổi ngang giá). Cột phải: Nhà nước (Lợi ích công - Không hoàn trả trực tiếp))
+Người 1: Chúng ta cùng chốt lại vấn đề qua bảng so sánh này. Đây chính là đáp án cho câu hỏi “Tài chính công khác gì Tài chính tư”.
+• Về Mục đích: Tư nhân là Lợi nhuận (Tiền đẻ ra tiền). Nhà nước là Lợi ích công cộng (An sinh xã hội).
+• Về Chủ thể: Tư nhân là quan hệ Hợp đồng (Thuận mua vừa bán). Nhà nước là Luật công (Quyền uy).
+• Về Bản chất: Tư nhân là Trao đổi ngang giá (Trả phí thì được qua cầu). Nhà nước là Phân phối lại (Lấy thuế từ cả nền kinh tế để xây cầu cho vùng nghèo này).
+Người 2: Cô ơi, câu hỏi cuối cùng trong slide trước là “Nhà nước lấy tiền ở đâu cho Phương án B?”. Câu trả lời chính là Tiền Thuế đúng không ạ?
+Người 1: Chính xác. Tiền xây cây cầu miễn phí đó thực chất là sự đóng góp của toàn xã hội thông qua hệ thống Thuế. Những người ở thành phố đóng thuế cũng đang gián tiếp góp phần xây cây cầu cho vùng xa xôi này. Đó chính là tính chất “Cộng đồng” và “Không hoàn trả trực tiếp” mà chúng ta đã học ở Slide 7.
+Người 1: Bài học hôm nay dừng lại ở đây. Qua Tiết 1, cô muốn các em nhớ kỹ: Tài chính công không phải là việc kiếm tiền của Nhà nước, mà là công cụ để Nhà nước thực hiện chức năng phục vụ xã hội. Về nhà, các em hãy thử tìm hiểu xem: “Gần nhà mình có công trình nào là Tài chính công, công trình nào là Tài chính tư?” để hôm sau chúng ta thảo luận nhé.
+Người 2: Dạ vâng ạ. Bài học hôm nay giúp em hiểu rõ tại sao Nhà nước lại thu thuế rồi ạ. Em cảm ơn cô và chào cả lớp!

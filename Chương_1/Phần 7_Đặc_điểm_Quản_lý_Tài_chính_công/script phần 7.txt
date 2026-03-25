@@ -1,0 +1,102 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Hình ảnh trên slide: Tên môn học “QUẢN LÝ TÀI CHÍNH CÔNG” và tên bài “Phần 7: Đặc điểm Quản lý Tài chính công”. Phía dưới có dòng chữ nhỏ: Phân tích Mục tiêu, Nội dung và Phương pháp quản lý. Góc dưới có logo NotebookLM).
+Người 1: Chào các em. Hôm nay chúng ta sẽ đi sâu vào Phần 7 của chương trình, một phần cực kỳ quan trọng giúp định hình tư duy của người làm quản lý nhà nước: Đặc điểm Quản lý Tài chính công.
+Người 2: Thưa cô, em thấy môn trước mình học về Tài chính công đại cương rồi. Vậy tại sao phần này lại nhấn mạnh thêm chữ “Quản lý” ạ? Nó có gì khác biệt không?
+Người 1: Câu hỏi rất hay. Nếu “Tài chính công” nói về các nguồn lực, thì “Quản lý Tài chính công” nói về cách thức chúng ta sử dụng nguồn lực đó sao cho hiệu quả nhất. Tiền của Nhà nước không phải là “nồi cơm Thạch Sanh”, tiêu mãi không hết. Vì vậy, bài hôm nay sẽ giúp các em hiểu: Làm thế nào để tiêu tiền dân đóng thuế một cách có kỷ luật và khôn ngoan nhất?
+
+Slide 2: CẤU TRÚC NỘI DUNG BÀI HỌC (Hình ảnh trên slide: Sơ đồ 3 khối nội dung chính: Đặc điểm về Mục tiêu quản lý (Trọng tâm: Khác biệt với tư nhân & 3 trụ cột). Đặc điểm về Nội dung quản lý (Sự vận động giá trị & hiện vật). Đặc điểm về Phương pháp và công cụ (Quyền lực nhà nước & Pháp lý).
+Người 1: Để trả lời câu hỏi vừa rồi, bài học của chúng ta sẽ đi qua 3 trụ cột chính như trên slide. Trong đó, cô muốn các em đặc biệt lưu ý phần số 1 – Mục tiêu quản lý. Đây là phần trọng tâm nhất.
+Người 2: Dạ, em thấy phần 1 có ghi là “Phân tích sự khác biệt với tài chính tư”. Có phải vì mục tiêu kiếm tiền của doanh nghiệp khác với mục tiêu phục vụ dân của Nhà nước không ạ?
+Người 1: Đúng vậy, đó là sự khác biệt cốt lõi. Ngoài ra, chúng ta còn tìm hiểu về “3 trụ cột mục tiêu cụ thể”. Các em hãy nhớ kỹ con số 3 này nhé, vì nó sẽ theo suốt chúng ta trong các bài tập tình huống sau này. Còn phần 2 và 3 sẽ giải thích về “công cụ” và “quyền lực” để đạt được các mục tiêu đó. Chúng ta đi vào chi tiết nhé.
+
+Slide 3: SO SÁNH QUẢN LÝ TÀI CHÍNH CÔNG VÀ TÀI CHÍNH TƯ (Hình ảnh trên slide: Bảng so sánh 3 tiêu chí: Tính chất, Chi phí, Mục đích. Tài chính công: Lợi ích chung, Chi phí xã hội, Mục đích KT-XH tổng thể. Tài chính tư: Lợi ích cục bộ, Chi phí trực tiếp, Mục đích lợi nhuận.)
+Người 1: Hãy nhìn vào bảng so sánh này. Để dễ hiểu, cô lấy ví dụ: Một doanh nghiệp tư nhân (như Vingroup hay quán cà phê của em) và Chính phủ cùng xây một cây cầu. Mục tiêu khác nhau thế nào?
+Người 2: Dạ, doanh nghiệp xây cầu thì họ sẽ tính xem thu phí bao lâu thì hoàn vốn và có lãi (Lợi nhuận). Còn Nhà nước xây cầu thì để người dân đi lại thuận tiện, phát triển kinh tế vùng đó (Lợi ích chung).
+Người 1: Chính xác. Đó là tiêu chí Mục đích. Nhưng hãy nhìn vào tiêu chí Chi phí. Khi doanh nghiệp tính chi phí, họ chỉ tính sắt, thép, nhân công (Chi phí trực tiếp). Còn Nhà nước khi quản lý tài chính công phải tính đến “Chi phí chung toàn xã hội”. Ví dụ: Xây cây cầu đó có làm ô nhiễm môi trường không? Có gây tắc đường chỗ khác không?
+Người 2: À, tức là Tài chính công phải gánh cả những chi phí vô hình như an ninh, môi trường mà tư nhân thường bỏ qua để tối đa hóa lợi nhuận đúng không cô?
+Người 1: Rất chuẩn. Vì vậy, mục tiêu tối thượng của Quản lý TCC là sự phát triển cân đối và lợi ích cộng đồng, chứ không phải là số dư trong tài khoản ngân hàng.
+
+Slide 4: HỆ THỐNG MỤC TIÊU TRONG QUẢN LÝ TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ hình tháp hoặc 3 cột trụ. Mục tiêu tổng quát: Cân đối, Hiệu quả, Ổn định vĩ mô. 3 Trụ cột cụ thể: 1. Kỷ luật tài khóa tổng thể; 2. Hiệu quả phân bổ; 3. Hiệu quả hoạt động).
+Người 1: Từ mục đích vĩ mô đó, các nhà kinh tế học (và cả World Bank, IMF) đã đúc kết ra 3 Trụ cột vàng trong quản lý tài chính công. Các em ghi nhớ 3 cụm từ này: Kỷ luật - Phân bổ - Hoạt động.
+Người 2: Nghe hơi trừu tượng ạ. Cô có thể ví dụ đơn giản hơn được không?
+Người 1: Được chứ. Hãy tưởng tượng em quản lý tiền sinh hoạt phí bố mẹ gửi hàng tháng:
+1. Kỷ luật tài khóa: Em không được tiêu lố số tiền bố mẹ gửi, không được vay nợ lung tung để vỡ nợ.
+2. Hiệu quả phân bổ: Với số tiền đó, em ưu tiên đóng học phí và ăn uống (nhu cầu thiết yếu) hay là mua vé xem concert (giải trí)? Phải phân bổ tiền vào đúng chỗ cần thiết nhất.
+3. Hiệu quả hoạt động: Cùng là mua một suất cơm, em chọn quán nào ngon, bổ, rẻ, vệ sinh nhất để mua. Đó là tiêu tiền khôn ngoan.
+Người 2: Dạ, em hình dung được rồi. Áp dụng vào Nhà nước thì phức tạp hơn nhiều đúng không ạ?
+Người 1: Đúng thế. Nhà nước quản lý hàng triệu tỷ đồng nên cần các chỉ số đo lường rất khắt khe. Chúng ta sẽ xem trụ cột đầu tiên ngay sau đây.
+
+Slide 5: TRỤ CỘT 1 - ĐẢM BẢO KỶ LUẬT TÀI KHÓA TỔNG THỂ (Hình ảnh trên slide: Khái niệm: Quy tắc dự thảo, phê duyệt, giới hạn trần chi tiêu. Thành phần (IMF): Nợ công, Cán cân ngân sách, Thu - Chi. Chỉ số: Dự báo thu tin cậy, Tỷ lệ Nợ công/GDP, Đề xuất chi phải có nguồn thu).
+Người 1: Trụ cột đầu tiên: Kỷ luật tài khóa tổng thể. Hiểu đơn giản là “Liệu cơm gắp mắm”. Theo IMF, đây là việc tuân thủ các giới hạn về nợ công và cán cân ngân sách. Một nguyên tắc sống còn là: Dự báo nguồn thu phải đáng tin cậy.
+Người 2: Tại sao dự báo thu lại quan trọng đến thế ạ? Nếu dự báo sai thì sao cô?
+Người 1: Em hãy nhớ lại đợt giá dầu giảm sâu năm 2014-2015. Lúc lập dự toán, Nhà nước tính giá dầu là 100 USD/thùng, nhưng thực tế nó rớt xuống 50 USD. Nếu em dự tính lương tháng này 20 triệu nên đã lỡ đặt mua cái xe máy trả góp, nhưng thực tế lương chỉ về 10 triệu. Hậu quả là gì?
+Người 2: Dạ, là vỡ nợ hoặc phải đi vay nóng để bù vào ạ.
+Người 1: Chính xác. Quốc gia cũng vậy. Nếu dự báo thu sai (quá lạc quan), chúng ta sẽ chi tiêu quá tay và dẫn đến thâm hụt ngân sách, nợ công tăng cao mất kiểm soát. Vì vậy, đặc điểm quan trọng nhất của quản lý tài chính công ở trụ cột này là: Mọi đề xuất chi tiêu mới đều phải chỉ rõ nguồn thu bù đắp ở đâu. Không có tiền thì không được vẽ dự án!
+Người 2: Ra là vậy. Kỷ luật thép ngay từ khâu lập kế hoạch!
+
+Slide 6: THỰC TIỄN - BÀI HỌC VỀ KỶ LUẬT TÀI KHÓA (Hình ảnh trên slide: Chia làm 2 bên. Bên trái: Hình ảnh đường sắt Cát Linh - Hà Đông với con số “Đội vốn 9.200 tỷ”. Bên phải: Biểu đồ giá dầu lao dốc 2014-2015 với dòng chữ “Hụt thu 40%”).
+Người 1: Chúng ta vừa nói về lý thuyết “Kỷ luật tài khóa”. Bây giờ hãy nhìn vào thực tế. Khi kỷ luật này bị phá vỡ hoặc dự báo sai, cái giá phải trả là cực kỳ đắt đỏ. Cô có 2 ví dụ điển hình trên slide.
+Người 2: Em nhìn thấy hình ảnh đường sắt Cát Linh – Hà Đông. Em nhớ dự án này làm mãi mới xong, nhưng không ngờ số tiền đội vốn lại lớn thế: từ hơn 500 triệu USD lên gần 900 triệu USD!
+Người 1: Đúng vậy. Đó là bài học xương máu về Kiểm soát chi. Khi phê duyệt ban đầu thì rẻ, nhưng khi thực hiện thì phát sinh đủ thứ, dẫn đến vỡ kế hoạch vốn. Nhưng còn một rủi ro khác nằm ở Dự báo thu. Các em nhìn sang bên phải. Năm 2014, chúng ta lập ngân sách dựa trên giả định giá dầu là 100 USD/thùng. Nhưng đùng một cái, giá dầu thế giới rớt xuống còn 52 USD.
+Người 2: Vậy là ngân sách nhà nước bỗng nhiên mất đi gần một nửa nguồn thu từ dầu thô so với dự tính? Lúc đó Nhà nước lấy tiền đâu bù vào ạ?
+Người 1: Đó chính là vấn đề. Khi dự báo quá lạc quan mà thực tế lại phũ phàng, chúng ta buộc phải cắt giảm chi tiêu hoặc đi vay nợ thêm. Bài học ở đây là: Dự báo sai dẫn đến vỡ trận tài khóa.
+
+Slide 7: TRỤ CỘT 2 - ĐẢM BẢO HIỆU QUẢ PHÂN BỔ (Hình ảnh trên slide: Một cái cân. Một bên là “Trường học, Y tế, Cầu đường”. Một bên là “Tượng đài 1.400 tỷ”. Nổi bật dòng chữ: Sơn La 2015 - Thu 3.000 tỷ/năm nhưng muốn xây tượng đài 1.400 tỷ).
+Người 1: Chuyển sang trụ cột thứ 2: Hiệu quả phân bổ. Hiểu nôm na là: “Tiền thì ít, tiêu vào việc gì cho đáng?”. Các em nhìn tình huống tỉnh Sơn La năm 2015 trên slide.
+Người 2: Con số 1.400 tỷ đồng cho một quần thể tượng đài nghe thật sự choáng ngợp cô ạ. Nhất là khi slide ghi chú thích là tỉnh này còn nghèo, tỷ lệ hộ nghèo tới 55%.
+Người 1: Đây là ví dụ kinh điển về sự xung đột trong phân bổ nguồn lực. Trong kinh tế học gọi là “Chi phí cơ hội”. Nếu em bỏ 1.400 tỷ vào tượng đài, em mất cơ hội dùng 1.400 tỷ đó để xây hàng trăm ngôi trường hay trạm y tế cho người nghèo.
+Người 2: Vậy theo nguyên tắc Quản lý Tài chính công, ưu tiên đúng đắn ở đây phải là gì ạ?
+Người 1: Nguyên tắc là phải phân bổ nguồn lực vào nơi tạo ra lợi ích xã hội cao nhất và cấp thiết nhất. Với một tỉnh nghèo, “xóa đói giảm nghèo” phải ưu tiên hơn “làm đẹp bộ mặt đô thị”. Sự sai lệch này chính là mất hiệu quả phân bổ.
+
+Slide 8: TRỤ CỘT 3 - ĐẢM BẢO HIỆU QUẢ HOẠT ĐỘNG (Hình ảnh trên slide: Biểu đồ so sánh giờ nộp thuế: Việt Nam (900h) cao chót vót so với Singapore (80h). So sánh năng suất khoa học: ĐH Tôn Đức Thắng (0.39 bài/TS) > ĐHQG Hà Nội (0.16 bài/TS)).
+Người 1: Giả sử chúng ta đã phân bổ tiền đúng chỗ (ví dụ: chi tiền cải cách thuế, chi tiền cho nghiên cứu khoa học). Nhưng liệu kết quả có tốt không? Đó là câu chuyện của Trụ cột 3: Hiệu quả hoạt động.
+Người 2: Em nhìn biểu đồ so sánh thời gian nộp thuế năm 2014 mà giật mình. Tại sao cùng là việc nộp thuế mà doanh nghiệp Việt Nam mất tới 900 giờ/năm, trong khi Singapore chỉ mất 80 giờ?
+Người 1: Đó chính là sự kém hiệu quả trong vận hành. Cùng một mục tiêu “thu thuế”, nhưng bộ máy của chúng ta lúc đó quá cồng kềnh, thủ tục rườm rà, tiêu tốn thời gian và chi phí của xã hội gấp 10 lần nước bạn.
+Người 2: Còn ví dụ về trường đại học thì sao ạ? Em thấy ĐHQG Hà Nội lớn hơn nhiều chứ?
+Người 1: Lớn hơn, nhiều Tiến sĩ hơn (Đầu vào lớn), nhưng số bài báo quốc tế tính trên đầu người (Đầu ra) lại thấp hơn ĐH Tôn Đức Thắng. Điều này chứng minh: Không phải cứ chi nhiều tiền, nhiều nhân sự là tốt. Quản lý tài chính công hiện đại đòi hỏi phải tối ưu hóa tỷ lệ: Chi phí thấp nhất để đạt kết quả cao nhất.
+
+Slide 9: 4 TIÊU CHÍ ĐÁNH GIÁ QUẢN LÝ NHÀ NƯỚC (WORLD BANK) (Hình ảnh trên slide: Logo World Bank và sơ đồ 4 mảnh ghép: 1. Trách nhiệm giải trình, 2. Tính minh bạch, 3. Khả năng tiên liệu, 4. Sự tham gia).
+Người 1: Để đạt được 3 trụ cột mục tiêu vừa rồi (Kỷ luật, Phân bổ, Hiệu quả), Ngân hàng Thế giới (WB) khuyến nghị “Tứ trụ” trong quản trị nhà nước. Các em nhìn slide xem đó là gì?
+Người 2: Dạ gồm: Trách nhiệm giải trình, Minh bạch, Khả năng tiên liệu và Sự tham gia. Em hiểu “Minh bạch” là công khai, nhưng “Khả năng tiên liệu” nghĩa là gì ạ? Nghe như dự báo thời tiết vậy?
+Người 1: Cười. Gần giống vậy. “Tiên liệu” nghĩa là chính sách của Nhà nước phải ổn định, rõ ràng để người dân và doanh nghiệp có thể đoán trước và lập kế hoạch. Tránh tình trạng “sáng đúng, chiều sai, ngày mai lại sửa”, khiến doanh nghiệp không dám đầu tư vì sợ rủi ro chính sách.
+Người 2: Còn “Sự tham gia” chắc là để người dân được góp ý kiến đúng không cô?
+Người 1: Đúng rồi. Tiền là của dân đóng góp, dân phải được tham gia vào quy trình quyết định xem nên xây cầu hay xây tượng đài. Đó là dân chủ trong tài chính.
+
+Slide 10: MỐI QUAN HỆ GIỮA MỤC TIÊU TCC VÀ “TỨ TRỤ” (Hình ảnh trên slide: Bảng ma trận. Cột dọc là 4 tiêu chí (Minh bạch, Trách nhiệm…). Hàng ngang là 3 Trụ cột mục tiêu. Các ô giao nhau chứa các hành động cụ thể như: “Công khai ngân sách”, “Dự báo thu tin cậy”…).
+Người 1: Slide này tổng hợp lại tất cả những gì chúng ta vừa bàn. Nó là một ma trận kết hợp giữa Mục tiêu (Cái đích đến) và Phương pháp quản trị (Cách làm).
+Người 2: Bảng này nhiều chữ quá cô ơi. Cô có thể chỉ cho em cách đọc hiểu nhanh nhất không ạ?
+Người 1: Rất đơn giản. Em hãy nhìn vào hàng “Minh bạch”.
+• Để có Kỷ luật tài khóa, sự minh bạch thể hiện ở việc: Phải công bố các dự báo và rủi ro nợ công cho mọi người thấy.
+• Để có Hiệu quả phân bổ, sự minh bạch là: Phải công khai dự thảo ngân sách để dân biết tiền đi về đâu.
+Người 2: À, em hiểu rồi. Tức là từng tiêu chí quản trị sẽ hỗ trợ cụ thể cho từng mục tiêu tài chính. Ví dụ như “Trách nhiệm giải trình” thì buộc ông lãnh đạo phải cam kết số liệu dự báo thu là chính xác, không được “vẽ số” ảo.
+Người 1: Chính xác. Nếu không có 4 trụ cột quản trị này, thì 3 mục tiêu tài chính kia chỉ là khẩu hiệu suông thôi. Đây là nền tảng cốt lõi của bài học hôm nay.
+Slide 11: ĐẶC ĐIỂM VỀ NỘI DUNG QUẢN LÝ TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ 2 dòng chảy song song: Dòng tiền tệ: Hình ảnh các đồng tiền, ngân sách, quỹ dự trữ. Dòng tài sản: Hình ảnh cầu đường, công sở, đất đai, tài nguyên. Ở giữa là mũi tên 2 chiều với dòng chữ: “PHẢI ĂN KHỚP”).
+Người 1: Chúng ta đã biết mục tiêu là gì rồi. Vậy cụ thể Nhà nước quản lý cái gì? Có phải chỉ là quản lý tiền mặt trong kho bạc không? Mời các em nhìn Slide 11.
+Người 2: Em thấy slide ghi là quản lý cả “Dòng tiền tệ” và “Dòng tài sản”. “Dòng tài sản” ở đây là gì vậy cô? Chẳng lẽ Nhà nước đi quản lý bàn ghế, máy tính ạ?
+Người 1: “Tài sản” ở đây rộng hơn nhiều. Đó là đất đai, tài nguyên khoáng sản, là hệ thống cầu đường, bến cảng, và cả các công trình công cộng. Đặc điểm quan trọng nhất ở đây là Nguyên tắc vàng về sự ăn khớp. Nhà nước bơm tiền ra (Dòng tiền) thì phải có hàng hóa/dịch vụ/công trình tương ứng (Dòng vật chất) được tạo ra.
+Người 2: Nếu không ăn khớp thì sao ạ?
+Người 1: Nếu Nhà nước chi ra hàng nghìn tỷ đồng (tiền) để làm đường, nhưng con đường đó làm dở dang rồi bỏ hoang (không thành tài sản hữu dụng), thì lượng tiền đó sẽ gây áp lực lên nền kinh tế, dẫn đến lạm phát. Vì vậy, quản lý tài chính công là quản lý cả tiền và hiện vật.
+
+Slide 12: ĐẶC ĐIỂM VỀ PHƯƠNG PHÁP VÀ CÔNG CỤ QUẢN LÝ (Hình ảnh trên slide: Hình ảnh cái búa của thẩm phán hoặc cuốn Luật Ngân sách (biểu tượng Quyền lực Nhà nước). Sơ đồ các công cụ: Luật pháp -> Thanh tra/Kiểm tra -> Công khai/Giám sát).
+Người 1: Vậy làm thế nào để Nhà nước quản lý được khối lượng tiền và tài sản khổng lồ đó? Khác với doanh nghiệp tư nhân dùng “thỏa thuận dân sự”, Nhà nước dùng Quyền lực chính trị.
+Người 2: Quyền lực chính trị có phải là Nhà nước muốn làm gì thì làm không cô?
+Người 1: Không hề. Quyền lực đó phải được thể chế hóa thành Luật pháp (như Luật NSNN, Luật Thuế). Phương pháp quản lý mang tính “Mệnh lệnh” và “Quyền uy”. Ví dụ: Khi Nhà nước ban hành Luật Thuế, em bắt buộc phải nộp, không nộp là vi phạm pháp luật. Em không thể “mặc cả” với cơ quan thuế như mặc cả mua rau ngoài chợ được.
+Người 2: Và để đảm bảo mọi người tuân thủ thì cần có công cụ giám sát đúng không ạ?
+Người 1: Chính xác. Đó là lý do chúng ta có Kiểm toán Nhà nước, Thanh tra Chính phủ và đặc biệt là quy định về Công khai tài chính để người dân cùng giám sát.
+
+Slide 13: TỔNG KẾT NỘI DUNG BÀI HỌC (Hình ảnh trên slide: Một sơ đồ tư duy (Mindmap) tóm tắt toàn bộ bài: Trung tâm: Lợi ích quốc gia. Các nhánh: 3 Trụ cột mục tiêu -> 4 Tiêu chí quản trị -> Nội dung Tiền/Tài sản -> Phương pháp Quyền lực).
+Người 1: Như vậy, chúng ta đã đi qua toàn bộ nội dung của bài “Đặc điểm Quản lý Tài chính công”. Cô muốn các em nhìn lại bức tranh tổng thể trên slide này.
+Người 2: Nhìn sơ đồ này em thấy mọi thứ liên kết chặt chẽ với nhau. Mục tiêu cuối cùng là phục vụ lợi ích quốc gia, và để làm được điều đó thì phải có kỷ luật, phải minh bạch và phải dùng pháp luật để thực thi.
+Người 1: Đúng vậy. Thông điệp cô muốn các em mang về hôm nay là: Tài chính công không chỉ là chuyện thu - chi tiền bạc, mà là chuyện sử dụng quyền lực nhà nước để giải quyết các vấn đề xã hội một cách hiệu quả và công bằng nhất.
+
+Slide 14: BÀI TẬP VẬN DỤNG KIẾN THỨC (Hình ảnh trên slide: Tiêu đề: TÌNH HUỐNG TỈNH A. Hình minh họa: Một bên là bản vẽ tòa nhà hành chính nguy nga tráng lệ (2.000 tỷ). Một bên là hình ảnh trạm y tế xập xệ, mái dột. Dữ kiện nổi bật: “Tỉnh nghèo”, “Nhận trợ cấp TƯ”, “Đề xuất xây 2.000 tỷ”).
+Người 1: Để kết thúc bài học, chúng ta cùng giải quyết một tình huống thực tế. Đây là câu chuyện không hiếm gặp ở Việt Nam. Tình huống: Tỉnh A là tỉnh nghèo, thu không đủ chi, vẫn phải xin tiền Trung ương. Nhưng tỉnh lại đề xuất xây Trung tâm Hành chính 2.000 tỷ để “nâng cao diện mạo”. Trong khi đó, trường học, bệnh viện thì xuống cấp.
+Người 2: Nghe tình huống này quen quá cô ơi, em đọc báo thấy hoài. Dựa vào 3 trụ cột đã học, em thấy đề xuất này có vấn đề lớn rồi.
+Người 1: Cụ thể vấn đề nằm ở đâu? Các em hãy thử đóng vai là chuyên gia tư vấn của Bộ Tài chính để thẩm định dự án này xem nào.
+
+Slide 15: GỢI Ý LỜI GIẢI TÌNH HUỐNG (Hình ảnh trên slide: Bảng phân tích 3 dòng với các dấu “X” đỏ (Vi phạm/Không đạt): Kỷ luật tài khóa: VI PHẠM (Đang thâm hụt lại chi lớn). Hiệu quả phân bổ: KHÔNG HIỆU QUẢ (Sai thứ tự ưu tiên). Hiệu quả hoạt động: THẤP (Chi phí cơ hội quá cao)).
+Người 1: Đây là đáp án gợi ý. Chúng ta cùng “mổ xẻ” nhé. Thứ nhất, về Kỷ luật tài khóa.
+Người 2: Dạ, vi phạm nghiêm trọng ạ. Đã nghèo, đã thâm hụt phải đi xin viện trợ mà còn đòi chi tiêu xa xỉ thì sẽ làm tăng nợ công và gánh nặng cho ngân sách quốc gia.
+Người 1: Rất đúng. Thứ hai, về Hiệu quả phân bổ.
+Người 2: Cũng không đạt luôn. Nguồn lực đang khan hiếm (tiền ít) thì phải ưu tiên cho những gì cấp bách nhất là Y tế và Giáo dục (phục vụ con người), chứ không phải ưu tiên cho “bộ mặt” hay “hình thức” (tòa nhà đẹp). Đây là sự phân bổ sai lệch.
+Người 1: Chuẩn xác. Và cuối cùng, Hiệu quả hoạt động. Bỏ ra 2.000 tỷ đồng (đầu vào khổng lồ) chỉ để các quan chức có chỗ ngồi đẹp hơn, trong khi không chứng minh được nó giúp dân làm thủ tục nhanh hơn hay tốt hơn (đầu ra). Chi phí cơ hội là quá lớn. Kết luận: Đề xuất này cần bị BÁC BỎ vì đi ngược lại bản chất của Quản lý Tài chính công.
+Người 1: Bài học hôm nay dừng ở đây. Cảm ơn các em đã tham gia rất sôi nổi!

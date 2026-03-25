@@ -1,0 +1,98 @@
+﻿Slide 1: TRANG BÌA - GIỚI THIỆU TỔNG QUAN (Hình ảnh trên slide: Tiêu đề lớn “PHẦN 2: KHÁI NIỆM TÀI CHÍNH CÔNG VÀ THẤT BẠI THỊ TRƯỜNG”. Phía dưới ghi rõ môn học “Quản lý Tài chính công”. Góc dưới có logo NotebookLM )
+Người 1: Chào các em. Hôm nay chúng ta sẽ tiếp tục với Phần 2 trong Chương 1. Chủ đề của chúng ta hôm nay là: Khái niệm Tài chính công và Thất bại thị trường. Nhìn vào tên bài học, cô muốn hỏi một chút: Theo các em, tại sao chúng ta không bắt tay vào học ngay cách tính thuế hay cách Chính phủ chi tiền, mà lại phải đi từ những khái niệm lý thuyết và cụm từ nghe có vẻ vĩ mô như “Thất bại thị trường”?
+Người 2: Dạ thưa cô, em nghĩ giống như xây nhà phải có móng. Nếu không hiểu rõ bản chất “nó là gì” và tại sao Chính phủ phải can thiệp vào thị trường, thì sau này rất khó để giải thích tại sao Nhà nước lại đánh thuế môi trường hay trợ giá xe buýt ạ.
+Người 1: Rất chính xác. Tiết học này chính là việc “xây móng”. Chúng ta sẽ đi tìm câu trả lời cho việc tại sao trong một nền kinh tế hỗn hợp, Chính phủ lại phải đóng vai trò là “bàn tay hữu hình” bên cạnh “bàn tay vô hình” của thị trường. Chúng ta cùng bắt đầu nhé.
+
+Slide 2: BẢN CHẤT TÀI CHÍNH CÔNG (GIAO THOA KINH TẾ & CHÍNH TRỊ) (Hình ảnh trên slide: Biểu đồ Venn với hai vòng tròn giao nhau. Vòng tròn trái là “Lăng kính Kinh tế học”, vòng tròn phải là “Lăng kính Pháp lý & Chính trị”. Phần giao nhau ở giữa là “Tài chính công” )
+Người 1: Đầu tiên, hãy nhìn vào biểu đồ này. Tài chính công không đứng một mình, mà nó là “đứa con lai” nằm ngay tại điểm chạm giữa Kinh tế học và Chính trị học.
+Người 2: Em thấy bên “Lăng kính Kinh tế học” có ghi nhiệm vụ là can thiệp để giải quyết “thất bại thị trường”. Có phải nghĩa là khi tư nhân làm không tốt thì Nhà nước mới nhảy vào không ạ?
+Người 1: Đúng vậy. Dưới góc độ kinh tế, Chính phủ xuất hiện để cung cấp hàng hóa công và tài trợ nguồn lực ở những nơi mà thị trường tư nhân bỏ quên hoặc làm không hiệu quả. Nhưng chưa đủ, em hãy nhìn sang vòng tròn bên phải – “Lăng kính Pháp lý & Chính trị”.
+Người 2: Dạ, bên đó nhấn mạnh đến yếu tố “Quyền lực” (Power) và “Công cụ” (Tool).
+Người 1: Chính xác. Tài chính công không chỉ là tiền, mà là Quyền lực công. Ngân sách Nhà nước chính là công cụ để biến các mục tiêu chính trị (như công bằng xã hội, an ninh quốc gia) thành hành động cụ thể. Ví dụ: Việc Quốc hội quyết định chi 1000 tỷ xây đường cao tốc không chỉ là bài toán kinh tế (lợi nhuận), mà là quyết định chính trị để phát triển vùng miền.
+
+Slide 3: KHUNG LÝ THUYẾT MUSGRAVE (1959) - BA TRỤ CỘT (Hình ảnh trên slide: Một ngôi đền với 3 trụ cột vững chắc. Tên ba trụ cột lần lượt là: Chức năng Phân bổ, Chức năng Phân phối, và Chức năng Ổn định )
+Người 1: Để cụ thể hóa vai trò của Chính phủ, nhà kinh tế học Richard Musgrave đã đưa ra hệ thống 3 chức năng vào năm 1959, được ví như 3 trụ cột chống đỡ ngôi nhà Tài chính công.
+Người 2: Nhìn vào sơ đồ, em thấy ba chức năng này có vẻ tách biệt. Trụ cột đầu tiên là Phân bổ (Allocation Branch). Có phải đây là việc Nhà nước quyết định tiền sẽ đi về đâu không cô?
+Người 1: Gần đúng. Chức năng Phân bổ tập trung vào việc can thiệp để cung cấp hàng hóa công và điều chỉnh các thất bại thị trường. Nhưng Nhà nước còn phải lo cho người nghèo nữa, đó là trụ cột thứ hai: Phân phối (Distribution Branch) – điều chỉnh thu nhập để đảm bảo công bằng.
+Người 2: Và trụ cột cuối cùng là Ổn định (Stabilization Branch). Em thấy ghi là “duy trì toàn dụng lao động và ổn định giá cả”. Nghĩa là giúp nền kinh tế không bị lạm phát hay thất nghiệp quá cao đúng không ạ?
+Người 1: Rất chuẩn. Tuy nhiên, các em cần lưu ý dòng chữ nhỏ bên dưới: “Trong thực tế, các chức năng này thường xuyên chồng chéo và tương tác lẫn nhau”. Một chính sách thuế có thể vừa giúp phân phối lại thu nhập, vừa ảnh hưởng đến ổn định kinh tế vĩ mô.
+
+Slide 4: TRỤ CỘT 1 - CHỨC NĂNG PHÂN BỔ NGUỒN LỰC (Hình ảnh trên slide: 3 icon minh họa. 1. Ngọn hải đăng tỏa sáng. 2. Ống khói nhà máy và cây xanh (tượng trưng ngoại ứng). 3. Nhà máy điện và đường dây tải điện nối đến các hộ dân )
+Người 1: Chúng ta đi sâu vào trụ cột đầu tiên: Chức năng Phân bổ nguồn lực. Nhiệm vụ cốt lõi ở đây là Nhà nước kiến tạo sân chơi khi thị trường thất bại. Hãy nhìn 3 hình ảnh trên slide, chúng đại diện cho 3 lý do chính khiến Chính phủ phải can thiệp.
+Người 2: Hình ngọn hải đăng chắc chắn là Hàng hóa công thuần túy rồi ạ. Vì tư nhân xây hải đăng thì rất khó thu tiền của từng con tàu đi qua biển.
+Người 1: Đúng thế. Còn hình ống khói nhà máy đại diện cho Xử lý ngoại ứng. Khi một nhà máy xả thải gây ô nhiễm, thị trường không tự bắt họ đền bù cho người dân, nên Chính phủ phải can thiệp. Cuối cùng, hình ảnh đường dây điện đại diện cho Độc quyền tự nhiên.
+Người 2: Độc quyền tự nhiên có phải như ngành điện nước, đường sắt không cô?
+Người 1: Chuẩn xác. Đó là những ngành mà chi phí đầu tư ban đầu quá lớn, nếu để nhiều công ty cùng làm đường ray tàu hỏa song song nhau thì rất lãng phí xã hội. Do đó, thường chỉ có một nhà cung cấp, và Nhà nước phải đứng ra điều tiết hoặc trực tiếp sở hữu để tránh việc họ tăng giá vô tội vạ.
+
+Slide 5: HÀNG HÓA CÔNG & VẤN ĐỀ “KẺ ĂN KHÔNG” (Hình ảnh trên slide: Cột phát sóng radio (minh họa không cạnh tranh), Pháo hoa (minh họa không loại trừ), và nhóm người đứng chờ (minh họa kẻ ăn không) )
+Người 1: Ở slide này, chúng ta sẽ làm rõ khái niệm Hàng hóa công. Nó có hai đặc điểm cốt lõi mà các em buộc phải thuộc lòng: Không cạnh tranh (Non-rivalry) và Không thể loại trừ (Non-excludability).
+Người 2: Cô có thể lấy ví dụ thực tế cho dễ hiểu không ạ? Em thấy trên slide có hình cột phát sóng và pháo hoa.
+Người 1: Ví dụ về Không cạnh tranh: Khi em nghe đài phát thanh (hình cột sóng), việc em nghe không hề làm giảm chất lượng sóng hay ngăn cản bạn em nghe cùng lúc. Còn Không thể loại trừ: Khi thành phố bắn pháo hoa (hình pháo hoa), Nhà nước không thể xây tường bao quanh bầu trời để chỉ những ai mua vé mới được ngắm. Ai đứng gần cũng xem được.
+Người 2: À, vậy nó dẫn đến hình ảnh thứ 3: Vấn đề “Kẻ ăn không” (Free Rider Problem). Tức là ai cũng muốn xem pháo hoa nhưng không ai muốn bỏ tiền ra tổ chức vì nghĩ rằng mình có thể “xem chùa”?
+Người 1: Rất thông minh. Đó chính là lý do tư nhân không muốn sản xuất hàng hóa công, vì họ không thu được tiền. Và đây là lúc Chính phủ phải xuất hiện: Cung cấp hàng hóa đó và thu tiền thông qua Thuế của toàn dân.
+
+Slide 6: XỬ LÝ NGOẠI ỨNG - KHI NGƯỜI NGOÀI CUỘC CHỊU TRẬN (Hình ảnh trên slide: Hai cán cân đối lập. Bên trái là hình ảnh nhà máy xả khói đen (Ngoại ứng tiêu cực) đi kèm biểu tượng Thuế. Bên phải là hình ảnh tiêm chủng vắc-xin (Ngoại ứng tích cực) đi kèm biểu tượng Trợ cấp)
+Người 1: Chúng ta sang Slide số 6. Một thất bại thị trường phổ biến khác là Ngoại ứng (Externalities). Đây là khi hành động của một người gây ảnh hưởng đến người khác mà không có sự đền bù hay trả tiền. Nhiệm vụ của Nhà nước ở đây là “Nội hóa” các chi phí này.
+Người 2: “Nội hóa” nghe trừu tượng quá cô ơi. Có phải ý là bắt người gây ra chuyện phải tự chịu trách nhiệm không ạ?
+Người 1: Rất chính xác. Hãy nhìn vào hình bên trái: Ngoại ứng tiêu cực. Một nhà máy thép xả khói gây ô nhiễm. Họ có lợi nhuận, nhưng người dân xung quanh bị bệnh phổi. Thị trường không bắt nhà máy trả tiền thuốc cho dân. Vì vậy, Nhà nước phải can thiệp bằng cách đánh Thuế Pigou hoặc phí môi trường. Thuế này buộc nhà máy phải tính cả chi phí ô nhiễm vào giá thành sản phẩm.
+Người 2: Còn hình bên phải là tiêm vắc-xin. Em tiêm thì em khỏe, sao lại gọi là ngoại ứng ạ?
+Người 1: Vì khi em tiêm, em không chỉ bảo vệ mình mà còn giảm nguy cơ lây bệnh cho cả cộng đồng. Đó là Ngoại ứng tích cực. Nhưng vì chi phí tiêm có thể cao, nhiều người sẽ không tiêm đủ mức xã hội cần. Lúc này, Nhà nước phải Trợ cấp hoặc tiêm miễn phí để khuyến khích.
+
+Slide 7: ĐỘC QUYỀN TỰ NHIÊN - KHI CẠNH TRANH LÀ LÃNG PHÍ (Hình ảnh trên slide: Biểu đồ đường chi phí trung bình (ATC) dốc xuống. Hình minh họa: Hệ thống đường ray tàu hỏa và mạng lưới cấp nước)
+Người 1: Mời các em sang Slide 7. Có những ngành mà nếu để cạnh tranh tự do thì lại… lỗ vốn và lãng phí. Chúng ta gọi đó là Độc quyền tự nhiên (Natural Monopoly).
+Người 2: Lạ nhỉ, em tưởng cạnh tranh lúc nào cũng tốt chứ? Sao lại có chuyện cạnh tranh gây lãng phí ạ?
+Người 1: Em hãy tưởng tượng việc cấp nước sạch. Để đưa nước đến nhà dân, cần một hệ thống đường ống ngầm khổng lồ. Nếu có 3 công ty cùng cạnh tranh, họ sẽ phải đào đường lên để lắp 3 đường ống song song vào nhà em. Chi phí cố định cực lớn nhưng chi phí biên để bơm thêm 1 khối nước lại rất thấp. Xã hội sẽ lãng phí nguồn lực khủng khiếp.
+Người 2: À, vậy nên thường chỉ có một ông như Công ty nước sạch hay Điện lực (EVN) làm thôi đúng không cô? Nhưng nhỡ họ độc quyền rồi họ tăng giá tùy thích thì sao?
+Người 1: Đó chính là rủi ro: Giá cao và Sản lượng thấp. Vì thế, Nhà nước phải can thiệp bằng hai cách: Một là Sở hữu công (như Tập đoàn Điện lực EVN trước đây). Hai là cho tư nhân làm nhưng Điều tiết giá (Nhà nước quy định giá trần, không được tự ý tăng giá điện/nước).
+
+Slide 8: TRỤ CỘT 2 - CHỨC NĂNG PHÂN PHỐI LẠI (Hình ảnh trên slide: Hình ảnh bàn tay đang san sẻ các đồng tiền vàng để cán cân thăng bằng hơn. Bên cạnh là hình ảnh “Lưới an sinh xã hội” đỡ những người rơi xuống)
+Người 1: Chúng ta vừa xong chức năng “Phân bổ” (làm chiếc bánh kinh tế to ra). Giờ sang trụ cột thứ hai ở Slide 8: Chức năng Phân phối lại (Distribution).
+Người 2: Thưa cô, tại sao thị trường đã phân phối tiền lương rồi mà Nhà nước còn phải phân phối lại làm gì nữa ạ?
+Người 1: Vì thị trường rất “tàn nhẫn”. Nó chỉ thưởng cho những người có kỹ năng cao hoặc may mắn, dẫn đến chênh lệch giàu nghèo rất lớn. Một xã hội quá bất bình đẳng sẽ dẫn đến bất ổn. Vì thế, Nhà nước phải tạo ra một “Lưới an sinh xã hội” để bảo vệ người già, người khuyết tật, người thất nghiệp. Mục tiêu là đảm bảo mọi công dân đều được tiếp cận các Hàng hóa thiết yếu (Merit goods) như y tế, giáo dục cơ bản.
+
+Slide 9: CÔNG CỤ PHÂN PHỐI - LẤY CỦA NGƯỜI GIÀU CHIA CHO NGƯỜI NGHÈO? (Hình ảnh trên slide: Sơ đồ dòng tiền. Đầu vào: Thuế (Thuế thu nhập lũy tiến). Đầu ra: 3 mũi tên - Trợ cấp bằng tiền, Trợ cấp hiện vật, Cung cấp dịch vụ công)
+Người 1: Vậy Nhà nước thực hiện việc phân phối lại bằng cách nào? Slide 9 sẽ cho chúng ta thấy bộ công cụ “Thu” và “Chi”.
+Người 2: Em nhìn sơ đồ thấy đầu vào là Thuế thu nhập cá nhân lũy tiến. Có phải ai làm nhiều tiền thì bị đánh thuế phần trăm cao hơn không ạ?
+Người 1: Đúng vậy. Người giàu không chỉ đóng nhiều tiền hơn, mà tỷ lệ đóng góp trên thu nhập của họ cũng cao hơn. Số tiền này sẽ được Nhà nước chi ra qua 3 kênh:
+1. Trợ cấp bằng tiền (Cash transfers): Như lương hưu, trợ cấp thất nghiệp.
+2. Trợ cấp bằng hiện vật (In-kind transfers): Như cấp thẻ bảo hiểm y tế miễn phí cho người nghèo, nhà ở xã hội.
+3. Cung cấp dịch vụ công: Như miễn học phí cho học sinh tiểu học.
+
+Slide 10: SỰ ĐÁNH ĐỔI - CÔNG BẰNG VÀ HIỆU QUẢ (Hình ảnh trên slide: Hình ảnh chiếc bánh Pizza. Một bên là chiếc bánh to nhưng chia miếng to miếng nhỏ. Bên kia là chiếc bánh nhỏ hơn nhưng chia đều tăm tắp. Dòng chữ lớn: Equity-Efficiency Trade-off)
+Người 1: Slide 10 là một trong những khái niệm quan trọng nhất của kinh tế học công cộng: Sự đánh đổi giữa Công bằng và Hiệu quả.
+Người 2: Nhìn hình chiếc bánh pizza, em đoán là nếu chia đều quá thì bánh sẽ bị bé đi đúng không cô?
+Người 1: Rất thông minh. Nếu Nhà nước đánh thuế người giàu quá cao (để chia cho người nghèo), người giỏi sẽ mất động lực làm việc và đầu tư. Khi đó, tổng sản phẩm xã hội (kích thước chiếc bánh) sẽ giảm sút.
+Người 2: Vậy là chúng ta không thể có cả hai cùng lúc ạ?
+Người 1: Đó là bài toán khó của Chính phủ. Phải tìm được Điểm cân bằng tối ưu: Chấp nhận một mức độ bất bình đẳng nhất định để duy trì động lực tăng trưởng, nhưng vẫn phải đảm bảo an sinh xã hội cơ bản. Không có đáp án hoàn hảo, chỉ có sự lựa chọn phù hợp với từng giai đoạn phát triển của đất nước.
+
+Slide 11: TRỤ CỘT 3 - CHỨC NĂNG ỔN ĐỊNH KINH TẾ VĨ MÔ (Hình ảnh trên slide: Biểu đồ hình sin thể hiện chu kỳ kinh tế (Boom & Bust). Một đường thẳng đi xuyên qua thể hiện sự can thiệp của Chính phủ giúp làm phẳng chu kỳ này)
+Người 1: Chúng ta đến với trụ cột cuối cùng trong mô hình Musgrave ở Slide 11: Chức năng Ổn định (Stabilization).
+Người 2: Thưa cô, em thấy nền kinh tế lúc nào cũng có lúc lên lúc xuống giống hình sin trên bảng. Lúc thì làm ăn phát đạt, lúc thì thất nghiệp tràn lan. Vậy Nhà nước ổn định kiểu gì ạ?
+Người 1: Đúng là kinh tế thị trường luôn có chu kỳ “Tăng trưởng nóng” và “Suy thoái”. Nếu để mặc kệ, khi suy thoái, thất nghiệp sẽ tăng vọt, gây bất ổn xã hội. Lúc này, Chính phủ đóng vai trò như một “bác sĩ” điều tiết nhịp tim của nền kinh tế, giữ cho nó không đập quá nhanh (lạm phát) cũng không quá chậm (thất nghiệp).
+Người 2: Em hiểu rồi. Tức là Nhà nước sẽ cố gắng nắn dòng kẻ đó cho nó bớt gập ghềnh, đi ngang ổn định hơn đúng không ạ?
+Người 1: Chính xác. Mục tiêu là duy trì: Toàn dụng lao động, Ổn định giá cả, và Tăng trưởng kinh tế hợp lý.
+
+Slide 12: CÔNG CỤ TÀI KHÓA - “CHÂN PHANH” VÀ “CHÂN GA” (Hình ảnh trên slide: Hình ảnh buồng lái ô tô với hai bàn đạp: Thuế (Phanh/Ga) và Chi tiêu công (Phanh/Ga). Dòng chữ lớn: Chính sách Tài khóa Nghịch chu kỳ)
+Người 1: Để làm được điều đó, Chính phủ sử dụng hai công cụ quyền lực nhất, thể hiện ở Slide 12: Thuế và Chi tiêu công. Các em hãy hình dung nó như việc lái xe.
+Người 2: Cô ví dụ cụ thể được không ạ? Khi kinh tế đang suy thoái, ảm đạm thì Chính phủ phải đạp ga hay đạp phanh?
+Người 1: Khi kinh tế suy thoái, dân không có tiền mua sắm, Chính phủ phải “Đạp ga” (Chính sách mở rộng). Tức là: Giảm thuế để dân có thêm tiền tiêu, và Tăng chi tiêu công (như xây cầu đường) để tạo thêm việc làm.
+Người 2: Ngược lại, nếu kinh tế đang tăng trưởng quá nóng, lạm phát cao, thì Chính phủ phải “Đạp phanh” (Chính sách thắt chặt) bằng cách Tăng thuế và Cắt giảm chi tiêu để rút bớt tiền về, hạ nhiệt giá cả. Chúng ta gọi đó là chính sách Nghịch chu kỳ.
+
+Slide 13: BÀI TẬP TÌNH HUỐNG - THUẾ XĂNG DẦU & TRỢ GIÁ XE BUÝT (Hình ảnh trên slide: Bài tập vận dụng từ trang 13 PDF. Bên trái: Hình ảnh bơm xăng với giá tăng cao. Bên phải: Hai mũi tên chính sách - 1. Thuế cao với xe cá nhân/xe sang. 2. Trợ giá/Miễn phí xe buýt)
+Người 1: Lý thuyết đã xong. Bây giờ chúng ta cùng giải quyết một tình huống thực tế ở Slide 13. Tình huống: Giá dầu thế giới tăng cao. Chính phủ nước A quyết định: (1) Đánh thuế tiêu thụ đặc biệt rất cao với xe hơi hạng sang, và (2) Dùng tiền đó để trợ giá vé xe buýt (thậm chí miễn phí).
+Người 2: Câu hỏi là gì ạ?
+Người 1: Có 2 câu hỏi cho các em:
+1. Hãy phân tích tác động của chính sách này dựa trên 3 chức năng của Tài chính công mà ta vừa học?
+2. Nếu thuế xe sang tăng quá cao (ví dụ 300%), rủi ro gì sẽ xảy ra? Các em có 1 phút suy nghĩ.
+
+Slide 14: GIẢI MÃ TÌNH HUỐNG - DƯỚI LĂNG KÍNH TÀI CHÍNH CÔNG (Hình ảnh trên slide: Nội dung giải đáp từ trang 14 PDF. Sơ đồ dòng tiền: Tiền từ Người giàu (Thuế xe sang) -> Ngân sách -> Người nghèo (Vé xe buýt). Cảnh báo rủi ro: Hình ảnh buôn lậu)
+Người 1: Mời các em nhìn lên Slide 14 để đối chiếu câu trả lời. Chính sách này là một ví dụ kinh điển về sự phối hợp các chức năng.
+Người 2: Em xin phép trả lời thử ạ. Về Chức năng Phân bổ: Thuế cao làm giảm việc mua xe sang (hạn chế lãng phí), và trợ giá giúp người dân chuyển sang đi xe buýt công cộng (giảm ùn tắc, giảm ô nhiễm). Đây là xử lý ngoại ứng tích cực và tiêu cực.
+Người 1: Rất tốt. Còn chức năng Phân phối?
+Người 2: Dạ, đây rõ ràng là Phân phối lại. Nhà nước lấy tiền của người giàu (người mua xe sang) để hỗ trợ người thu nhập thấp (sinh viên, công nhân đi xe buýt).
+Người 1: Chính xác. Nhưng hãy cẩn thận với câu hỏi số 2. Nếu thuế quá cao (300%), chúng ta sẽ gặp rủi ro “Thất bại của Chính phủ”. Người dân sẽ ngừng mua xe hoặc chuyển sang buôn lậu. Khi đó, Nhà nước vừa thất thu thuế, vừa không có tiền để trợ giá xe buýt. Đây chính là bài học về sự đánh đổi.
+
+Slide 15: TỔNG KẾT & THÔNG ĐIỆP GHI NHỚ (Hình ảnh trên slide: Tổng hợp các từ khóa chính: Hàng hóa công - Ngoại ứng - Độc quyền - Phân bổ - Phân phối - Ổn định. Lời chào kết thúc bài)
+Người 1: Chúng ta khép lại bài học hôm nay ở Slide 15. Qua bài này, cô muốn các em ghi nhớ: Tài chính công không chỉ là những con số khô khan, mà là công cụ để giải quyết những vấn đề mà thị trường không làm được.
+Người 2: Em tóm tắt lại nhé: Nhà nước can thiệp vì 3 lý do (Hàng hóa công, Ngoại ứng, Độc quyền) và thực hiện qua 3 chức năng (Phân bổ, Phân phối, Ổn định).
+Người 1: Đúng vậy. Nhưng hãy nhớ bài học từ tình huống xe buýt: Can thiệp của Chính phủ là cần thiết, nhưng phải có giới hạn và tính toán kỹ lưỡng, nếu không sẽ dẫn đến tác dụng ngược. Cảm ơn các em đã tham gia rất sôi nổi. Hẹn gặp lại các em ở bài học về “Ngân sách Nhà nước” tuần sau.

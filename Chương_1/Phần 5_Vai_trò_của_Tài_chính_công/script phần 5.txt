@@ -1,0 +1,79 @@
+﻿
+Slide 1: TRANG BÌA & KHÁI NIỆM TỔNG QUAN
+Người 1: Chào các em. Hôm nay chúng ta sẽ đi vào một phần cực kỳ thú vị, đó là Vai trò của Tài chính công. Nhìn vào slide này, các em thấy định nghĩa nói rằng Tài chính công là “công cụ quyền lực”. Tại sao lại dùng từ mạnh như vậy? Tại sao không nói đơn giản là “công cụ thu chi tiền”?
+Người 2: Dạ thưa cô, em nghĩ vì “tiền là quyền” ạ. Khi Nhà nước nắm giữ nguồn lực tài chính, Nhà nước có thể buộc mọi người phải làm theo định hướng của mình, ví dụ như đóng thuế hoặc tuân thủ quy định đầu tư.
+Người 1: Rất chính xác. Hãy tưởng tượng thế này: Trong gia đình, người nắm tay hòm chìa khóa thường có tiếng nói quyết định chi tiêu vào việc gì. Ở quy mô quốc gia, Tài chính công không chỉ là cái ví tiền, mà là công cụ để Chính phủ thực hiện 3 việc lớn: Duy trì sự tồn tại của chính mình, điều khiển nền kinh tế và chia lại chiếc bánh thu nhập cho công bằng. Ví dụ thực tế nhé: Khi dịch COVID-19 xảy ra, nếu không có nguồn lực tài chính công (ngân sách), làm sao Chính phủ có thể mua hàng triệu liều vắc-xin miễn phí cho toàn dân ngay lập tức? Đó chính là thể hiện “quyền lực” và vai trò “bảo đảm công bằng xã hội” đấy.
+
+Slide 2: BA TRỤ CỘT CHÍNH CỦA TÀI CHÍNH CÔNG
+Người 1: Để dễ nhớ, các em hãy hình dung vai trò của Tài chính công giống như một ngôi nhà có 3 cái trụ cột vững chắc. Nhìn vào slide, ai có thể xung phong giải thích sơ bộ trụ cột đầu tiên không?
+Người 2: Em xin phép ạ. Trụ cột 1 là “Đảm bảo duy trì bộ máy Nhà nước”. Em hiểu nôm na là nuôi sống bộ máy chính quyền. Nếu không có tiền trả lương cho công an, bác sĩ, hay thắp sáng đèn đường, thì Nhà nước sẽ ngừng hoạt động ngay lập tức.
+Người 1: Đúng rồi. Đó là điều kiện tiên quyết. Nhưng chưa đủ, Tài chính công còn phải tương tác với túi tiền của dân và doanh nghiệp (đó là Trụ cột 2) và cuối cùng là phải đạt được mục đích cao đẹp là tăng trưởng và công bằng (Trụ cột 3). Trong cuốn Public Finance của Gruber, ông ấy ví von rằng chính phủ can thiệp vào nền kinh tế không chỉ để sửa chữa các thất bại thị trường (như ô nhiễm môi trường) mà còn để phân phối lại thu nhập. Ba trụ cột này chính là khung xương sống cho toàn bộ các hành động đó.
+
+Slide 3: TRỤ CỘT 1 - ĐẢM BẢO DUY TRÌ BỘ MÁY NHÀ NƯỚC
+Người 1: Chúng ta đi sâu vào Trụ cột 1. Slide này nói rằng Nhà nước cần một “nguồn lực vật chất khổng lồ”. Tại sao lại là khổng lồ?
+Người 2: Vì bộ máy nhà nước bao trùm khắp nơi ạ. Từ biên giới hải đảo đến từng ủy ban phường xã.
+Người 1: Chuẩn xác. Ví dụ ở Việt Nam, chúng ta có hàng triệu cán bộ, công chức, viên chức trong ngành giáo dục, y tế, an ninh. Để “cỗ máy” khổng lồ này vận hành trơn tru, Tài chính công phải thực hiện nhiệm vụ đầu tiên là: Khai thác và huy động nguồn tài chính (thuế, phí, vay nợ…). Các em có nhớ đợt Chính phủ Mỹ phải “đóng cửa” (government shutdown) vì Quốc hội không thông qua ngân sách không? Khi đó, các công viên quốc gia đóng cửa, nhân viên an ninh sân bay làm việc không lương. Đó là minh chứng rõ nhất cho việc nếu Trụ cột 1 này bị lung lay, xã hội sẽ rối loạn ngay.
+
+Slide 4: TRỤ CỘT 2 - VAI TRÒ TRONG HỆ THỐNG TÀI CHÍNH
+Người 1: Sang đến Trụ cột 2, đây là phần rất thú vị và tinh tế. Tài chính công không đứng một mình, mà nó có mối quan hệ mật thiết với Tài chính tư (túi tiền của doanh nghiệp và người dân). Slide này liệt kê 3 cơ chế tác động: Chi phối, Hướng dẫn và Điều chỉnh. Theo các em, “Chi phối” ở đây có phải là Nhà nước ép buộc doanh nghiệp làm mọi thứ không?
+Người 2: Em nghĩ không hẳn là ép buộc kinh doanh, mà là tác động lên nguồn lực. Ví dụ như Nhà nước đánh thuế cao thì doanh nghiệp còn ít vốn hơn, hoặc Nhà nước đầu tư đường cao tốc thì doanh nghiệp sẽ đổ xô về đó buôn bán.
+Người 1: Rất thông minh. Đó chính là sự “dẫn dắt”. Trong lý thuyết tài chính hiện đại (như sách của Mithani), người ta gọi đây là vai trò phân bổ nguồn lực. Ví dụ: Khi Nhà nước (Tài chính công) bỏ hàng nghìn tỷ đồng xây sân bay Long Thành, lập tức giá đất và dòng vốn đầu tư tư nhân (Tài chính tư) xung quanh khu vực đó tăng vọt. Tài chính công đã “chi phối” và “dẫn dắt” dòng tiền của xã hội chảy về Đồng Nai mà không cần ra lệnh cho từng người dân phải mang tiền đến đó.
+
+Slide 5: CƠ CHẾ CHI PHỐI VÀ HƯỚNG DẪN (CHI TIẾT TRỤ CỘT 2)
+Người 1: Slide này làm rõ hơn cách Nhà nước “Hướng dẫn” hành vi của chúng ta. Các em nhìn dòng chữ: “Chính sách thuế hướng dẫn hành vi tiêu dùng”. Ai cho cô một ví dụ thực tế về việc em bị “hướng dẫn” bởi thuế không?
+Người 2: Dạ, ví dụ như thuế tiêu thụ đặc biệt đánh vào rượu bia và thuốc lá rất cao ạ. Nhà nước muốn hướng dẫn dân bớt dùng các thứ hại sức khỏe này. Ngược lại, xe ô tô điện đang được miễn lệ phí trước bạ để khuyến khích sống xanh.
+Người 1: Tuyệt vời. Đó chính là vai trò “Hướng dẫn” (Guidance) được nhắc đến trong slide. Jonathan Gruber gọi đây là việc dùng thuế để sửa chữa các “ngoại tác tiêu cực” (như khói thuốc, ô nhiễm). Còn về “Chi phối”, hãy nhìn hình ảnh xây dựng hạ tầng. Khi Nhà nước đầu tư xây dựng kết cấu hạ tầng (đường, cầu, cảng), nó tạo nền tảng để kinh tế tư nhân phát triển theo. Đây là mối quan hệ cộng sinh: Tài chính công bỏ vốn mồi, Tài chính tư hưởng lợi và sau đó đóng thuế ngược lại để nuôi Tài chính công.
+
+Slide 6: CƠ CHẾ ĐIỀU CHỈNH (ADJUSTMENT) - TRỤ CỘT 2 (TIẾP THEO)
+Người 1: Chúng ta vẫn đang ở Trụ cột 2 (Tương tác với tài chính tư). Slide trước chúng ta nói về “Chi phối” và “Hướng dẫn”. Slide 6 này bàn về cơ chế thứ 3: Điều chỉnh (Adjustment). Cô đố các em: Tại sao các doanh nghiệp lại đổ xô vào TP.HCM hay Hà Nội mà rất ngại lên vùng núi Tây Bắc đầu tư, dù đất ở đó rất rộng?
+Người 2: Dạ, vì ở phố thì hạ tầng tốt, dễ kiếm lời hơn. Lên núi chi phí vận chuyển cao quá, làm ăn dễ lỗ ạ.
+Người 1: Đúng vậy, đó là quy luật thị trường. Nhưng nếu ai cũng ở phố thì vùng núi sẽ mãi nghèo, và chênh lệch giàu nghèo sẽ xé toạc xã hội. Lúc này Tài chính công phải nhảy vào để “Điều chỉnh”. Trong cuốn Modern Public Finance, tác giả Mithani gọi đây là chức năng “Phân bổ lại nguồn lực”. Nhà nước làm thế nào? Nhà nước dùng ngân sách để xây đường lên núi, và đặc biệt là ưu đãi thuế (miễn thuế 5-10 năm) cho ai chịu lên đó mở nhà máy. Nhờ sự “điều chỉnh” này của Tài chính công, dòng vốn tư nhân mới chịu chảy về vùng khó khăn. Đó là cách Nhà nước tái cơ cấu vùng miền.
+
+Slide 7: TRỤ CỘT 3 - THỰC HIỆN CÁC MỤC TIÊU KINH TẾ - XÃ HỘI
+Người 1: Kết thúc Trụ cột 2, chúng ta sang Trụ cột 3. Đây là “đích đến” cuối cùng của mọi chính sách tài chính. Nếu Trụ cột 1 là “nuôi mình”, Trụ cột 2 là “chơi với bạn (tư nhân)”, thì Trụ cột 3 là “làm việc lớn cho đất nước”. Nhìn vào slide 7, các em thấy 3 mục tiêu này có vẻ mâu thuẫn không? Muốn tăng trưởng nhanh thì thường phải chấp nhận chênh lệch giàu nghèo, muốn công bằng quá thì đôi khi lại kìm hãm động lực làm giàu.
+Người 2: Vâng, em thấy giống như việc vừa muốn chạy nhanh vừa muốn giữ thăng bằng vậy. Khó thật ạ.
+Người 1: Rất tinh ý. Đó là nghệ thuật của quản lý công. Tài liệu Public Finance của Joshua Greene nhấn mạnh rằng thách thức lớn nhất của Chính phủ là cân bằng giữa “Hiệu quả” (Tăng trưởng) và “Công bằng” (Equity). Slide này là bức tranh tổng thể. 3 slide tiếp theo chúng ta sẽ mổ xẻ từng mục tiêu một xem Chính phủ dùng tiền để làm cụ thể những gì nhé.
+
+Slide 8: MỤC TIÊU 1 - THÚC ĐẨY TĂNG TRƯỞNG KINH TẾ
+Người 1: Mục tiêu đầu tiên: Tăng trưởng. Các em có nghe thuật ngữ “Vốn mồi” bao giờ chưa? Nhìn vào hình ảnh cao tốc trên slide. Tại sao Nhà nước phải bỏ hàng trăm nghìn tỷ làm cao tốc Bắc - Nam mà không để tư nhân làm hết?
+Người 2: Em nghĩ vì vốn quá lớn, thu hồi vốn lâu, tư nhân họ “ngán”. Nhưng khi có đường rồi thì tư nhân sẽ xây trạm dừng chân, khu công nghiệp dọc theo đường đó.
+Người 1: Xuất sắc. Trong cuốn PPP for Infrastructure của Yescombe, ông ấy giải thích rằng đầu tư công vào hạ tầng cốt lõi sẽ giảm chi phí logistics cho toàn xã hội, từ đó kích thích tư nhân mở rộng sản xuất. Tài chính công ở đây đóng vai trò tạo nền tảng. Khi Nhà nước chi 1 đồng vào hạ tầng, nó có thể kéo theo (crowd-in) 3-4 đồng vốn tư nhân đi theo. Đó là cách Tài chính công thúc đẩy tăng trưởng thực tế nhất, chứ không phải là Nhà nước đi trực tiếp mở nhà hàng hay khách sạn.
+
+Slide 9: MỤC TIÊU 2 - ỔN ĐỊNH KINH TẾ VĨ MÔ
+Người 1: Slide 9 nói về vai trò “Bác sĩ” của nền kinh tế: Ổn định vĩ mô. Nền kinh tế cũng ốm đau như con người: Lúc thì “sốt cao” (Lạm phát, giá cả leo thang), lúc thì “cảm lạnh” (Suy thoái, thất nghiệp). Tài chính công chữa bệnh này bằng Chính sách tài khóa. Ví dụ: Năm 2023, kinh tế Việt Nam gặp khó khăn sau dịch, doanh nghiệp “kiệt sức” (suy thoái). Lúc này “bác sĩ” Chính phủ đã làm gì?
+Người 2: Dạ thưa cô, em nhớ là được giảm thuế GTGT từ 10% xuống 8% ạ.
+Người 1: Chính xác! Đó là chính sách “Mở rộng” để kích cầu. Nhà nước chấp nhận giảm thu ngân sách để dân có thêm tiền mua sắm, giúp doanh nghiệp bán được hàng. Ngược lại, nếu lạm phát quá cao, Tài chính công sẽ “Thắt chặt” lại (giảm chi tiêu công, tăng thuế) để rút bớt tiền về. Gruber gọi đây là vai trò ổn định hóa (Stabilization). Nếu không có Tài chính công điều tiết, nền kinh tế sẽ biến động rất dữ dội.
+
+Slide 10: MỤC TIÊU 3 - GIẢI QUYẾT CÁC VẤN ĐỀ XÃ HỘI (CÔNG BẰNG)
+Người 1: Cuối cùng là Slide 10 - mục tiêu nhân văn nhất: Công bằng xã hội. Trong kinh tế thị trường, người giỏi và may mắn sẽ rất giàu, người yếu thế sẽ rất nghèo. Nếu Nhà nước mặc kệ, xã hội sẽ bất ổn. Tài chính công giải quyết việc này qua công cụ Thuế và Chi tiêu. Có ai thắc mắc tại sao Thuế Thu nhập cá nhân (TNCN) lại chia thành bậc thang, càng giàu đóng % càng cao không?
+Người 2: Dạ, để lấy của người giàu chia cho người nghèo ạ? Giống Robin Hood thời hiện đại phải không cô? (Cười)
+Người 1:  Một sự so sánh thú vị, nhưng đây là “chia sẻ” hợp pháp và có hệ thống. Tiền thuế thu được từ người thu nhập cao sẽ không cất vào kho, mà được chuyển (Transfer payments) thành trợ cấp thất nghiệp, BHYT cho người nghèo, hay xây trường học miễn phí ở vùng sâu vùng xa. Jonathan Gruber dành cả một chương lớn để nói về các chương trình an sinh xã hội này. Ông khẳng định: Không có Tài chính công, người nghèo sẽ không có lưới an toàn bảo vệ khi gặp rủi ro. Đây chính là tính ưu việt của chế độ chúng ta.
+
+Slide 11: MỐI QUAN HỆ BIỆN CHỨNG GIỮA CÁC MỤC TIÊU
+Người 1: Chúng ta đã tìm hiểu 3 mục tiêu riêng biệt. Nhưng trong thực tế, liệu Chính phủ có thể đạt được cả 3 cùng lúc không? Slide 11 này đặt ra một vấn đề kinh điển: Mối quan hệ đánh đổi (Trade-off). Các em nhìn hình ảnh chiếc bánh. Nếu chia bánh quá đều (ai cũng như ai), liệu mọi người còn động lực để làm chiếc bánh to hơn không?
+Người 2: Dạ, chắc là không ạ. Nếu làm nhiều cũng hưởng bằng người làm ít thì ai cũng muốn lười. Lúc đó xã hội công bằng nhưng nghèo đi.
+Người 1: Rất đúng. Nhà kinh tế học Arthur Okun từng ví von việc đánh thuế người giàu chia cho người nghèo giống như xách nước bằng một “xô bị thủng” (Leaky Bucket). Ta chấp nhận rò rỉ một chút hiệu quả kinh tế để đổi lấy sự bình yên xã hội. Nhiệm vụ của Tài chính công không phải là chọn 1 bỏ 1, mà là tìm điểm cân bằng tối ưu trên đường cong kia. Khéo léo ở chỗ: Làm sao thu thuế vừa đủ để người giàu không bỏ đi, nhưng cũng đủ để người nghèo không bị bỏ lại.
+
+Slide 12: NHỮNG THÁCH THỨC VÀ GIỚI HẠN
+Người 1: Trước khi sang bài tập tình huống, cô muốn các em nhìn vào mặt trái của tấm huy chương tại Slide 12. Tài chính công rất mạnh, nhưng nó có giới hạn. Nếu Chính phủ cứ vung tay chi tiêu để kích cầu (mục tiêu tăng trưởng) thì rủi ro là gì?
+Người 2: Dạ là thâm hụt ngân sách và nợ công chồng chất ạ. Giống như Hy Lạp vỡ nợ năm nào.
+Người 1: Chính xác. Sách của Joshua Greene cảnh báo về “Fiscal Sustainability” (Tính bền vững tài khóa). Nếu lạm dụng, Tài chính công sẽ biến thành gánh nặng cho thế hệ sau trả nợ. Ngoài ra, bộ máy nhà nước đôi khi phản ứng chậm chạp hơn thị trường (độ trễ chính sách). Hiểu rõ giới hạn này giúp chúng ta không kỳ vọng Chính phủ giải quyết được tất cả mọi thứ ngay lập tức.
+
+Slide 13: BÀI TẬP TÌNH HUỐNG - KHỦNG HOẢNG ĐẠI DỊCH
+Người 1: Bây giờ chúng ta hãy vận dụng kiến thức vào thực chiến. Mời cả lớp nhìn vào tình huống trên Slide 13. Đây là kịch bản rất quen thuộc trong đại dịch vừa qua. Chính phủ nước A đã tung ra “4 cú đấm” liên tiếp. Cô muốn một bạn phân tích nhanh: Hành động số 3 (Phát hành trái phiếu 50.000 tỷ) thuộc về trụ cột nào chúng ta đã học?
+Người 2: Em nghĩ đó là Trụ cột 1: Huy động nguồn lực. Vì muốn có tiền xây bệnh viện dã chiến gấp thì phải đi vay dân qua trái phiếu ạ.
+Người 1: Rất tốt. Thế còn hành động số 4 (Trợ cấp tiền mặt)? Nó phục vụ mục tiêu Tăng trưởng hay Công bằng?
+Người 2: Dạ em nghĩ là cả hai ạ. Vừa giúp người nghèo sống sót (Công bằng), vừa để họ có tiền đi chợ mua đồ, giúp doanh nghiệp bán được hàng (Kích cầu tăng trưởng).
+Người 1: Phân tích rất sắc sảo! Một mũi tên trúng hai đích. Chúng ta cùng xem đáp án chi tiết ở slide sau nhé.
+
+Slide 14: LỜI GIẢI - PHÂN TÍCH HỆ THỐNG VÀ VAI TRÒ
+Người 1: Đây là “bản đồ tư duy” giải mã hành động của Chính phủ (dựa trên nội dung trang 14 file PDF). Các em thấy sơ đồ này cho thấy sự luân chuyển dòng tiền rất rõ. Tiền không tự nhiên sinh ra.
+• Để có vắc xin (Mục tiêu An sinh), Nhà nước phải Vay dân (Trụ cột Huy động vốn).
+• Để doanh nghiệp thở được, Nhà nước dừng thu hưu trí (Trụ cột Điều chỉnh/Hỗ trợ).
+Người 2: Nhìn vào đây em mới thấy Tài chính công giống như “mạch máu” vậy cô nhỉ. Máu phải chảy từ chỗ thừa (dân có tiền tiết kiệm mua trái phiếu) sang chỗ thiếu (bệnh viện, người thất nghiệp).
+Người 1: Một hình ảnh so sánh tuyệt vời. Tác giả Mithani gọi đây là chức năng “Bơm và Hút” (Pump priming) của ngân sách trong thời kỳ suy thoái. Qua case study này, các em đã thấy rõ lý thuyết trên giấy biến thành hành động cứu người như thế nào rồi đấy.
+
+Slide 15: TỔNG KẾT & THÔNG ĐIỆP BÀI HỌC
+Người 1: Chúng ta khép lại bài học hôm nay tại Slide 15. Tóm lại, Tài chính công không khô khan như những con số trên báo cáo. Nó là chuyện cơm ăn áo mặc, là chuyện đường xá đi lại, và là chuyện tương lai của đất nước. Cô muốn các em ghi nhớ một điều: “Nhà nước không tạo ra tiền, Nhà nước chỉ chuyển hóa tiền của xã hội thành giá trị chung”. Nhiệm vụ về nhà: Hãy tìm hiểu xem năm nay Việt Nam dành bao nhiêu % ngân sách cho Giáo dục? Con số đó nói lên điều gì về định hướng của Tài chính công nước ta?
+Người 2: Dạ, em cảm ơn cô. Bài học hôm nay giúp em hiểu tại sao đóng thuế lại quan trọng đến thế rồi ạ.
+Người 1: Cảm ơn các em. Hẹn gặp lại vào buổi sau, chúng ta sẽ học về “Ngân sách Nhà nước” – chiếc ví của quốc gia. Chào các em.

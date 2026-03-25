@@ -1,0 +1,103 @@
+﻿Slide 1: TRANG BÌA - PHẠM VI CỦA TÀI CHÍNH CÔNG (Hình ảnh trên slide: Tiêu đề lớn “1.1.3. PHẠM VI CỦA TÀI CHÍNH CÔNG”. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Tiếp nối nội dung tổng quan về Tài chính công và Quản lý tài chính công, hôm nay chúng ta sẽ đi sâu vào một phần rất quan trọng tại mục 1.1.3, đó là Phạm vi của Tài chính công. Nhìn vào tiêu đề này, cô muốn hỏi một chút: Theo các em, tại sao chúng ta cần xác định “phạm vi”? Việc biết cái gì nằm trong, cái gì nằm ngoài tài chính công có ý nghĩa gì không?
+Người 2: Dạ thưa cô, em nghĩ việc xác định phạm vi giống như việc vẽ một vòng tròn giới hạn. Nó giúp mình biết được đâu là tiền của Nhà nước quản lý theo luật công, còn đâu là tiền tư nhân hoặc doanh nghiệp để tránh nhầm lẫn trong cách quản lý ạ.
+Người 1: Rất chính xác. Nếu không xác định rõ phạm vi, chúng ta sẽ rất dễ nhầm lẫn giữa một doanh nghiệp nhà nước (như Viettel) với một cơ quan hành chính (như UBND). Bài học này sẽ giúp các em phân định ranh giới đó. Chúng ta bắt đầu nhé.
+
+Slide 2: ĐỊNH NGHĨA & TIÊU CHÍ XÁC ĐỊNH (Hình ảnh trên slide: Sơ đồ tư duy với định nghĩa ở giữa và 3 nhánh: Chủ thể Nhà nước, Cơ chế quyền lực, Mục đích lợi ích công)
+Người 1: Đầu tiên, chúng ta cần một định nghĩa chuẩn xác. Hệ thống tài chính công là tổng thể các hoạt động tài chính gắn liền với việc tạo lập hoặc sử dụng các quỹ công và cơ cấu tổ chức bộ máy nhà nước. Mục tiêu cốt lõi ở đây là phục vụ các chức năng kinh tế - xã hội mà Nhà nước đảm nhận.
+Người 2: Định nghĩa hơi dài cô nhỉ. Có cách nào dễ nhớ hơn không ạ?
+Người 1: Có đấy. Em hãy nhìn vào 3 trụ cột chính trên slide để nhận diện nó. Một hoạt động tài chính được gọi là Tài chính công khi hội tụ 3 yếu tố:
+• Thứ nhất là Chủ thể: Phải là Nhà nước.
+• Thứ hai là Cơ chế: Nó gắn liền với quyền lực chính trị. Ví dụ, Nhà nước ra lệnh thu thuế, dân phải đóng, đó là quyền lực chính trị, khác với việc em ra chợ mua rau là thỏa thuận dân sự.
+• Thứ ba là Mục đích: Phải vì Lợi ích công cộng.
+Người 2: À, em hiểu rồi. Tức là nếu thiếu yếu tố “quyền lực chính trị” hay không vì “lợi ích công cộng” thì chưa chắc là tài chính công đúng không ạ?
+Người 1: Đúng vậy. Ví dụ, em bỏ tiền túi ra làm từ thiện cũng là vì cộng đồng, nhưng đó là tài chính tư nhân vì không có “quyền lực chính trị” của Nhà nước ở đó.
+
+Slide 3: LƯU Ý QUAN TRỌNG - PHẠM VI LOẠI TRỪ (Hình ảnh trên slide: Biển báo chú ý hoặc dấu gạch chéo đỏ vào ô “Tài chính Doanh nghiệp Nhà nước”)
+Người 1: Đến slide này, cô có một câu hỏi bẫy cho lớp: Tài chính của các Doanh nghiệp Nhà nước (như Vietnam Airlines, hay Tổng công ty Đường sắt) có thuộc phạm vi Tài chính công không?
+Người 2: Dạ… theo em là có ạ. Vì tên gọi là “Doanh nghiệp Nhà nước”, vốn của Nhà nước thì phải là Tài chính công chứ ạ?
+Người 1: Rất nhiều bạn nhầm lẫn chỗ này. Câu trả lời là KHÔNG được xếp vào Tài chính công. Các em nhìn kỹ slide nhé. Mặc dù họ có nguồn tài chính thuộc sở hữu nhà nước, nhưng họ bị loại trừ bởi 2 lý do:
+• Thứ nhất, họ hoạt động chủ yếu vì mục tiêu lợi nhuận.
+• Thứ hai, họ không hoạt động thuần túy vì lợi ích công cộng hay lợi ích toàn xã hội.
+Người 2: Em hiểu rồi. Tức là Vinamilk (trước đây) hay Petrolimex dù Nhà nước nắm vốn, nhưng họ bán hàng để kiếm lãi chia cổ tức, chứ không phải hoạt động phi lợi nhuận như bệnh viện công hay trường học công.
+Người 1: Chuẩn xác. Đây là nguyên tắc “Exclusion” (Loại trừ). Tài chính công không bao gồm khu vực kinh doanh tìm kiếm lợi nhuận, dù vốn đó là của ai.
+
+Slide 4: CẤU TRÚC HỆ THỐNG TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ cây hoặc 5 khối hộp thể hiện 5 bộ phận cấu thành của Tài chính công)
+Người 1: Vậy nếu loại bỏ Doanh nghiệp Nhà nước ra, thì “gia đình” Tài chính công còn lại những thành viên nào? Nhìn vào sơ đồ cấu trúc , chúng ta có 5 bộ phận cấu thành phạm vi của Tài chính công:
+1. Ngân sách Nhà nước (NSNN):
+2. Tín dụng Nhà nước:
+3. Các Quỹ tài chính nhà nước ngoài ngân sách:
+4. Tài chính cơ quan nhà nước: (Ví dụ: Tài chính của UBND phường, Bộ Tài chính…)
+5. Tài chính đơn vị sự nghiệp công lập: (Ví dụ: Trường Đại học công lập, Bệnh viện công…).
+Người 2: Wow, nhiều hơn em nghĩ. Trước giờ em cứ tưởng Tài chính công chỉ là Ngân sách Nhà nước thôi.
+Người 1: Ngân sách là quan trọng nhất, nhưng không phải là duy nhất. Ví dụ, Quỹ Bảo hiểm xã hội hay Ngân hàng Chính sách xã hội cũng là những cánh tay nối dài của Tài chính công, nằm ở các ô khác trong sơ đồ này. Chúng ta sẽ mổ xẻ từng bộ phận ngay sau đây.
+
+Slide 5: NGÂN SÁCH NHÀ NƯỚC (NSNN) (Hình ảnh trên slide: Biểu tượng cột trụ La Mã hoặc cái két sắt lớn, mũi tên chỉ sự điều tiết)
+Người 1: Chúng ta đi vào “người anh cả” trong hệ thống: Ngân sách Nhà nước (NSNN). Slide ví von đây là “Xương sống của hệ thống”.
+Người 2: Tại sao lại gọi là xương sống ạ?
+Người 1: Vì nó là mắt xâu quan trọng nhất, giữ vai trò chủ đạo. Hầu hết mọi hoạt động của Chính phủ từ trả lương công chức, xây đường cao tốc đến an ninh quốc phòng đều dựa vào “sức khỏe” của túi tiền này. Về cấu trúc, ở Việt Nam, NSNN bao gồm Ngân sách Trung ương và Ngân sách địa phương.
+Người 2: Vậy đặc điểm nhận dạng của Ngân sách là gì để phân biệt với các quỹ khác ạ?
+Người 1: Có 3 đặc điểm nổi bật các em phải nhớ nằm lòng:
+• Phạm vi: Rộng lớn, bao trùm mọi lĩnh vực kinh tế.
+• Tính chất: Mang tính pháp lý cao và cưỡng chế. Ví dụ rõ nhất là Thuế. Em không thể mặc cả với cơ quan thuế được.
+• Cơ chế: Không hoàn trả trực tiếp.
+Người 2: “Không hoàn trả trực tiếp” nghĩa là sao ạ?
+Người 1: Nghĩa là khi em đóng thuế, Nhà nước không cam kết sẽ trả lại cho riêng em một cái gì tương ứng ngay lập tức. Tiền đó dùng chung để làm đường, xây trường học… ai dùng thì hưởng, chứ không phải “tiền trao cháo múc” như khi em mua hàng ngoài chợ. Đó là điểm khác biệt cốt tử.
+
+Slide 6: TÍN DỤNG NHÀ NƯỚC (Hình ảnh trên slide: Hình ảnh trái phiếu Chính phủ hoặc cán cân vay - trả. Các từ khóa: “Vay nợ”, “Cho vay”, “Có hoàn trả”)
+Người 1: Chúng ta chuyển sang bộ phận thứ hai: Tín dụng Nhà nước. Nếu Ngân sách Nhà nước là “cái túi” để chi tiêu không hoàn trả, thì Tín dụng Nhà nước hoạt động theo nguyên tắc hoàn toàn khác. Nhìn vào slide, các em thấy từ khóa gì nổi bật nhất?
+Người 2: Dạ, em thấy từ “Có hoàn trả” ạ.
+Người 1: Đúng vậy. Tín dụng Nhà nước là quan hệ vay mượn. Nhà nước đi vay (phát hành trái phiếu) để bù đắp thiếu hụt ngân sách, và Nhà nước cho vay (hỗ trợ các dự án trọng điểm). Khác với thuế là bắt buộc và không hoàn trả trực tiếp, Tín dụng Nhà nước dựa trên sự tự nguyện và cam kết trả nợ cả gốc lẫn lãi.
+Người 2: Vậy khi em mua trái phiếu Chính phủ, tức là em đang tham gia vào Tín dụng Nhà nước đúng không cô?
+Người 1: Chính xác. Em đang là chủ nợ của Chính phủ. Đây là kênh huy động vốn linh hoạt, giúp Nhà nước có tiền ngay để đầu tư mà không cần tăng thuế.
+
+Slide 7: CÁC QUỸ TÀI CHÍNH NHÀ NƯỚC NGOÀI NGÂN SÁCH (Hình ảnh trên slide: Các ô tròn vệ tinh xoay quanh Ngân sách. Logo các quỹ: BHXH, Quỹ Bảo vệ môi trường, Quỹ Vắc-xin…)
+Người 1: Bộ phận thứ ba là Các quỹ tài chính nhà nước ngoài ngân sách. Tại sao đã có Ngân sách rồi mà còn đẻ ra lắm quỹ thế này? Các em nhìn danh sách các quỹ trên slide: Quỹ Bảo hiểm xã hội, Quỹ Bảo vệ môi trường… và cho cô biết đặc điểm chung của chúng là gì?
+Người 2: Dạ, em thấy mỗi quỹ đều gắn với một mục đích rất cụ thể. Ví dụ Quỹ Vắc-xin chỉ dùng để mua vắc-xin thôi ạ.
+Người 1: Rất tinh ý. Đó chính là đặc điểm “Mục đích chuyên biệt”. Ngân sách Nhà nước thì lo trăm việc, thủ tục xuất tiền rất chặt chẽ và lâu. Còn các quỹ này hoạt động độc lập, cơ chế linh hoạt hơn để giải quyết nhanh các vấn đề cấp bách hoặc đặc thù. Nó giống như các “ví tiền lẻ” chuyên dụng bên cạnh “cái két sắt lớn” là Ngân sách vậy.
+
+Slide 8: TÀI CHÍNH CƠ QUAN NHÀ NƯỚC (Hình ảnh trên slide: Hình ảnh trụ sở các cơ quan công quyền như Ủy ban nhân dân, Tòa án, Bộ ngành. Từ khóa: “Quyền lực công”, “Nguồn NSNN đảm bảo”)
+Người 1: Đến slide này, chúng ta cần phân biệt rõ hai khái niệm rất dễ nhầm. Đầu tiên là Tài chính cơ quan nhà nước. Đối tượng ở đây là ai? Là Văn phòng Quốc hội, các Bộ, UBND các cấp, Tòa án…
+Người 2: Tài chính của họ hoạt động như thế nào ạ? Họ có được tự kinh doanh kiếm tiền không cô?
+Người 1: Tuyệt đối không. Đặc điểm cốt lõi của nhóm này là sử dụng quyền lực công để quản lý nhà nước, không phải để kinh doanh. Vì vậy, nguồn tài chính của họ chủ yếu do Ngân sách Nhà nước cấp phát toàn bộ. Tiền lương cán bộ, tiền điện nước, mua sắm máy móc… đều từ tiền thuế của dân mà ra. Do đó, yêu cầu quản lý ở đây là phải cực kỳ tiết kiệm và đúng định mức.
+
+Slide 9: TÀI CHÍNH ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP (Hình ảnh trên slide: Hình ảnh Bệnh viện Bạch Mai, Trường ĐH Kinh tế Quốc dân… Biểu tượng cán cân giữa “Ngân sách cấp” và “Tự chủ thu”)
+Người 1: Đối trọng với slide trước là Tài chính đơn vị sự nghiệp công lập. Đây là các trường học, bệnh viện, viện nghiên cứu công lập… Các em thấy slide này có gì khác biệt về “nguồn thu” so với cơ quan nhà nước không?
+Người 2: Dạ có ạ. Slide ghi là họ có nguồn thu từ “Phí dịch vụ” và thực hiện cơ chế “Tự chủ”.
+Người 1: Rất chuẩn. Đây là xu hướng cải cách lớn nhất hiện nay. Các đơn vị này cung cấp dịch vụ công (khám chữa bệnh, đào tạo) nên họ được phép thu phí. Nhà nước đang giảm dần bao cấp, yêu cầu họ phải “lấy thu bù chi”. Ví dụ như trường mình, học phí các em đóng chính là nguồn thu sự nghiệp để trường tự trả lương giảng viên và đầu tư cơ sở vật chất, bớt phụ thuộc vào Ngân sách.
+
+Slide 10: TỔNG KẾT HỆ THỐNG & MỐI QUAN HỆ (Hình ảnh trên slide: Sơ đồ tổng thể 5 bộ phận với các mũi tên qua lại. Ngân sách Nhà nước nằm giữa, các bộ phận khác vệ tinh xung quanh)
+Người 1: Chúng ta đã đi qua từng mảnh ghép. Slide này tổng kết lại bức tranh toàn cảnh. Năm bộ phận này không đứng rời rạc mà có mối quan hệ hữu cơ với nhau.
+Người 2: Cô ơi, trong sơ đồ này, mũi tên từ Ngân sách Nhà nước chỉ ra khắp nơi. Có phải Ngân sách nuôi tất cả không ạ?
+Người 1: Không hẳn là “nuôi” tất cả, mà Ngân sách đóng vai trò chủ đạo và điều tiết.
+• Nó cấp vốn ban đầu cho các Quỹ và Doanh nghiệp NN.
+• Nó chi trả cho hoạt động của Cơ quan NN.
+• Nó hỗ trợ một phần cho Đơn vị sự nghiệp. Ngược lại, các bộ phận này (như Doanh nghiệp NN nộp thuế, Đơn vị sự nghiệp nộp một phần chênh lệch thu chi) cũng đóng góp tiền về lại cho Ngân sách. Đây là một vòng tuần hoàn tài chính khép kín của quốc gia.
+
+Slide 11: PHÂN BIỆT CƠ QUAN NHÀ NƯỚC & ĐƠN VỊ SỰ NGHIỆP (Hình ảnh trên slide: Bảng so sánh hoặc hai hình ảnh đối lập: Một bên là toà nhà Quốc hội/Bộ ngành (nghiêm trang), một bên là Trường học/Bệnh viện (gần gũi). Các từ khóa: “State Management” vs “Service Delivery”)
+Người 1: Chúng ta vừa tìm hiểu các thành phần của hệ thống. Bây giờ, cô muốn các em tập trung vào slide 11. Đây là nơi sinh viên hay nhầm lẫn nhất: Sự khác biệt giữa Cơ quan Nhà nước và Đơn vị sự nghiệp công lập. Nhìn vào slide, em thấy sự khác biệt cốt lõi nằm ở đâu?
+Người 2: Dạ, em thấy slide ghi hai chức năng khác hẳn nhau. Một bên là “Quản lý nhà nước”, còn một bên là “Cung cấp dịch vụ công”.
+Người 1: Đúng vậy. Hãy tưởng tượng thế này cho dễ hiểu:
+• Cơ quan Nhà nước (như Bộ Y tế) là người ra luật và thổi còi. Họ dùng quyền lực công để quản lý, tone của họ là mệnh lệnh hành chính (Administrative).
+• Đơn vị sự nghiệp (như Bệnh viện Bạch Mai) là người làm nghề. Họ trực tiếp khám chữa bệnh cho dân. Tone của họ là phục vụ (Service-based). Vì vậy, Bộ Y tế thì được Ngân sách nuôi hoàn toàn, còn Bệnh viện thì có thể thu viện phí để tự trang trải.
+
+Slide 12: BÀI TẬP VẬN DỤNG (Hình ảnh trên slide: Các icon hoặc logo đại diện cho 3 đơn vị: Logo trường ĐH Kinh tế Quốc dân, Hình ảnh Quỹ Vắc-xin, Logo Viettel. Dấu hỏi lớn ở giữa)
+Người 1: Để xem các em đã thực sự “thấm” lý thuyết chưa, chúng ta cùng làm một bài tập nhanh trên slide 12. Cô có 3 đơn vị rất quen thuộc:
+1. Trường Đại học Kinh tế Quốc dân (NEU).
+2. Quỹ Vắc-xin phòng Covid-19.
+3. Tổng công ty Viễn thông Quân đội (Viettel).
+Câu hỏi là: Trong 3 đơn vị này, đơn vị nào thuộc phạm vi Tài chính công? Đơn vị nào không? Cô cho các em 30 giây suy nghĩ.
+Người 2: (Suy nghĩ) Ca này hơi khó ạ. NEU thì chắc chắn rồi. Quỹ Vắc-xin em nghĩ là có. Nhưng Viettel thì em phân vân quá, vì nó là của Quân đội, mà Quân đội là Nhà nước, nhưng nó lại bán sim thẻ như tư nhân…
+Người 1: Sự phân vân của em rất đúng trọng tâm. Viettel chính là cái bẫy lớn nhất bài hôm nay. Chúng ta cùng lật slide tiếp theo để xem đáp án nhé.
+
+Slide 13: LỜI GIẢI CHI TIẾT (Hình ảnh trên slide: Các dấu tích xanh (V) và dấu gạch chéo đỏ (X) hiện ra bên cạnh từng đơn vị, kèm lời giải thích ngắn gọn)
+Người 1: Nào, chúng ta cùng chốt đáp án trên slide 13.
+• Thứ nhất: Trường ĐH Kinh tế Quốc dân. Đáp án là CÓ .
+o Người 2: Vì đây là đơn vị sự nghiệp công lập đúng không cô?
+o Người 1: Chuẩn. Dù trường có thu học phí cao thế nào, thì mục tiêu tôn chỉ vẫn là giáo dục đào tạo (lợi ích công), không phải tối đa hóa lợi nhuận để chia chác.
+• Thứ hai: Quỹ Vắc-xin phòng Covid-19. Đáp án là CÓ .
+o Người 1: Đây là ví dụ điển hình của “Quỹ tài chính nhà nước ngoài ngân sách”. Nó huy động tiền cho một mục đích cụ thể (y tế) và hoạt động phi lợi nhuận.
+• Thứ ba: Viettel. Đáp án là KHÔNG .
+o Người 2: Ồ, vậy là bị loại thật ạ?
+o Người 1: Đúng vậy. Nhớ lại “Quy tắc loại trừ” (Exclusion Rule) ở Slide 3 nhé. Viettel là Doanh nghiệp Nhà nước. Dù vốn của Bộ Quốc phòng, nhưng họ kinh doanh viễn thông để tìm kiếm lợi nhuận cạnh tranh với Vinaphone, Mobifone. Vì thế, tài chính của họ tuân theo quy luật thị trường (Tài chính doanh nghiệp), chứ không phải Tài chính công.
+Người 1: Kết thúc bài học hôm nay, các em chỉ cần nhớ quy tắc “kiềng 3 chân” để xác định Tài chính công: Chủ thể Nhà nước - Quyền lực chính trị - Lợi ích công cộng. Thiếu một chân là không thành. Cảm ơn cả lớp!

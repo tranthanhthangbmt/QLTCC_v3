@@ -1,0 +1,142 @@
+﻿Slide 1: TRANG BÌA & GIỚI THIỆU BÀI HỌC (Hình ảnh: Tòa nhà Quốc hội hoặc biểu tượng cán cân ngân sách)
+Người 1: Chào các em sinh viên lớp Quản lý nhà nước tại Phân hiệu Đắk Lắk. Hôm nay, chúng ta tiếp tục chương trình học với một nội dung cực kỳ quan trọng của Chương 2, đó là “Quản lý Nhiệm vụ Chi Ngân sách Nhà nước”.
+Người 2: Dạ chào cô ạ. Thưa cô, hôm trước mình học về “Thu ngân sách” là cách Nhà nước lấy tiền về. Vậy bài hôm nay có phải là học cách Nhà nước tiêu tiền không ạ?
+Người 1: Đúng rồi em. Nhưng không chỉ đơn giản là “tiêu tiền”. Nếu một gia đình tiêu tiền sai thì chỉ ảnh hưởng đến gia đình đó, nhưng nếu Nhà nước tiêu tiền sai thì ảnh hưởng đến cả quốc gia, từ con đường cao tốc Khánh Hòa - Buôn Ma Thuột đang xây dựng, cho đến lương của các thầy cô, bác sĩ. Môn học này sẽ giúp các em hiểu quy trình đó vận hành như thế nào để đảm bảo hiệu quả và minh bạch.
+
+Slide 2: KHÁI NIỆM CHI NGÂN SÁCH NHÀ NƯỚC (Sơ đồ quy trình: Quỹ NS → Phân phối → Sử dụng → Nhiệm vụ NN)
+Người 1: Các em nhìn lên sơ đồ trên slide. Chi Ngân sách không phải là hành động rút ví trả tiền ngay lập tức. Nó là một quá trình.
+• Đầu tiên, chúng ta có Quỹ Ngân sách (kho tiền chung).
+• Sau đó phải qua bước Phân phối (chia cho Bộ nào, tỉnh nào).
+• Rồi mới đến Sử dụng (mua cái gì, xây cái gì).
+• Và đích đến cuối cùng là hoàn thành Nhiệm vụ Nhà nước.
+Người 2: Cô ơi, “Nhiệm vụ Nhà nước” ở đây cụ thể là gì ạ? Có phải chỉ là xây cầu đường không?
+Người 1: Câu hỏi rất hay. Nhiệm vụ Nhà nước bao trùm mọi mặt đời sống. Cô lấy ví dụ thực tế nhé:
+• Khi đại dịch COVID-19 xảy ra, nhiệm vụ của Nhà nước là bảo vệ sức khỏe nhân dân.
+• Lúc đó, quy trình chi diễn ra thế này: Chính phủ trích từ Quỹ Ngân sách (và quỹ vắc-xin) → Phân phối cho Bộ Y tế → Bộ Y tế Sử dụng để đàm phán mua vắc-xin Pfizer, AstraZeneca → Kết quả là hoàn thành Nhiệm vụ: Tiêm miễn phí cho toàn dân.
+• Vậy bản chất của Chi NSNN là quá trình chuyển hóa nguồn lực tài chính thành các dịch vụ công để phục vụ xã hội.
+
+Slide 3: ĐẶC ĐIỂM CỦA CHI NSNN (Hình ảnh minh họa: Cán cân công lý, Bản đồ quy hoạch, Biểu tượng không hoàn lại)
+Người 1: Chi NSNN có 3 đặc điểm cốt lõi mà các em cần nhớ kỹ.
+1. Gắn với quyền lực Nhà nước: Mọi khoản chi phải được Quốc hội quyết định trong Luật Ngân sách.
+2. Gắn với nhiệm vụ từng thời kỳ: Thời chiến chi cho súng đạn, thời bình chi cho kinh tế.
+3. Không hoàn trả trực tiếp: Đây là điểm khác biệt nhất so với tín dụng ngân hàng.
+Người 2: Dạ, “không hoàn trả trực tiếp” nghĩa là sao ạ? Có phải là Nhà nước chi tiền ra rồi mất luôn không cô?
+Người 1: Không phải là mất đi, mà là người thụ hưởng không phải trả tiền trực tiếp tương ứng với mức họ hưởng.
+• Ví dụ: Một doanh nghiệp lớn ở Đắk Lắk nộp thuế hàng trăm tỷ đồng mỗi năm. Một hộ nghèo ở vùng sâu không nộp thuế. Nhưng khi con em của cả hai đi học tại trường Tiểu học công lập, đều được miễn giảm học phí như nhau; khi đi trên đường Nguyễn Tất Thành, cả hai đều được hưởng ánh sáng đèn đường như nhau.
+• Doanh nghiệp không thể đòi hỏi: “Tôi nộp thuế nhiều thì đèn đường trước cửa nhà tôi phải sáng gấp đôi nhà ông kia”. Đó chính là tính chất công cộng và không hoàn trả trực tiếp.
+
+Slide 4: PHÂN LOẠI NHIỆM VỤ CHI (Sơ đồ tư duy/Mindmap các nhánh chi ngân sách)
+Người 1: Để quản lý hàng triệu khoản chi, Luật NSNN chia thành các nhóm lớn như sơ đồ các em đang thấy. Trong đó, hai nhóm quan trọng nhất chiếm phần lớn ngân sách là: Chi Đầu tư phát triển và Chi Thường xuyên. Ngoài ra còn có Chi trả nợ lãi, Chi dự trữ, Chi viện trợ.
+Người 2: Cô ơi, làm sao để phân biệt nhanh Chi đầu tư và Chi thường xuyên ạ? Em thấy cái nào cũng là chi tiền cả.
+Người 1: Em hãy tưởng tượng Ngân sách Quốc gia giống như ngân sách của một gia đình:
+• Chi Đầu tư phát triển giống như tiền em dành để xây nhà, mua đất. Nó tốn một cục tiền lớn nhưng tạo ra tài sản để đời.
+• Chi Thường xuyên giống như tiền đi chợ, trả tiền điện, tiền nước hàng tháng. Tiêu là hết, nhưng không tiêu thì không sống được.
+• Bây giờ chúng ta sẽ đi sâu vào từng loại nhé.
+
+Slide 5: CHI ĐẦU TƯ PHÁT TRIỂN - KHÁI NIỆM & ĐẶC ĐIỂM (Hình ảnh: Công trường xây dựng, Cần cẩu, Biểu đồ tăng trưởng)
+Người 1: Chi Đầu tư phát triển (ĐTPT) là các khoản chi mang tính chất tích lũy. Đặc điểm của nó là quy mô lớn nhưng không ổn định.
+Người 2: Tại sao lại “không ổn định” hả cô? Em tưởng Nhà nước lúc nào cũng phải xây dựng chứ?
+Người 1: “Không ổn định” nghĩa là nó không lặp lại đều đặn theo chu kỳ ngắn hạn như trả lương.
+• Ví dụ: Năm nay Nhà nước quyết định xây Đường dây 500kV mạch 3 để cấp điện cho miền Bắc. Ngân sách rót xuống 22.000 tỷ đồng. Sang năm, khi đường dây xây xong rồi, khoản chi này sẽ biến mất, không còn nữa. Nó phụ thuộc vào dự án.
+• Ngược lại, tính “Tích lũy” thể hiện ở chỗ: Xây xong đường dây thì tài sản đó còn mãi, giúp nhà máy có điện chạy, kinh tế tăng trưởng, từ đó lại thu được nhiều thuế hơn trong tương lai.
+
+Slide 6: NỘI DUNG CHI ĐẦU TƯ PHÁT TRIỂN (Hình ảnh: Đường cao tốc, Logo doanh nghiệp nhà nước, Nông thôn mới)
+Người 1: Vậy cụ thể Chi ĐTPT gồm những gì?
+1. Đầu tư xây dựng cơ bản: Đây là phần lớn nhất (điện, đường, trường, trạm).
+2. Hỗ trợ vốn cho Doanh nghiệp Nhà nước: Đầu tư vốn vào các tập đoàn lớn.
+3. Chương trình mục tiêu quốc gia: Cái này rất gần gũi với chúng ta.
+Người 2: Ở Đắk Lắk mình có dự án nào thuộc nhóm này không cô?
+Người 1: Có rất nhiều em nhé.
+• Lớn nhất hiện nay là dự án Cao tốc Khánh Hòa - Buôn Ma Thuột. Ngân sách Nhà nước đang chi hàng nghìn tỷ đồng để xẻ núi làm đường. Đây chính là Chi xây dựng cơ bản.
+• Hay như chương trình Xây dựng Nông thôn mới ở các huyện như Cư M’gar, Krông Pắk… Nhà nước cấp xi măng, sắt thép để làm đường bê tông nội đồng. Đó là Chi cho Chương trình mục tiêu quốc gia.
+
+Slide 7: CHI THƯỜNG XUYÊN - KHÁI NIỆM & ĐẶC ĐIỂM (Hình ảnh: Văn phòng công sở, Bác sĩ khám bệnh, Giáo viên giảng bài)
+Người 1: Ngược lại với Chi đầu tư là Chi Thường xuyên. Đây là khoản chi nhằm duy trì hoạt động của bộ máy nhà nước. Đặc điểm của nó là: Ổn định, Tiêu dùng và Bắt buộc.
+Người 2: “Tiêu dùng” tức là chi xong là mất luôn hả cô? Nghe có vẻ lãng phí nhỉ?
+Người 1: Đừng hiểu lầm nhé. “Tiêu dùng” ở đây nghĩa là nó không tạo ra tài sản vật lý mới (như cái cầu, con đường), nhưng nó tạo ra dịch vụ công.
+• Ví dụ: Tiền trả lương cho các bác sĩ tại Bệnh viện Đa khoa vùng Tây Nguyên. Tháng nào cũng phải trả (tính ổn định). Tiền đó bác sĩ dùng để sinh sống (tiêu dùng).
+• Nếu cắt khoản chi này vì cho rằng nó “lãng phí/không tạo ra tài sản”, thì ai sẽ khám bệnh cho dân? Ai sẽ dạy học cho các em?
+• Vì thế, đặc điểm thứ 3 là Tính bắt buộc. Dù ngân sách có khó khăn, thiên tai, dịch bệnh, Chính phủ vẫn phải ưu tiên trả lương và chi hoạt động bộ máy trước, sau đó còn tiền mới tính đến chuyện xây cầu mới.
+Người 1: Như vậy, chúng ta đã đi qua phần tổng quan và so sánh được hai khoản chi lớn nhất. Ở phần sau, cô sẽ hướng dẫn các em cách phân loại chi tiết hơn để biết xem Chính phủ đang ưu tiên cho “súng” (quốc phòng) hay cho “phấn” (giáo dục) nhé.
+Slide 8: PHÂN LOẠI CHI THƯỜNG XUYÊN THEO CHỨC NĂNG - COFOG (Hình ảnh: Biểu đồ tròn so sánh tỷ lệ chi Giáo dục, Y tế, Quốc phòng)
+Người 1: Chúng ta vừa tìm hiểu xong sự khác biệt giữa “xây nhà” (Đầu tư) và “đi chợ” (Thường xuyên). Bây giờ, cô muốn các em tập trung vào khoản “đi chợ” này. Làm sao để biết Chính phủ đang quan tâm đến việc học hành của các em hay quan tâm đến việc mua sắm vũ khí hơn? Chúng ta dùng tiêu chuẩn phân loại theo Chức năng (gọi tắt là COFOG theo chuẩn Liên Hợp Quốc).
+Người 2: Dạ, có phải là nhìn vào xem ngành nào được chia nhiều tiền nhất không ạ?
+Người 1: Chính xác. Phân loại này trả lời câu hỏi: “Chi cho việc gì?”.
+• Ví dụ: Ở Việt Nam, Quốc hội có nghị quyết quy định cứng: “Chi cho Giáo dục & Đào tạo tối thiểu 20% tổng chi ngân sách”.
+• Khi nhìn thấy con số 20% này, thế giới sẽ đánh giá Việt Nam là quốc gia coi trọng phát triển con người. Nếu một nước mà chi cho Quốc phòng chiếm 40-50%, nước đó có thể đang có bất ổn hoặc chiến tranh.
+
+Slide 9: PHÂN LOẠI CHI THƯỜNG XUYÊN THEO NỘI DUNG KINH TẾ - GFS (Hình ảnh: Bảng lương, Hóa đơn điện nước, Trái phiếu)
+Người 1: Cách phân loại thứ hai là theo Nội dung kinh tế (GFS của IMF). Nếu cách trên hỏi “Chi cho việc gì?”, thì cách này trả lời câu hỏi: “Tiền đó dùng để mua cái gì?”.
+• Các em nhìn slide, có các mục chính: Thanh toán cá nhân (lương), Mua hàng hóa dịch vụ, Trả lãi vay…
+Người 2: Cô ơi, mục nào trong này tốn kém nhất ạ?
+Người 1: Hiện nay, mục “Thanh toán cá nhân” (trả lương, phụ cấp) thường chiếm tỷ trọng lớn nhất.
+• Ví dụ nóng hổi: Từ ngày 1/7/2024, khi Lương cơ sở tăng từ 1,8 triệu lên 2,34 triệu đồng (tăng 30%), thì mục chi này trong ngân sách phình to ra ngay lập tức.
+• Để có tiền bù vào khoản tăng này, Chính phủ đã phải yêu cầu các Bộ ngành cắt giảm tối đa các khoản “Mua hàng hóa, dịch vụ” không cần thiết như khánh tiết, hội nghị, đi công tác nước ngoài. Đây là bài toán “giật gấu vá vai” trong quản lý tài chính.
+
+Slide 10: PHÂN LOẠI CHI THƯỜNG XUYÊN THEO LĨNH VỰC (Hình ảnh: Công an phường, Bệnh viện công, Trạm khuyến nông)
+Người 1: Tại Việt Nam, để dễ quản lý, Luật NSNN chia thành 3 nhóm lĩnh vực lớn:
+1. An ninh & Hành chính: Chi cho Công an, Ủy ban nhân dân (để giữ nhà).
+2. Sự nghiệp Xã hội: Chi cho Giáo dục, Y tế, Văn hóa (để chăm sóc con người).
+3. Kinh tế: Chi cho khuyến nông, đê điều (để hỗ trợ sản xuất).
+Người 2: Em thấy nhóm Sự nghiệp xã hội quan trọng nhất phải không cô?
+Người 1: Mỗi nhóm có vai trò riêng, không thể thiếu nhóm nào. Nhưng xu hướng văn minh là tăng chi cho Sự nghiệp xã hội.
+• Ví dụ: Trong đại dịch COVID-19, chi cho Y tế tăng đột biến để mua sinh phẩm, trả phụ cấp chống dịch. Lúc đó, chi cho Văn hóa, Thể thao (tổ chức lễ hội, giải đấu) gần như bị cắt bỏ hoàn toàn để dồn lực cứu người. Ngân sách rất linh hoạt chứ không cứng nhắc đâu các em.
+
+Slide 11: CÁC NHIỆM VỤ CHI KHÁC (Hình ảnh: Kho gạo dự trữ, Cán cân nợ công, Xe hàng viện trợ)
+Người 1: Ngoài hai khoản “khổng lồ” là Chi ĐTPT và Chi Thường xuyên, chúng ta còn 3 khoản chi “nhỏ nhưng có võ”:
+1. Chi Dự trữ quốc gia: Mua gạo, muối, xăng dầu cất vào kho.
+2. Chi Trả nợ lãi: Trả lãi cho các khoản vay.
+3. Chi Viện trợ: Giúp đỡ nước bạn.
+Người 2: Cô ơi, thời đại này có siêu thị đầy đủ, sao Nhà nước phải tốn tiền mua gạo cất kho làm gì ạ?
+Người 1: Siêu thị là của tư nhân, họ kinh doanh vì lợi nhuận. Khi thiên tai bão lũ xảy ra, đường sá bị chia cắt, tư nhân không thể (hoặc không muốn) mang gạo đến vùng sâu vùng xa bán giá rẻ được.
+• Thực tế: Hàng năm vào dịp Tết hoặc giáp hạt, Chính phủ đều xuất cấp hàng nghìn tấn gạo từ kho Dự trữ quốc gia cho các tỉnh khó khăn (trong đó có Đắk Lắk mình ở một số huyện nghèo). Đây là nhiệm vụ chính trị để đảm bảo “không ai bị bỏ lại phía sau”.
+
+Slide 12: THỰC TIỄN CHI NSNN TẠI VIỆT NAM 2018-2022 (Hình ảnh: Biểu đồ cột tổng chi và Biểu đồ đường cơ cấu chi)
+Người 1: Bây giờ hãy nhìn vào những con số biết nói trên biểu đồ.
+• Tổng chi: Tăng đều qua các năm, phản ánh quy mô nền kinh tế lớn lên.
+• Cơ cấu chi: Đường màu cam (Chi thường xuyên) đang đi xuống (từ 64.9% → 60%), còn đường màu xanh (Chi ĐTPT) đang đi lên (27.4% → 34.7%).
+Người 2: Có phải Chính phủ đang “thắt lưng buộc bụng” không cô?
+Người 1: Rất chính xác! Chính phủ đang cố gắng tiết kiệm chi tiêu dùng (giảm họp hành, tinh giản biên chế) để dành tiền cho đầu tư.
+• Kết quả thực tế: Nhờ sự chuyển dịch này mà giai đoạn vừa qua chúng ta có tiền để xây dựng hàng loạt tuyến cao tốc (như Cao tốc Bắc - Nam, và sắp tới là Khánh Hòa - Buôn Ma Thuột). Nếu cứ “ăn tiêu” hết vào chi thường xuyên thì lấy đâu ra tiền làm đường?
+
+Slide 13: TỔNG KẾT BÀI HỌC (Hình ảnh: Cây xanh - Gốc rễ là ĐTPT, Lá cành là Thường xuyên)
+Người 1: Để kết thúc phần lý thuyết, cô dùng hình ảnh cái cây cho các em dễ nhớ:
+• Chi Đầu tư phát triển như việc bón phân vào gốc: Giúp cây lớn lên, ra cành mới (Tăng trưởng kinh tế, hạ tầng mới).
+• Chi Thường xuyên như việc tưới nước hàng ngày: Giúp lá xanh tươi, duy trì sự sống (Bộ máy hoạt động trôi chảy).
+• Chi Dự trữ là thuốc chữa bệnh: Phòng khi cây bị sâu bệnh (Thiên tai, dịch họa).
+• Nhà nước giỏi là nhà nước biết cân đối: Không để cây chết khát (thiếu chi thường xuyên) nhưng cũng không để cây còi cọc (thiếu chi đầu tư).
+
+Slide 14: BÀI TẬP VẬN DỤNG - THỬ TÀI QUẢN LÝ (Hình ảnh: Biểu tượng dấu hỏi lớn, hình ảnh minh họa 3 tình huống: Đê biển, Bác sĩ, Kho gạo)
+Người 1: Chúng ta đã đi qua một chặng đường dài về lý thuyết. Bây giờ, cô muốn các em đóng vai là những “Giám đốc Sở Tài chính” tương lai. Trên màn hình là các tình huống chi tiêu thực tế. Nhiệm vụ của các em là phân loại chúng vào đúng “ngăn” của ngân sách.
+Người 2: Dạ, nhìn qua thì em thấy toàn những việc quen thuộc, nhưng để xếp đúng ngăn thì cũng hơi phân vân ạ.
+Người 1: Đừng lo, cứ bám sát 3 từ khóa: “Tích lũy” (Đầu tư), “Tiêu dùng” (Thường xuyên), và “Phòng ngừa” (Dự trữ).
+• Câu hỏi 1: Hãy phân loại 3 khoản chi sau:
+o 
+a) Xây dựng đê chắn sóng tại miền Trung (hoặc xây hồ thủy lợi tưới tiêu cà phê ở Đắk Lắk).
+o 
+b) Trả lương tháng 10 cho bác sĩ tại Bệnh viện Đa khoa Vùng Tây Nguyên.
+o 
+c) Mua 5.000 tấn gạo bổ sung vào kho dự trữ quốc gia khu vực Tây Nguyên.
+Người 2: Dạ, em xin phép suy nghĩ một chút.
+• Trường hợp a: Xây đê hay hồ chứa nước là xây một lần dùng mãi mãi.
+• Trường hợp b: Lương bác sĩ thì tháng nào cũng phải trả, không trả họ không làm việc được.
+• Trường hợp c: Mua gạo cất đi, chưa dùng ngay.
+Người 1: Tư duy của em đang đi rất đúng hướng. Bây giờ sang câu hỏi khó hơn một chút, đòi hỏi khả năng phân tích vĩ mô.
+• Câu hỏi 2: Nhớ lại biểu đồ lúc nãy, tỷ trọng Chi đầu tư phát triển tăng, Chi thường xuyên giảm. Là một nhà quản lý, em thấy xu hướng này là Tốt hay Xấu? Tại sao?
+Người 2: Em nghĩ là tốt… nhưng giảm chi thường xuyên thì có sợ bộ máy nhà nước bị thiếu thốn không cô?
+Người 1: Một băn khoăn rất xác đáng! Chúng ta sẽ cùng lật sang Slide tiếp theo để xem đáp án và giải mã nỗi băn khoăn này nhé.
+
+Slide 15: ĐÁP ÁN & PHÂN TÍCH CHUYÊN SÂU (Hình ảnh: Cán cân ngân sách thăng bằng, hình ảnh Cao tốc Khánh Hòa - Buôn Ma Thuột đang thi công)
+Người 1: Đây là đáp án chính thức. Các em đối chiếu xem mình đúng được bao nhiêu phần trăm nhé.
+Người 1: a) Xây đê/Hồ thủy lợi → Chi Đầu tư phát triển: Vì nó tạo ra tài sản vật chất cố định. Cái đê đó sẽ bảo vệ mùa màng trong 20-50 năm tới. Nó là sự tích lũy vốn cho nền kinh tế.
+• b) Lương bác sĩ → Chi Thường xuyên: Vì đây là chi phí vận hành. Nó có tính ổn định và tiêu dùng. Sức lao động bỏ ra tháng nào được trả công tháng đó.
+• c) Mua gạo → Chi Dự trữ Quốc gia: Vì mục đích của nó không phải để kinh doanh, cũng không phải để ăn ngay, mà là để phòng khi có biến cố (thiên tai, dịch bệnh).
+Người 2: Dạ em đã rõ phần phân loại. Còn câu hỏi số 2 về xu hướng tăng/giảm thì sao ạ?
+Người 1: Về câu hỏi số 2, đáp án là: Đây là xu hướng RẤT TÍCH CỰC.
+• Hãy tưởng tượng Ngân sách như thu nhập của gia đình em. Nếu em kiếm được 10 đồng, mà em ăn tiêu (chi thường xuyên) hết 9 đồng, chỉ còn 1 đồng để sửa nhà (chi đầu tư) → Gia đình đó rất khó khá giả.
+• Nhưng nếu em tiết kiệm, chỉ ăn tiêu 6 đồng, dành ra được 4 đồng để mua thêm đất, mở cửa hàng → Gia đình đó sẽ giàu lên nhanh chóng.
+Người 1: Việc Nhà nước giảm tỷ trọng chi thường xuyên (xuống 60%) chính là nỗ lực “thắt lưng buộc bụng”, tinh giản biên chế, giảm họp hành lãng phí.
+• Số tiền tiết kiệm được đó chuyển sang Chi đầu tư (tăng lên gần 35%). Nhờ vậy, chúng ta mới có tiền để khởi công Cao tốc Khánh Hòa - Buôn Ma Thuột đi qua tỉnh nhà. Nếu không tiết kiệm chi thường xuyên, dự án đó sẽ mãi nằm trên giấy vì không có vốn.
+Người 2: À, giờ em mới hiểu! Hóa ra việc cắt giảm biên chế hay tiết kiệm điện nước ở cơ quan nhà nước lại liên quan trực tiếp đến việc có tiền làm đường cao tốc.
+Người 1: Chính xác! Đó chính là ý nghĩa của môn học Quản lý Tài chính công: Hiểu cách quản lý tiền để kiến tạo sự phát triển.
+• Dặn dò cuối bài: Về nhà các em xem lại sơ đồ phân loại chi và chuẩn bị cho bài sau: “Cân đối ngân sách & Bội chi” - nơi chúng ta sẽ học cách xử lý khi “Tiền chi nhiều hơn Tiền thu” nhé. Cảm ơn cả lớp!

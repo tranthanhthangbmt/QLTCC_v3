@@ -1,0 +1,113 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Hình ảnh trên slide: Tên môn học “Quản lý Tài chính công”, Chương 2, Chủ đề: “Cơ sở lý luận về Phân cấp quản lý ngân sách”. Góc dưới có logo NotebookLM)
+Người 1: Chào các em. Hôm nay là ngày 21/1/2026, chúng ta tiếp tục với Chương 2 của môn Quản lý Tài chính công. Ở những tiết trước, các em đã nắm được Ngân sách Nhà nước là gì rồi. Hôm nay, chúng ta sẽ đi vào một vấn đề cực kỳ “xương sống” trong bộ máy hành chính: Phân cấp Quản lý Ngân sách.
+Người 2: Thưa cô, em nhìn tiêu đề thấy có chữ “Phân cấp”. Có phải nó giống như việc bố mẹ giao tiền tiêu vặt cho con cái tự quản lý không ạ?
+Người 1: Một so sánh khá thú vị để mở đầu! Nhưng ở quy mô quốc gia, nó phức tạp hơn nhiều. “Phân cấp” ở đây không chỉ là “giao tiền”, mà là giao cả quyền hạn và trách nhiệm. Nếu không phân cấp tốt, Trung ương sẽ “ôm” quá nhiều việc, còn Địa phương thì ỷ lại. Bài hôm nay sẽ giải quyết câu hỏi: Ai được quyền thu cái gì? Ai phải chi cái gì? Và làm sao để cả bộ máy vận hành trơn tru? Chúng ta bắt đầu nhé.
+
+Slide 2: KHÁI NIỆM & PHÂN BIỆT QUAN TRỌNG (Hình ảnh trên slide: Sơ đồ hệ thống ngân sách dọc từ TW -> Tỉnh -> Huyện -> Xã. Bên cạnh là hộp thoại nhấn mạnh: “NSNN là thống nhất - Phân cấp là phân cấp quản lý”)
+Người 1: Đầu tiên, các em nhìn vào sơ đồ trên slide. Hệ thống ngân sách của Việt Nam chúng ta có 4 cấp: Trung ương, Tỉnh, Huyện, Xã. Theo Khoản 20, Điều 4 Luật NSNN 2025, Phân cấp quản lý là việc xác định phạm vi, trách nhiệm và quyền hạn của từng cấp này. Nhưng cô có một câu hỏi bẫy cho các em: Phân cấp ngân sách có nghĩa là chúng ta cắt ngân sách ra thành các miếng bánh riêng biệt, tiền ai nấy giữ không?
+Người 2: Dạ, theo dòng chữ “Crucial Distinction” (Phân biệt quan trọng) trên slide, thì câu trả lời là Không ạ. Slide ghi rõ: “NSNN là thống nhất”.
+Người 1: Chính xác! Đây là điểm sinh viên hay nhầm lẫn nhất. Việt Nam là nhà nước đơn nhất, nên Ngân sách là Thống nhất (Unified). Tiền trong túi Nhà nước là một thể thống nhất.
+• Ví dụ thực tế: Em hãy tưởng tượng như một tập đoàn lớn (VinGroup chẳng hạn). Tập đoàn có một dòng tiền chung (Thống nhất), nhưng họ vẫn phân quyền cho VinFast, VinHomes tự quản lý thu chi (Phân cấp quản lý). Nếu VinHomes lãi lớn, dòng tiền đó vẫn nằm trong báo cáo chung của tập đoàn, chứ không phải VinHomes tách ra thành công ty độc lập hoàn toàn.
+• Vậy nên, hãy nhớ kỹ: Chúng ta phân cấp về thẩm quyền quản lý, chứ không chia cắt ngân sách thành các ốc đảo độc lập.
+
+Slide 3: MỤC TIÊU CỦA PHÂN CẤP (Hình ảnh trên slide: 4 ô vuông mục tiêu: Hiệu quả - Trách nhiệm - Chủ động - Hài hòa. Mỗi ô có icon minh họa tương ứng)
+Người 1: Tại sao chúng ta phải đau đầu phân chia quyền hạn làm gì? Tại sao Bộ Tài chính không ngồi ở Hà Nội và quyết định chi từng đồng cho xã Cà Mau luôn cho gọn?
+Người 2: Dạ thưa cô, em nghĩ nếu làm thế thì sẽ rất chậm ạ. Với lại người ở Trung ương sao hiểu được xã Cà Mau đang cần xây cầu hay xây trường hơn ạ?
+Người 1: Rất chuẩn. Đó chính là mục tiêu về Hiệu quả và Chủ động trên slide.
+1. Hiệu quả: Để nguồn lực đến đúng nơi cần nhất. Người địa phương hiểu rõ nhất họ cần gì.
+2. Chủ động: Ví dụ, TP.HCM là đầu tàu kinh tế. Nếu muốn sửa một đoạn đường mà phải đợi xin ý kiến Trung ương duyệt từng hạng mục thì cơ hội đầu tư đã trôi qua rồi. Phân cấp giúp họ chủ động sáng tạo (“dám làm dám chịu”).
+3. Trách nhiệm: Khi đã giao quyền, nếu để thất thoát, anh không thể đổ lỗi cho cấp trên được nữa.
+4. Hài hòa: Đảm bảo lợi ích giữa Trung ương (cần nắm các vấn đề then chốt) và Địa phương.
+
+Slide 4: LỢI ÍCH VÀ RỦI RO (Hình ảnh trên slide: Hình ảnh cái cân. Một bên là “Lợi ích” (Giảm tải cho TW, Tăng chủ động cho ĐP), một bên là “Rủi ro” (Mất kiểm soát, Bất bình đẳng))
+Người 1: Phân cấp nghe có vẻ toàn màu hồng, nhưng nó là con dao hai lưỡi. Nhìn vào slide, các em thấy rủi ro lớn nhất là gì?
+Người 2: Em thấy có ý “Nguy cơ bất bình đẳng giữa các địa phương”. Cái này nghĩa là sao ạ?
+Người 1: Cô lấy ví dụ thực tế từ số liệu năm 2024-2025 nhé.
+• Thực tế: Các địa phương như TP.HCM, Hà Nội, Bình Dương, Bà Rịa - Vũng Tàu có nguồn thu rất lớn từ công nghiệp, dịch vụ. Nếu phân cấp mạnh (cho họ giữ lại nhiều nguồn thu), họ sẽ càng giàu lên, đường sá hiện đại.
+• Trong khi đó, các tỉnh miền núi phía Bắc hay Tây Nguyên nguồn thu ít. Nếu phân cấp quá đà mà Trung ương không can thiệp điều tiết, khoảng cách giàu nghèo giữa các tỉnh sẽ doãng ra rất rộng. Tỉnh giàu thì trải thảm nhựa, tỉnh nghèo thì đường đất.
+• Ngoài ra, còn rủi ro “Cục bộ địa phương” - tức là địa phương chỉ chăm chăm lo cho lợi ích của mình mà quên đi lợi ích quốc gia (ví dụ: đua nhau xây sân bay, cảng biển dù không hiệu quả).
+
+Slide 5: 3 NGUYÊN TẮC VÀNG TRONG PHÂN CẤP (Hình ảnh trên slide: Mô hình ngôi đền Parthenon với 3 cột trụ. Cột 1: Phân định nguồn thu/nhiệm vụ chi. Cột 2: Cân bằng TW-ĐP. Cột 3: Phù hợp phân cấp KT-XH)
+Người 1: Để giải quyết bài toán “dao hai lưỡi” ở Slide 4, chúng ta có 3 nguyên tắc vàng, được ví như 3 trụ cột chống đỡ mái nhà Ngân sách.
+• Trụ cột 1: Phải phân định rõ ràng: Tiền nào anh được thu? Việc nào anh phải làm? Tránh tình trạng “cha chung không ai khóc”.
+• Trụ cột 2: Cân bằng. Ngân sách Trung ương phải giữ vai trò chủ đạo (nắm các nguồn thu lớn để điều tiết), nhưng Ngân sách Địa phương phải có tính chủ động.
+• Trụ cột 3: Phù hợp với phân cấp kinh tế - xã hội. Nghĩa là anh được giao nhiệm vụ quản lý Y tế, Giáo dục đến đâu, thì tôi giao tiền cho anh tương ứng đến đó.
+Người 2: Cô ơi, vậy chi tiết “Vai trò chủ đạo” của Trung ương thể hiện như thế nào? Có phải là TW sẽ lấy hết tiền của tỉnh giàu chia cho tỉnh nghèo không ạ?
+Người 1: Câu hỏi rất hay, nó chạm đúng vào nguyên tắc số 2. Để trả lời kỹ câu này, chúng ta sẽ đi sâu vào các slide tiếp theo nhé. Nhưng tóm lại ở slide này, các em nhớ kỹ hình ảnh “Ngôi đền 3 trụ” này. Thiếu một trụ, ngôi nhà quản lý ngân sách sẽ sụp đổ ngay.
+
+Slide 6: NGUYÊN TẮC 1 - PHÂN ĐỊNH RÕ RÀNG (Hình ảnh trên slide: Một vạch kẻ phân chia dứt khoát. Bên trái là “Nguồn thu A - Chi nhiệm vụ A”, Bên phải là “Nguồn thu B - Chi nhiệm vụ B”. Góc dưới có biểu tượng “Stop Xin-Cho”)
+Người 1: Chúng ta đi vào trụ cột đầu tiên: Phân định nguồn thu và nhiệm vụ chi. Nguyên tắc này nghe đơn giản: “Tiền của ai người nấy tiêu, việc của ai người nấy làm”. Nhưng thực tế lịch sử quản lý ngân sách Việt Nam trước đây từng rất đau đầu vì cơ chế “Xin - Cho”.
+Người 2: “Xin - Cho” nghĩa là sao ạ? Có phải là địa phương cứ thiếu tiền là chạy lên Trung ương xin không ạ?
+Người 1: Đúng vậy. Nếu không phân định rõ nguồn thu nào là của em, em sẽ có tâm lý ỷ lại.
+• Ví dụ: Nếu tỉnh A muốn xây một nhà văn hóa nhưng không có quy định rõ tiền lấy từ đâu, họ sẽ làm văn bản xin Bộ Tài chính. Việc này tạo ra sự thụ động và thiếu minh bạch.
+• Vì vậy, yêu cầu cốt lõi ở slide này là: Phải quy định cứng (bằng Luật) nguồn thu nào địa phương được hưởng 100%, nguồn nào phải chia sẻ. Khi đã biết rõ “trong túi mình có bao nhiêu tiền”, địa phương mới dám chủ động lên kế hoạch chi tiêu, thay vì ngồi chờ “bầu sữa” từ Trung ương.
+
+Slide 7: KỶ LUẬT TÀI CHÍNH - AI BAN HÀNH, NGƯỜI ĐÓ TRẢ TIỀN (Hình ảnh trên slide: Cán cân công lý và Tờ hóa đơn. Dòng chữ lớn: “Policy Maker = Payer”)
+Người 1: Đây là một điểm mới và cực kỳ tiến bộ trong Luật NSNN những năm gần đây. Nguyên tắc là: Cấp nào ban hành chính sách làm tăng chi, cấp đó phải đảm bảo nguồn tiền.
+Người 2: Cô cho em một ví dụ “đau thương” trong quá khứ để dễ hình dung được không ạ?
+Người 1: Được chứ.
+• Ví dụ thực tế: Trước đây, Trung ương ban hành chính sách miễn thủy lợi phí cho nông dân cả nước. Chính sách rất nhân văn, nhưng lại không chuyển tiền về cho các địa phương để bù đắp khoản thu bị mất đó. Kết quả là các xã, huyện bị hụt thu, không có tiền trả lương cho cán bộ thủy nông, dẫn đến kêu ca rất nhiều.
+• Hiện nay: Rút kinh nghiệm, nếu Bộ Giáo dục muốn tăng lương cho giáo viên (nhân sự do địa phương quản lý và trả lương), thì Bộ Tài chính/Trung ương phải rót tiền bổ sung về cho địa phương để trả khoản chênh lệch đó. Không được phép ra lệnh “miệng” rồi bắt địa phương tự xoay sở. Đó chính là Kỷ luật tài chính.
+
+Slide 8: NGUYÊN TẮC 2 - CÂN BẰNG TRUNG ƯƠNG & ĐỊA PHƯƠNG (Hình ảnh trên slide: Hệ thống bánh răng đồng hồ. Bánh răng lớn (TW) khớp nối với các bánh răng nhỏ (ĐP) để cùng vận hành bộ máy)
+Người 1: Chúng ta sang trụ cột thứ hai: Sự cân bằng. Mối quan hệ giữa Trung ương và Địa phương không phải là cấp trên - cấp dưới đơn thuần, mà là mối quan hệ biện chứng như hệ thống bánh răng này.
+Người 2: Em thấy slide ghi: Trung ương giữ vai trò Chủ đạo, còn Địa phương giữ vai trò Chủ động. Hai từ này nghe na ná nhau nhưng chắc chắn ý nghĩa khác hẳn nhau phải không cô?
+Người 1: Rất tinh ý! Đây là “cặp bài trùng” trong thi cử đấy nhé.
+• Chủ đạo (Leading role): Là người cầm trịch, người nhạc trưởng. Nắm giữ những nguồn lực lớn nhất để điều tiết cuộc chơi.
+• Chủ động (Active/Initiative role): Là người thực thi sáng tạo. Không phải là cái máy chỉ biết nghe lệnh, mà biết cách xoay sở tốt nhất trong phạm vi của mình.
+• Chúng ta sẽ mổ xẻ từng vai trò ngay sau đây.
+
+Slide 9: VAI TRÒ CHỦ ĐẠO CỦA NGÂN SÁCH TRUNG ƯƠNG (Hình ảnh trên slide: Bản đồ Việt Nam. Các mũi tên dòng tiền từ Hà Nội/TP.HCM tỏa đi các tỉnh miền núi, hải đảo. Biểu tượng: “Trung tâm điều hòa”)
+Người 1: Tại sao Ngân sách Trung ương (NSTW) nhất định phải giữ vai trò chủ đạo và nắm các nguồn thu lớn (như Thuế XNK, Dầu thô…)? Sao không chia hết về cho các tỉnh?
+Người 2: Em nghĩ nếu chia hết thì mấy tỉnh có cửa khẩu hay mỏ dầu sẽ giàu nứt đố đổ vách, còn mấy tỉnh miền núi thì… đói luôn ạ.
+Người 1: Chuẩn xác! Đó là lý do NSTW phải đóng vai trò “Trung tâm điều hòa”.
+• Thực tế: Ở Việt Nam, chỉ có khoảng hơn 10 tỉnh/thành phố là tự cân đối được ngân sách và có điều tiết về Trung ương (như TP.HCM, Hà Nội, Bình Dương, Đồng Nai…). Còn lại hơn 50 tỉnh khác thu không đủ chi.
+• NSTW sẽ thu những khoản lớn nhất, sau đó dùng tiền đó để:
+1. Chi cho Quốc phòng, An ninh (cái này tỉnh không làm được).
+2. Chi cho các dự án quốc gia (Đường dây 500kV, Cao tốc Bắc - Nam).
+3. Quan trọng nhất: Bổ sung cân đối cho các tỉnh nghèo để đảm bảo một em bé ở Hà Giang cũng được đi học trường công như em bé ở Hà Nội. Đó là tính ưu việt của “Vai trò chủ đạo”.
+
+Slide 10: TÍNH CHỦ ĐỘNG CỦA NGÂN SÁCH ĐỊA PHƯƠNG (Hình ảnh trên slide: Một lãnh đạo địa phương đang xem bản thiết kế quy hoạch đô thị của tỉnh mình. Biểu tượng: Chìa khóa trao tay)
+Người 1: Ngược lại, tại sao cần trao quyền Chủ động cho địa phương?
+Người 2: Có phải vì “nước xa không cứu được lửa gần” không ạ?
+Người 1: Đúng thế. Mỗi địa phương có một “nỗi đau” và “thế mạnh” riêng.
+• Ví dụ: Tỉnh Quảng Ninh mạnh về du lịch biển, họ cần tiền để đầu tư cảng tàu khách quốc tế. Tỉnh Đắk Lắk mạnh về cà phê, họ cần tiền để làm thủy lợi tưới tiêu. Trung ương không thể ngồi ở Hà Nội mà biết hết từng cái mương ở Đắk Lắk bị hỏng được.
+• Cơ chế: Trao quyền chủ động nghĩa là: Tỉnh được giao nguồn thu (ví dụ: Thuế sử dụng đất, Phí tham quan…), và tỉnh được toàn quyền quyết định dùng tiền đó làm gì để phát triển kinh tế địa phương tốt nhất.
+• Đặc biệt, nếu địa phương thu vượt dự toán (làm ăn giỏi), họ được giữ lại phần vượt thu đó để chi thưởng hoặc đầu tư tiếp. Đây là động lực để họ phấn đấu, thay vì ỷ lại.
+
+Slide 11: NGUYÊN TẮC 3 - PHÙ HỢP VỚI PHÂN CẤP KINH TẾ – XÃ HỘI (Hình ảnh trên slide: Hai bánh răng khớp nhau: Một bên là “Nhiệm vụ KT-XH” (Y tế, Giáo dục…), một bên là “Nguồn lực Ngân sách”)
+Người 1: Chúng ta đến với trụ cột cuối cùng: Sự phù hợp. Nguyên tắc này trả lời cho câu hỏi: Tại sao huyện A lại được giao quản lý trường Tiểu học, trong khi Tỉnh lại quản lý trường Cấp 3?
+Người 2: Em nghĩ là do năng lực quản lý ạ?
+Người 1: Đúng một phần. Nguyên tắc cốt lõi ở đây là: Phân cấp Ngân sách phải đi theo Phân cấp quản lý Kinh tế - Xã hội.
+• Hãy tưởng tượng Ngân sách giống như “xăng”, còn bộ máy quản lý là “xe”. Xe chạy đi đâu (nhiệm vụ KT-XH) thì xăng phải đổ theo đó (ngân sách).
+• Nếu Nhà nước giao cho Ủy ban nhân dân xã nhiệm vụ giữ gìn trật tự an ninh thôn xóm, thì Nhà nước phải phân cấp cho xã nguồn ngân sách để trả phụ cấp cho dân phòng. Không thể giao việc mà không giao tiền (Unfunded Mandate).
+
+Slide 12: YÊU CẦU VỀ SỰ PHÙ HỢP - “LIỆU CƠM GẮP MẮM” (Hình ảnh trên slide: Một người đang gánh hai đầu đòn gánh cân bằng. Một đầu là “Trách nhiệm Chi”, đầu kia là “Nguồn lực/Thực tế”)
+Người 1: Sự phù hợp này đòi hỏi hai yêu cầu khắt khe mà các nhà làm luật gọi vui là “liệu cơm gắp mắm”.
+1. Trách nhiệm Chi = Nhiệm vụ Phát triển: Giao nhiệm vụ đến đâu, tiền đến đó.
+2. Nguồn Thu = Hiện trạng Thực tế: Đây là cái quan trọng. Không được giao chỉ tiêu thu quá sức cho địa phương.
+Người 2: Cô ví dụ rõ hơn về cái “Nguồn thu = Hiện trạng thực tế” được không ạ?
+Người 1: Ví dụ: Một huyện miền núi ở Lai Châu, doanh nghiệp thì ít, chủ yếu là bà con làm nương rẫy. Nếu Trung ương phân cấp cho huyện này nguồn thu từ “Thuế Thu nhập Doanh nghiệp” và bảo: “Các anh tự thu mà tiêu nhé”, thì huyện đó chết đói ngay, vì lấy đâu ra doanh nghiệp mà thu?
+• Với những địa bàn khó khăn như vậy, phân cấp nguồn thu phải dựa trên thực tế: Họ chỉ thu được các khoản phí chợ, phí lệ phí nhỏ lẻ… Phần thiếu hụt lớn còn lại, Ngân sách cấp trên phải bổ sung.
+
+Slide 13: CƠ SỞ PHÁP LÝ (Hình ảnh trên slide: Cuốn sách Luật Ngân sách Nhà nước 2025 mở ra tại Điều 9. Các từ khóa nổi bật: “Luật định”, “Nguyên tắc”, “Hiệu quả”)
+Người 1: Tất cả những gì chúng ta vừa thảo luận không phải là lý thuyết suông trong sách giáo khoa, mà đã được luật hóa.
+• Cụ thể là Điều 9, Luật Ngân sách Nhà nước 2025.
+• Điều luật này là “kim chỉ nam” để khi xảy ra tranh chấp giữa Bộ Tài chính và các địa phương về việc ai phải chi tiền, người ta sẽ mở luật ra để phân xử. Các em cần nhớ kỹ điều này để sau này làm bài thi trắc nghiệm nhé.
+
+Slide 14: BÀI TẬP VẬN DỤNG - TÌNH HUỐNG THỰC TẾ (Hình ảnh trên slide: Một dấu hỏi lớn (?) ở giữa. Bên trái: Hình ảnh Giáo viên vui mừng vì tăng lương. Bên phải: Hai đáp án A và B để chọn)
+Người 1: Bây giờ, để kiểm tra xem các em đã thực sự hiểu bài chưa, cô có một tình huống thực tế đã từng gây tranh cãi rất nhiều.
+• Tình huống: Bộ Giáo dục và Đào tạo (cấp Trung ương) ban hành quyết định tăng phụ cấp thâm niên cho giáo viên. Điều này làm quỹ lương của các trường ở địa phương tăng vọt.
+• Câu hỏi: Ai phải móc hầu bao để trả khoản tăng thêm này?
+o A. Ngân sách Địa phương (Tỉnh/Huyện) tự lo liệu, vì giáo viên là người của địa phương quản lý mà?
+o B. Bộ Giáo dục (Trung ương) phải đảm bảo nguồn tiền này?
+Người 2: Suy nghĩ… Ca này khó nhỉ. Giáo viên dạy ở trường làng thì chắc là “người của làng”, địa phương phải lo chứ ạ? Nhưng mà lệnh tăng lương là do “Ông lớn” ở trên ban xuống mà… Em phân vân quá.
+
+Slide 15: LỜI GIẢI VÀ GIẢI THÍCH (Hình ảnh trên slide: Dấu tích xanh (✅) to đùng vào đáp án B. Dòng chữ slogan: “AI BAN HÀNH - NGƯỜI ĐÓ TRẢ TIỀN”)
+Người 1: Đáp án chính xác là B: Ngân sách Trung ương phải đảm bảo.
+Người 2: Ồ! Tại sao ạ? Địa phương được hưởng lợi (giáo viên vui vẻ dạy tốt hơn) mà không phải trả tiền sao?
+Người 1: Chúng ta quay lại Nguyên tắc số 1 và quy định về Kỷ luật Tài chính ở Slide 7.
+• Quy tắc: “Cấp nào ban hành chính sách làm tăng chi, cấp đó phải đảm bảo nguồn”.
+• Vì Bộ Giáo dục (Trung ương) là người “bấm nút” quyết định tăng lương, nên Trung ương phải có trách nhiệm rót thêm tiền (gọi là bổ sung có mục tiêu) về cho địa phương để chi trả phần chênh lệch đó.
+• Ý nghĩa: Điều này ngăn chặn tình trạng Trung ương cứ thoải mái ban hành chính sách “lấy lòng” dân, còn gánh nặng tài chính thì đẩy hết xuống cho địa phương gánh (cái này gọi là “Trung ương hứa, Địa phương trả”). Đây là bước tiến rất lớn để bảo vệ ngân sách địa phương.
+Người 1: Bài học hôm nay kết thúc ở đây. Các em hãy nhớ kỹ mô hình “Ngôi đền 3 trụ cột” và quy tắc “Ai ban hành, người đó trả tiền” nhé. Hẹn gặp lại các em ở tiết sau!

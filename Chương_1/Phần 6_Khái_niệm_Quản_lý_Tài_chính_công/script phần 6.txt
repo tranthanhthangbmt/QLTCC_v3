@@ -1,0 +1,78 @@
+﻿Slide 1: TRANG BÌA (TÊN MÔN HỌC & BÀI HỌC) (Hình ảnh trên slide: Tên môn học “QUẢN LÝ TÀI CHÍNH CÔNG” và tên bài “Phần 6: Khái niệm Quản lý Tài chính công”. Góc dưới có logo NotebookLM và trường đại học)
+Người 1: Chào các em. Hôm nay chúng ta chính thức bước vào một phần rất quan trọng trong Chương 1, đó là “Khái niệm Quản lý Tài chính công”. Nhìn vào tên bài học, cô muốn hỏi một chút: Theo các em, tại sao chúng ta không bắt tay vào học ngay cách tính thuế hay cách Chính phủ chi tiền, mà lại phải đi phân tích từng từ “Quản lý” và “Tài chính công” trước? Nó có quá lý thuyết không?
+Người 2: Dạ thưa cô, em nghĩ giống như xây nhà phải có móng ạ. Nếu không hiểu rõ “bản chất nó là gì” thì sau này rất dễ nhầm lẫn giữa việc “Nhà nước quản lý tiền” với “Doanh nghiệp quản lý tiền”.
+Người 1: Rất chính xác. Tiết học này chính là việc “xây móng”. Trong giáo trình kinh tế học công cộng hiện đại, ví dụ như của Jonathan Gruber, câu hỏi đầu tiên luôn là “Khi nào chính phủ nên can thiệp vào nền kinh tế?”. Để trả lời được, chúng ta phải hiểu công cụ quản lý của Nhà nước là gì. Chúng ta cùng bắt đầu nhé.
+
+Slide 2: VỊ TRÍ BÀI HỌC (Hình ảnh trên slide: Sơ đồ cấu trúc Chương 1. Mục 1.2 “Tổng quan về Quản lý Tài chính công” được làm nổi bật, bao gồm các ý: 1.2.1 Khái niệm, Đặc điểm, Nội dung, Tổ chức bộ máy )
+Người 1: Để các em không bị lạc trong “rừng kiến thức”, hãy nhìn lên slide. Bài học hôm nay nằm ở mục 1.2.1, tập trung hoàn toàn vào việc làm rõ bản chất và các yếu tố cấu thành nên khái niệm.
+Người 2: Thưa cô, nhìn vào sơ đồ này thì có vẻ như sau khi hiểu “Khái niệm”, chúng ta mới đi sâu vào “Đặc điểm” và “Bộ máy tổ chức” ở các bài sau đúng không ạ?
+Người 1: Đúng vậy. Hôm nay chúng ta sẽ mổ xẻ khái niệm này bằng cách tách nó thành hai thành tố: “Quản lý” và “Tài chính công”. Các em hình dung nó như một phương trình: Quản lý + Tài chính công = Quản lý Tài chính công. Chúng ta sẽ đi giải mã từng biến số một.
+
+Slide 3: THÀNH TỐ 1 - BẢN CHẤT CỦA QUẢN LÝ (Hình ảnh trên slide: Sơ đồ quy trình Quản lý: Chủ thể quản lý → Sử dụng Công cụ & Phương pháp → Tác động & Điều khiển → Đối tượng quản lý → Mục tiêu đã định )
+Người 1: Đầu tiên, hãy quên chữ “Tài chính công” đi, chúng ta nói về “Quản lý” nói chung. Nhìn vào sơ đồ, quản lý là một quá trình mà Chủ thể dùng các Công cụ để tác động lên Đối tượng nhằm đạt Mục tiêu. Em có thể lấy một ví dụ đời thường về mô hình này không?
+Người 2: Dạ, ví dụ như em (Chủ thể) muốn quản lý việc học (Đối tượng) để đạt học bổng (Mục tiêu). Công cụ của em là thời gian biểu và các app học tập ạ.
+Người 1: Ví dụ rất tốt. Trong Quản lý Tài chính công cũng y hệt như vậy, chỉ khác là quy mô lớn hơn nhiều.
+• Chủ thể không phải là cá nhân mà là Nhà nước.
+• Công cụ không phải là app điện thoại mà là Luật pháp, chính sách.
+• Và quan trọng nhất, quá trình này phải phù hợp với quy luật khách quan. Nếu Nhà nước quản lý mà đi ngược lại quy luật kinh tế (ví dụ: in tiền vô tội vạ để chi tiêu) thì sẽ thất bại ngay.
+
+Slide 4: THÀNH TỐ 2 - TÀI CHÍNH CÔNG LÀ GÌ? (Hình ảnh trên slide: Định nghĩa Tài chính công. Các gạch đầu dòng: Tổng thể hoạt động thu chi bằng tiền do Nhà nước tiến hành; Bản chất: Quan hệ kinh tế; Mục đích: Thực hiện chức năng Nhà nước & Lợi ích chung )
+Người 1: Bây giờ đến biến số thứ hai: Tài chính công. Theo slide này, Tài chính công là tổng thể các hoạt động thu, chi bằng tiền do Nhà nước tiến hành. Nhưng bản chất sâu xa của nó là gì?
+Người 2: Em thấy slide ghi là “Phản ánh hệ thống các quan hệ kinh tế nảy sinh trong quá trình tạo lập và sử dụng các quỹ công”. Câu này hơi trừu tượng ạ.
+Người 1: Để cô giải thích đơn giản hơn. Khi em đóng thuế (tạo lập quỹ) và Nhà nước dùng tiền đó xây đường (sử dụng quỹ), đó không chỉ là chuyện tiền bạc chuyển từ túi này sang túi khác. Đó là một quan hệ kinh tế. Ví dụ trong sách của Gruber: Khi chính phủ đánh thuế để tài trợ cho tiêm chủng vắc-xin, đó là vì lợi ích chung của xã hội (giảm dịch bệnh) mà tư nhân không tự làm được . Đó chính là bản chất của Tài chính công: Phục vụ lợi ích chung và thực hiện chức năng của Nhà nước.
+
+Slide 5: TỔNG HỢP - KHÁI NIỆM QUẢN LÝ TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ tổng hợp 5 yếu tố của QLTCC: 1. Chủ thể (Nhà nước) → 2. Phương pháp → 3. Công cụ → 4. Đối tượng (Tài chính công) → 5. Mục tiêu )
+Người 1: Giờ chúng ta ghép hai slide trước lại để ra định nghĩa hoàn chỉnh. Quản lý Tài chính công là hoạt động của các chủ thể (Nhà nước) sử dụng các phương pháp và công cụ để điều khiển hoạt động của Tài chính công nhằm đạt mục tiêu định trước. Nhìn vào sơ đồ 5 yếu tố trên slide, em hãy xác định nhanh giúp cô “Đối tượng” ở đây là gì?
+Người 2: Dạ, đối tượng bị quản lý ở đây chính là Tài chính công ạ. Tức là Nhà nước quản lý các luồng thu, chi và các quan hệ kinh tế mà cô vừa giải thích ở Slide 4 đúng không ạ?
+Người 1: Chính xác. Và em lưu ý mục tiêu cuối cùng nhé: Không phải là để Nhà nước “có nhiều tiền”, mà là Lợi ích tổng thể kinh tế - xã hội. Ví dụ: Nhà nước tăng thuế thuốc lá (Công cụ) không chỉ để thu tiền, mà để giảm người hút thuốc, qua đó giảm chi phí y tế cho toàn xã hội (Mục tiêu). Đây là sự khác biệt cơ bản so với tài chính doanh nghiệp – nơi mục tiêu thường là lợi nhuận.
+Slide 6: ĐẶC ĐIỂM 1 - GẮN LIỀN VỚI QUYỀN LỰC CHÍNH TRỊ (Hình ảnh trên slide: Hình ảnh Quốc hội đang họp hoặc chiếc búa của Thẩm phán bên cạnh đồng tiền. Các từ khóa: “Cưỡng chế”, “Độc quyền”, “Quyền lực công”)
+Người 1: Chúng ta vừa xong phần khái niệm. Giờ hãy đi vào đặc điểm đầu tiên và quan trọng nhất: Tính quyền lực chính trị. Đố các em, nếu VinGroup muốn thu tiền của các em, họ phải làm gì? Và nếu Nhà nước muốn thu tiền (thuế), Nhà nước làm gì?
+Người 2: Dạ, VinGroup phải bán hàng hoặc cung cấp dịch vụ để em tự nguyện móc ví trả tiền. Còn Nhà nước thì ban hành Luật Thuế, em buộc phải đóng, nếu không sẽ bị phạt ạ.
+Người 1: Chính xác. Đó là sự khác biệt về “Quyền lực”. Quản lý Tài chính công không dựa trên thỏa thuận mua bán ngang giá như tư nhân, mà dựa trên Quyền lực chính trị.
+• Nhà nước có quyền áp đặt các khoản thu (Thuế, phí) mang tính cưỡng chế.
+• Ngược lại, Nhà nước cũng là duy nhất có quyền quyết định chi tiêu cho những việc mà tư nhân không làm (như Quốc phòng, Ngoại giao).
+
+Slide 7: ĐẶC ĐIỂM 2 - TÍNH PHÁP LÝ CAO (CƠ SỞ LÀ LUẬT PHÁP) (Hình ảnh trên slide: Cuốn Luật Ngân sách Nhà nước và Hiến pháp làm nền tảng cho một cán cân tài chính. Dòng chữ: “Không có khoản thu, chi nào nằm ngoài Luật pháp”)
+Người 1: Đặc điểm thứ hai liên quan chặt chẽ đến đặc điểm thứ nhất. Vì Nhà nước dùng “quyền lực” để lấy tiền của dân, nên để tránh lạm quyền, hoạt động này phải có Tính pháp lý cao.
+Người 2: Tức là mọi khoản thu chi đều phải được quy định trong Luật đúng không cô?
+Người 1: Đúng vậy. Trong Tài chính công có một nguyên tắc kinh điển: “Không có thuế nếu không có đại diện” (No taxation without representation). Ví dụ: Một doanh nghiệp có thể hứng lên là thưởng Tết ngay cho nhân viên. Nhưng một cơ quan Nhà nước muốn chi tiền thưởng, họ phải dò xem khoản đó có trong Mục lục Ngân sách không, có đúng Luật Ngân sách không. Nếu chi sai luật, dù chỉ 1 đồng, cũng là vi phạm pháp luật.
+
+Slide 8: ĐẶC ĐIỂM 3 - MỤC TIÊU VÌ LỢI ÍCH CỘNG ĐỒNG (PHI LỢI NHUẬN) (Hình ảnh trên slide: So sánh 2 hình ảnh: Một bên là Doanh nghiệp đếm lợi nhuận (Profit), bên kia là Người dân vui vẻ trong công viên công cộng (Welfare). Từ khóa: “Hiệu quả Kinh tế - Xã hội”)
+Người 1: Đến đặc điểm thứ 3, đây là “kim chỉ nam” cho mọi quyết định quản lý. Nếu tư nhân quản lý tài chính để tối đa hóa Lợi nhuận, thì Nhà nước quản lý tài chính để tối đa hóa cái gì?
+Người 2: Em nghĩ là tối đa hóa Lợi ích xã hội ạ. Như trong file tài liệu có ví dụ về việc xây cầu miễn phí ấy ạ.
+Người 1: Rất chuẩn. Chúng ta gọi đó là Hiệu quả Kinh tế - Xã hội. Ví dụ thực tế: Nhà nước chi hàng ngàn tỷ đồng để tiêm vắc-xin miễn phí. Về mặt tài chính là “lỗ” nặng (chi mà không thu). Nhưng về mặt xã hội, nó giúp cả nền kinh tế không bị đình trệ vì dịch bệnh. Đó là cách “tính lãi” của Tài chính công – cái lãi nằm ở sự ổn định và phát triển của cộng đồng.
+
+Slide 9: ĐẶC ĐIỂM 4 - TÍNH KHÔNG HOÀN TRẢ TRỰC TIẾP (Hình ảnh trên slide: Sơ đồ dòng tiền: Người dân đóng Thuế → Ngân sách → Công trình công cộng (Đường, Trường, Trạm). Mũi tên không quay ngược lại trực tiếp cho người đóng thuế)
+Người 1: Đặc điểm này rất thú vị và hay gây tranh cãi: Tính không hoàn trả trực tiếp (hay còn gọi là không đối giá). Em hiểu thế nào về cụm từ này?
+Người 2: Có phải ý là: Em đóng thuế cầu đường, nhưng chưa chắc em đã là người được đi trên con đường đó? Hoặc em đóng bảo hiểm y tế nhưng (trộm vía) em không ốm thì em không nhận lại tiền?
+Người 1: Ví dụ của em rất đời thường và dễ hiểu. Trong trao đổi tư nhân: “Tiền trao cháo múc” (Hoàn trả trực tiếp). Còn trong Tài chính công: Em đóng thuế để nuôi bộ máy Nhà nước, xây trường học ở vùng cao… Em nhận lại lợi ích gián tiếp là một xã hội an toàn, dân trí cao, môi trường tốt. Không ai có quyền đòi Nhà nước: “Tôi đóng 10 triệu tiền thuế, hãy trả lại tôi 10 triệu tiền dịch vụ”.
+
+Slide 10: TỔNG KẾT & SO SÁNH (BÀI TẬP NHANH) (Hình ảnh trên slide: Bảng so sánh 2 cột: Quản lý Tài chính công (QLTCC) vs Quản lý Tài chính Doanh nghiệp (TCDN). Các tiêu chí: Chủ thể, Mục tiêu, Nguồn thu, Tính chất)
+Người 1: Để kết thúc phần “Đặc điểm”, cô có một bảng so sánh nhanh trên slide. Các em hãy điền vào chỗ trống nhé.
+• Mục tiêu: Doanh nghiệp là Lợi nhuận, còn QLTCC là…?
+• Nguồn thu: Doanh nghiệp là Doanh thu bán hàng, còn QLTCC chủ yếu là…?
+Người 2: Dạ em xin điền:
+• Mục tiêu QLTCC là Lợi ích công cộng/Xã hội.
+• Nguồn thu QLTCC chủ yếu là Thuế và các khoản thu bắt buộc.
+Người 1: Hoàn toàn chính xác. Slide này là “chìa khóa” để các em không bao giờ nhầm lẫn khi xử lý các tình huống quản lý sau này. Như vậy, chúng ta đã nắm chắc “Khái niệm” và “Đặc điểm”. Sang tiết sau, chúng ta sẽ xem Nhà nước tổ chức bộ máy như thế nào để vận hành cỗ máy khổng lồ này nhé.
+Slide 11: TỔNG HỢP - HỆ THỐNG QUẢN LÝ TÀI CHÍNH CÔNG (Hình ảnh trên slide: Sơ đồ quy trình khép kín: Chủ thể (Nhà nước) Sửdụng​ Công cụ (Luật, Kế hoạch) Taˊcđộng​ Đối tượng (Thu/Chi & Quan hệ kinh tế) Nha ̆ˋmđạt​ Mục tiêu (Lợi ích KT-XH).)
+Người 1: Chúng ta đã đi qua từng mảnh ghép rời rạc. Bây giờ, ở slide 11 này, cô muốn các em nhìn thấy “bức tranh toàn cảnh”. Đây chính là Hệ thống Quản lý Tài chính công. Nhìn vào mũi tên trong sơ đồ, em thấy dòng chảy quyền lực đi như thế nào?
+Người 2: Dạ, em thấy nó đi từ trên xuống dưới ạ. Bắt đầu từ Nhà nước (Chủ thể), dùng Luật/Chính sách (Công cụ) để tác động vào túi tiền và hành vi của xã hội (Đối tượng), cuối cùng để đạt được Lợi ích chung (Mục tiêu).
+Người 1: Đúng vậy. Nhưng hãy chú ý kỹ phần “Đối tượng”. Tại sao slide lại ghi Đối tượng bao gồm cả “Thu/Chi” và “Quan hệ kinh tế”? Như cô đã nói ở phần đầu, nếu Nhà nước chỉ quan tâm đến “Thu/Chi” (con số tiền), đó là kế toán. Còn Quản lý Tài chính công phải quản lý được cái “Quan hệ kinh tế” đằng sau con số đó. Tức là quản lý xem việc thu tiền đó ảnh hưởng thế nào đến hành vi người dân. Để rõ hơn, chúng ta sang bài tập tình huống ngay sau đây.
+
+Slide 12: BÀI TẬP VẬN DỤNG (CASE STUDY: THUẾ MÔI TRƯỜNG) (Hình ảnh trên slide: Tình huống: “Quốc hội thông qua Luật Thuế bảo vệ môi trường nhằm hạn chế hành vi gây ô nhiễm và tăng thu ngân sách để tái tạo môi trường”. Bên dưới là 4 dấu hỏi chấm cho 4 yếu tố: Chủ thể? Công cụ? Đối tượng? Mục tiêu?)
+Người 1: Đây là tình huống thực tế. Hãy tưởng tượng em là một chuyên gia phân tích chính sách. Dựa vào tình huống trên bảng, em hãy xác định giúp cô 4 yếu tố cấu thành của hoạt động quản lý này. Gợi ý: Đừng chỉ nhìn bề nổi, hãy nhìn sâu vào bản chất.
+Người 2: Dạ, em xin thử ạ:
+1. Chủ thể: Chắc chắn là Quốc hội rồi ạ, vì họ thông qua Luật.
+2. Công cụ: Là Luật Thuế bảo vệ môi trường.
+3. Mục tiêu: Là Bảo vệ môi trường (hạn chế ô nhiễm).
+4. Còn Đối tượng… em đang phân vân. Có phải là “người gây ô nhiễm” không ạ? Hay là “tiền thuế”?
+Người 1: Câu hỏi rất hay. “Đối tượng” là phần dễ nhầm lẫn nhất. Em hãy giữ thắc mắc đó và chúng ta cùng xem đáp án ở slide cuối cùng nhé.
+
+Slide 13: LỜI GIẢI & PHÂN TÍCH CHUYÊN SÂU (Hình ảnh trên slide: Đáp án chi tiết.
+Người 1: Đây là đáp án. Em thấy phần “Đối tượng” thế nào?
+Người 2: À, em hiểu rồi!
+• Bề nổi là Nhà nước quản lý dòng tiền (thu được bao nhiêu tỷ đồng tiền thuế).
+• Chiều sâu là Nhà nước quản lý hành vi (làm cho doanh nghiệp sợ bị đánh thuế cao mà bớt xả thải đi).
+Người 1: Chính xác! Trong kinh tế học (như giáo trình của Gruber), loại thuế này gọi là Thuế Pigou (Pigouvian tax) – đánh vào các hành vi gây hại cho xã hội để điều chỉnh nó. Đây chính là đỉnh cao của Quản lý Tài chính công: Dùng công cụ tài chính để giải quyết các vấn đề xã hội (như ô nhiễm), chứ không chỉ đơn thuần là việc “kiếm tiền” cho ngân sách.
+Người 1: Bài học hôm nay dừng ở đây. Các em đã nắm được “Khái niệm”, “Đặc điểm” và biết cách “Mổ xẻ” một chính sách tài chính công. Về nhà các em hãy thử phân tích chính sách “Tăng lương cơ sở” theo mô hình 4 yếu tố này nhé. Cảm ơn các em!
