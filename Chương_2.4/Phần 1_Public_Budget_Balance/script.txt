@@ -1,0 +1,83 @@
+﻿Slide 1: Chương 2: Quản lý Ngân sách Nhà nước - 2.4. Cân đối Ngân sách Nhà nước (Tiết 1/3)
+Người 1: Chào các em. Hôm nay chúng ta sẽ bước sang một chủ đề vô cùng thú vị của Chương 2 về Quản lý Ngân sách Nhà nước, đó là phần 2.4: Cân đối Ngân sách Nhà nước. Đây là tiết đầu tiên trong chuỗi 3 tiết học của phần này. Các em hãy nhìn vào hình ảnh minh họa trên slide, chúng ta có một chiếc cân thăng bằng, một bên là biểu tượng của cơ quan nhà nước, bên còn lại là những đồng tiền.
+Người 2: Dạ thưa cô, hình ảnh chiếc cân này làm em liên tưởng đến việc chính phủ đang phải "cân đo đong đếm" tiền bạc. Có phải cân đối ngân sách đơn giản chỉ là làm sao để nhà nước tiêu tiền không bị âm nợ đúng không ạ?
+Người 1: Em có sự liên tưởng rất trực quan! Tuy nhiên, việc "cân đo đong đếm" của một quốc gia phức tạp hơn rất nhiều so với việc cân đối chi tiêu của một cá nhân hay gia đình. Để hiểu rõ chiếc cân này hoạt động ra sao và đằng sau nó là những tư duy quản trị nào, chúng ta sẽ cùng đi vào chi tiết bài học hôm nay.
+ 
+Slide 2: Bản đồ nội dung bài học 2.4
+Người 1: Trước khi đi sâu, chúng ta cùng xem qua Bản đồ nội dung bài học 2.4 để biết mình đang ở đâu. Lộ trình của chúng ta sẽ đi qua 3 trạm dừng chân: Trạm thứ nhất là mục 2.4.1: Các học thuyết cân đối ngân sách nhà nước. Trạm thứ hai là mục 2.4.2: Bội chi ngân sách nhà nước. Và trạm cuối cùng là mục 2.4.3: Nguyên tắc cân đối ngân sách nhà nước ở Việt Nam.
+Người 2: Em thấy trên slide phần 2.4.1 đang được đánh dấu nổi bật. Vậy trọng tâm của tiết học hôm nay là chúng ta sẽ đi tìm hiểu về các học thuyết trước đúng không cô?
+Người 1: Chính xác! Hôm nay chúng ta sẽ tập trung vào nền tảng lý thuyết trước. Phải hiểu được cách người xưa tư duy về ngân sách như thế nào, thì chúng ta mới hiểu được vì sao hiện tại các quốc gia lại có những cách quản lý thâm hụt và thặng dư khác nhau.
+ 
+Slide 3: Bản chất của cân đối ngân sách nhà nước
+Người 1: Chúng ta cùng đến với khái niệm nền tảng đầu tiên trên slide 3. Về mặt toán học, bản chất của cân đối ngân sách nhà nước chính là trạng thái "Tổng thu bằng Tổng chi". Hình ảnh túi tiền tượng trưng cho Tổng thu phải ngang bằng với chiếc xe đẩy hàng hóa tượng trưng cho Tổng chi.
+Người 2: Nếu vậy thì em thấy cũng giống như toán học cấp 1 thôi mà cô? Cứ thu vào 10 đồng thì tiêu đúng 10 đồng là xong. Có gì phức tạp đâu ạ?
+Người 1: Nếu chỉ là bài toán cộng trừ thì lại quá đơn giản. Đằng sau phương trình "Tổng thu bằng Tổng chi" đó, bản chất sâu xa của nó là sự hài hòa giữa cơ cấu các khoản thu và các khoản chi. Sự hài hòa này bắt buộc phải phù hợp với điều kiện thực tế và định hướng phát triển của quốc gia trong từng thời kỳ. Không phải cứ thu bừa bãi cho đủ tiền, và tiêu xài phung phí cho hết tiền là được gọi là cân đối đâu em.
+ 
+Slide 4: Quy tắc cấu trúc hài hòa trong thu và chi
+Người 1: Để đạt được sự hài hòa mà cô vừa nói, quản lý ngân sách phải tuân theo hai quy tắc cấu trúc rất chặt chẽ trên slide 4. Thứ nhất là Quy tắc Thu: Các khoản thu mang tính ổn định phải chiếm tỷ trọng lớn trong tổng thu, đồng thời phải giảm dần tỷ trọng của các khoản thu không ổn định.
+Người 2: Khoản thu ổn định có phải là các loại thuế doanh nghiệp, thuế thu nhập cá nhân mà năm nào cũng thu được đúng không cô? Còn thu không ổn định chắc là tiền bán đất đai hay bán tài sản công, vì bán xong là hết ạ?
+Người 1: Em lấy ví dụ cực kỳ chuẩn xác! Nếu một quốc gia chỉ chăm chăm bán tài nguyên, bán đất để lấy tiền tiêu xài thì cấu trúc thu đó vô cùng rủi ro và không bền vững. Tiếp theo, chúng ta có Quy tắc Chi. Quy tắc này yêu cầu các khoản chi của nhà nước phải phù hợp với mức độ phát triển, mục tiêu và năng lực thực tế của quốc gia. Tức là nền kinh tế làm ra 10 đồng thì không thể thiết kế các siêu dự án vung tay quá trán đòi hỏi tiêu tới 100 đồng được. Mọi thứ phải nằm trong năng lực thực tế của đất nước.
+ 
+Slide 5: Ba học thuyết lịch sử về cân đối ngân sách
+Người 1: Dựa trên những quy tắc thu chi đó, trong lịch sử kinh tế thế giới đã hình thành nên Ba học thuyết lớn về cân đối ngân sách. Các em nhìn lên slide 5, ba học thuyết này bao gồm: Lý thuyết cổ điển, Lý thuyết chu kỳ, và Lý thuyết cố ý thiếu hụt.
+Người 2: Dạ, em thấy biểu tượng của Lý thuyết cổ điển là chiếc cân thăng bằng. Còn Lý thuyết chu kỳ là hình lượn sóng, Lý thuyết cố ý thiếu hụt lại là hình tên lửa. Các hình ảnh này mang ý nghĩa gì thưa cô?
+Người 1: Những hình ảnh đó tóm tắt chính xác tinh thần của từng học thuyết. Lý thuyết cổ điển đề cao sự an toàn tuyệt đối, họ yêu cầu ngân sách phải thăng bằng và bắt buộc phải cân đối nghiêm ngặt theo từng năm một. Trong khi đó, Lý thuyết chu kỳ thì linh hoạt hơn (hình lượn sóng), họ cho rằng nền kinh tế có lúc thăng lúc trầm, nên sự cân bằng không cần tính theo từng năm mà được tính toán trong một chu kỳ kinh tế dài hạn.
+Người 2: Vậy còn Lý thuyết cố ý thiếu hụt với hình ảnh tên lửa thì sao ạ? Tại sao lại "cố ý" làm cho mình bị thiếu hụt tiền?
+Người 1: Đó là một sự chuyển biến tư duy rất táo bạo! Học thuyết này cho rằng không cần phải lúc nào cũng khư khư giữ cân đối. Họ sẵn sàng chấp nhận thiếu hụt, chủ động chi tiêu thâm hụt (tức là bơm tiền ra nhiều hơn) để biến chi tiêu công thành "tên lửa" kích thích phát triển kinh tế, đặc biệt là trong thời kỳ suy thoái. Để hiểu rõ ưu và nhược điểm của từng học thuyết này, chúng ta sẽ phân tích sâu hơn ở các slide tiếp theo nhé.
+
+Slide 6: Lý thuyết cổ điển đề cao sự thăng bằng tuyệt đối
+Người 1: Chuyển sang slide số 6, chúng ta đi sâu vào "Lý thuyết cổ điển", với đại diện tiêu biểu là nhà kinh tế học Adam Smith vào thế kỷ 18. Thuyết này đề cao sự thăng bằng tuyệt đối, yêu cầu tổng thu phải ngang bằng với tổng chi trong mỗi năm.
+Người 2: Thưa cô, thâm hụt, tức là mức chi lớn hơn thu, thì nguy hiểm em hiểu được, vì nhà nước sẽ buộc phải vay nợ hoặc in thêm tiền, từ đó gây ra lạm phát. Nhưng thặng dư, tức là thu lớn hơn chi, thì sao lại không tốt ạ? Có của ăn của để không phải là tốt sao?
+Người 1: Theo góc nhìn cổ điển, nếu thu lớn hơn chi thì số tiền tích trữ đó không hề sinh lời. Hơn nữa, khi kho bạc dư dả tiền bạc, việc quản lý sẽ dễ dãi hơn, và hậu quả cuối cùng là gây lãng phí nguồn lực của xã hội. Do đó, việc tiêu hết hay tích trữ đều là những rủi ro nếu không giữ được cán cân thăng bằng.
+ 
+Slide 7: Vai trò tối thiểu của Nhà nước trong nền kinh tế
+Người 1: Tư duy ngân sách thăng bằng đó xuất phát từ quan điểm về vai trò tối thiểu của Nhà nước trong nền kinh tế, được thể hiện ở slide 7. Lý thuyết cổ điển cho rằng chức năng của Nhà nước là cực kỳ giới hạn, chỉ tập trung bảo đảm quốc phòng, an ninh, luật pháp và trật tự xã hội.
+Người 2: Vậy là nhà nước không tham gia điều tiết thị trường hả cô? Thế mục tiêu của việc thu thuế để làm gì ạ?
+Người 1: Đúng vậy, họ quan niệm hoạt động thu chi của Nhà nước tuyệt đối không được cản trở các hoạt động bình thường của nền kinh tế. Do đó, việc thu thuế chỉ có một mục đích duy nhất là để trang trải cho các khoản chi tiêu công cơ bản mà cô vừa nêu.
+ 
+Slide 8: Giới hạn nghiêm ngặt về vay nợ công
+Người 1: Kéo theo vai trò giới hạn đó, slide 8 cho thấy lý thuyết cổ điển quy định những giới hạn vô cùng nghiêm ngặt về vay nợ công. Lệnh cấm tuyệt đối đầu tiên: Không được phép vay nợ để chi thường xuyên. Tất cả các khoản chi thường xuyên bắt buộc phải do tiền thuế tài trợ, và họ coi việc vay nợ để chi thường xuyên là hành động không chính đáng.
+Người 2: Nguyên tắc này khắt khe thật. Vậy nhà nước hoàn toàn không được vay mượn dưới mọi hình thức sao cô? Nếu lỡ thiếu tiền đột xuất thì sao ạ?
+Người 1: Vẫn có kẽ hở nhưng rất hẹp. Chỉ có hai trường hợp ngoại lệ được phép vay nợ: Thứ nhất là để thực hiện các nhiệm vụ to lớn như quốc phòng, an ninh, và thứ hai là khi nhà nước cần tiền mặt tạm thời trong thời gian ngắn hạn nhưng bắt buộc phải có khả năng hoàn trả chắc chắn.
+ 
+Slide 9: Lý thuyết chu kỳ và nhịp thở của nền kinh tế
+Người 1: Tuy nhiên, nền kinh tế luôn vận động phức tạp hơn, dẫn đến sự ra đời của "Lý thuyết chu kỳ" trên slide 9. Các nhà kinh tế học phái này cho rằng sự cân đối ngân sách nên được đặt trong khuôn khổ của một chu kỳ kinh tế dài hạn, chứ không phải ép buộc trong một năm.
+Người 2: Trên slide có hình biểu đồ lượn sóng giống như chu kỳ ngày và đêm. Thuyết này tin rằng kinh tế có thể tự điều chỉnh đúng không ạ?
+Người 1: Chính xác. Họ cho rằng chu kỳ kinh tế giống như một quá trình hô hấp, nền kinh tế sẽ tự động quay lại trạng thái cân bằng dài hạn. Vì vậy, bất kỳ sự can thiệp chủ quan nào của Nhà nước nhằm làm thay đổi nhịp thở tự nhiên này đều bị xem là một "hành động tự sát" đối với nền kinh tế.
+ 
+Slide 10: Lý thuyết cố ý thiếu hụt và sự can thiệp chủ động
+Người 1: Nhưng các cuộc đại khủng hoảng đã làm xuất hiện "Lý thuyết cố ý thiếu hụt", đề cao sự can thiệp chủ động của chính phủ như các em thấy ở slide 10. Thuyết này mang tư duy đột phá khi sẵn sàng hi sinh sự cân đối của ngân sách để ưu tiên cho mục tiêu phát triển kinh tế.
+Người 2: Em thấy hình ảnh một thanh kiếm cắm vào biểu tượng sạc pin. Có phải nó tượng trưng cho việc dùng chi tiêu công làm động lực kích thích nền kinh tế không thưa cô?
+Người 1: Đúng rồi em! Chi tiêu công được xem là một "động cơ phụ" để thúc đẩy cỗ máy kinh tế tiến lên trong thời kỳ suy thoái. Theo nguyên lý, khi nền kinh tế phục hồi trở lại, nhà nước sẽ giảm đầu tư và tăng cường thu thuế để đưa cán cân về lại mức cân bằng.
+Người 2: Nghe thì rất lý tưởng, nhưng nếu cứ cố ý thiếu hụt và bơm tiền liên tục thì em e là sẽ để lại hệ lụy lớn.
+Người 1: Không sai, chính thuyết này cũng đưa ra một lời cảnh báo nghiêm khắc: Sự can thiệp này là một "con dao hai lưỡi" và cần phải được áp dụng có giới hạn. Theo nhà kinh tế học lỗi lạc Keynes, một chỉ báo thực thi an toàn là chỉ nên áp dụng chính sách bơm tiền khi tỷ lệ thất nghiệp vượt qua mức ba phần trăm. Nếu lạm dụng, nền kinh tế sẽ phải đối mặt với nguy cơ lạm phát khó kiểm soát.
+ 
+Slide 11: Tổng kết và so sánh các học thuyết cân đối
+Người 1: Bây giờ, chúng ta cùng nhìn vào bảng tổng kết trên slide 11 để so sánh ba học thuyết cân đối này một cách hệ thống nhé. Bảng này đối chiếu các học thuyết dựa trên ba tiêu chí: đặc điểm, ưu điểm và nhược điểm.
+Người 2: Nhìn vào bảng, em thấy Lý thuyết cổ điển có vẻ an toàn nhất vì nó yêu cầu kỷ luật tài chính nghiêm ngặt, nhưng nhược điểm lại là thiếu linh hoạt và chỉ thích hợp khi nền kinh tế đang ổn định phải không cô?
+Người 1: Đúng vậy em. Ngược lại, Lý thuyết chu kỳ thì cho phép mở rộng thời gian cân đối ra một chu kỳ dài, nhờ đó nó linh hoạt hơn thuyết cổ điển. Tuy nhiên, trên thực tế lại vấp phải một nhược điểm lớn là các nhà hoạch định chính sách rất khó xác định chính xác đâu là điểm đầu và điểm cuối của một chu kỳ kinh tế.
+Người 2: Còn Lý thuyết cố ý thiếu hụt thì lấy đặc điểm kích thích kinh tế thời suy thoái làm trọng tâm. Ưu điểm của nó là giúp phục hồi kinh tế chủ động, nhưng nhược điểm là mang lại rủi ro lạm phát và gánh nặng nợ công nếu như nhà nước quá lạm dụng, đúng không ạ?
+Người 1: Hoàn toàn chính xác. Đó chính là lý do vì sao người ta gọi học thuyết thứ ba này là một "con dao hai lưỡi".
+ 
+Slide 12: Áp lực thực tiễn: Nguồn lực hữu hạn, Nhu cầu vô hạn
+Người 1: Chuyển sang slide 12, chúng ta sẽ thấy lý thuyết có vẻ rõ ràng là vậy, nhưng đưa vào thực tiễn lại là một câu chuyện vô cùng áp lực. Các em hãy nhìn vào hình ảnh minh họa chiếc phễu.
+Người 2: Dạ, em thấy đầu vào của phễu là nguồn thu có giới hạn, nhưng đầu ra lại phải chia năm xẻ bảy cho vô số nhu cầu như y tế, giáo dục, đầu tư hạ tầng và quốc phòng.
+Người 1: Chính xác. Đây chính là thực trạng chung của mọi quốc gia: Nguồn lực thì hữu hạn, trong khi nhu cầu lại vô hạn. Việc đạt được trạng thái ngân sách thăng bằng, tức là Tổng thu bằng Tổng chi trong một năm duy nhất là vô cùng phức tạp. Bài toán hóc búa nhất đặt ra cho chính phủ là làm thế nào để phân bổ một lượng tiền giới hạn một cách tối ưu nhất.
+ 
+Slide 13: Mô phỏng quản lý: Trò chơi "Hãy chọn giá đúng"
+Người 1: Để các em có thể tự mình nếm thử áp lực phân bổ ngân sách này, chúng ta sẽ cùng chơi một trò chơi mô phỏng trên slide 13 có tên là "Hãy chọn giá đúng".
+Người 2: Nghe thú vị quá cô! Trong trò chơi này em sẽ phải làm gì ạ?
+Người 1: Em sẽ được hóa thân, đóng vai trò là một Nhà quản lý tài chính công. Nhiệm vụ của em là phải lựa chọn các khoản giải ngân sao cho vừa vặn, không thừa không thiếu so với nguồn ngân sách được cấp. Mục đích của trò chơi là minh họa cho trạng thái tổng thu bằng tổng chi hoàn hảo, giúp em thực sự hiểu rõ áp lực phân bổ nguồn lực căng thẳng như thế nào.
+ 
+Slide 14: Gói ngân sách: 329.000 VNĐ. Bạn sẽ mua gì?
+Người 1: Nào, chúng ta bắt đầu với đề bài trên slide 14. Cô cấp cho em một gói ngân sách trị giá đúng ba trăm hai mươi chín nghìn đồng.
+Người 2: Luật chơi như thế nào thưa cô?
+Người 1: Em phải tuân thủ hai luật chơi. Thứ nhất, em phải tiêu hết sạch số tiền này để đạt được mức cân đối hoàn hảo. Thứ hai, em phải chọn mua từ bốn loại hàng hóa hoặc dịch vụ trở lên trong danh sách đưa ra.
+Người 2: Để em xem danh sách có những gì... Có mỳ tôm Hảo Hảo ba nghìn hai trăm đồng, nước mắm Nam Ngư hai mươi mốt nghìn đồng, dầu gội Clear một nghìn năm trăm đồng, dao cạo Gillette hai mươi chín nghìn đồng. Ồ, còn có bộ bài năm nghìn đồng, khám sức khỏe một trăm hai mươi nghìn đồng, sách Tài chính công chín mươi nghìn đồng, và cả nước hoa Miss Sài Gòn bốn mươi lăm nghìn đồng nữa. Khó phết cô ạ, làm sao nhặt đồ để cộng lại ra con số lẻ ba trăm hai mươi chín nghìn tròn trĩnh được nhỉ?
+ 
+Slide 15: Lời giải: Phân bổ đạt thăng bằng tuyệt đối
+Người 1: Đòi hỏi tính toán cộng trừ rất đau đầu đúng không? Giờ chúng ta cùng lật sang slide 15 để xem đáp án, một phương án phân bổ đạt thăng bằng tuyệt đối nhé.
+Người 2: Á chà, trên tờ hóa đơn đã ghi rõ ràng các món này: Một gói khám sức khỏe giá một trăm hai mươi nghìn đồng, một cuốn sách tham khảo chín mươi nghìn đồng, một lọ nước hoa bốn mươi lăm nghìn đồng, hai chiếc dao cạo có tổng giá là năm mươi tám nghìn đồng, và năm gói mỳ tôm giá mười sáu nghìn đồng.
+Người 1: Em thử nhẩm cộng lại xem tổng số tiền chi ra của phương án này là bao nhiêu?
+Người 2: Dạ, một trăm hai mươi... cộng chín mươi... cộng bốn lăm... cộng năm mươi tám... cộng mười sáu... Đúng bằng tròn ba trăm hai mươi chín nghìn đồng luôn cô ạ!
+Người 1: Tuyệt vời! Đây chính là một phương án phân bổ thỏa mãn yêu cầu khi mua đủ năm loại hàng hóa và giải ngân chính xác một trăm phần trăm số ngân sách được cấp. Qua ví dụ nhỏ mang tính mô phỏng này, các em có thể tưởng tượng được trên thực tế, bộ máy chính phủ đã phải làm việc vất vả ra sao để phân bổ và cân đối hàng triệu khoản chi khổng lồ khớp với nguồn ngân sách nhà nước.
