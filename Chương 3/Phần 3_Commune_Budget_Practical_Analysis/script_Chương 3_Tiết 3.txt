@@ -1,0 +1,82 @@
+﻿Slide 1: Tiết 3/6: Phân tích thực hành Lập dự toán ngân sách xã
+Người 1: Chào các em. Ở hai tiết học trước, chúng ta đã đi qua phần lý thuyết nền tảng. Hôm nay, chúng ta sẽ xắn tay áo lên và bước vào Tiết 3 của Chương 3: Phân tích thực hành Lập dự toán ngân sách xã. Nội dung chính hôm nay đòi hỏi các em phải làm việc nhóm để đọc hiểu một bản báo cáo dự toán ngân sách xã thực tế, phân tích cơ cấu thu chi, và đặc biệt là dùng "kính lúp" để kiểm tra xem bản dự toán đó có vi phạm nguyên tắc cân đối hay giới hạn phân cấp ngân sách hay không.
+Người 2: Dạ thưa cô, em rất thích những tiết thực hành như thế này. Học lý thuyết về các đạo luật đôi khi hơi khô khan, nhưng nếu được tận mắt nhìn thấy một bản dự toán của một xã cụ thể thì chắc chắn sẽ dễ hình dung hơn rất nhiều ạ.
+Người 1: Đúng vậy! Quản lý tài chính công không phải là những con số nằm trên giấy, mà nó quyết định sự phát triển của cả một địa phương. Thông qua tiết này, các em sẽ thấy những con số đó "biết nói" như thế nào.
+
+Slide 2: Mục tiêu tiết thực hành
+Người 1: Chúng ta cùng nhìn lên slide 2 để xác định rõ mục tiêu của ngày hôm nay. Về mặt kỹ năng, tức là chuẩn đầu ra số 4, các em phải có khả năng đọc hiểu và phân tích cấu trúc số liệu của "Báo cáo dự toán ngân sách xã". Mục đích là để nhận diện xem cách xã đó phân bổ tiền đã tuân thủ đúng Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm và các định mức do Hội đồng nhân dân tỉnh đề ra hay chưa.
+Người 2: Dạ, em thấy mục tiêu thứ hai về mức tự chủ và trách nhiệm có nhắc đến việc "nâng cao ý thức thượng tôn pháp luật trong quản lý tài sản công". Cô có thể cho một ví dụ thực tế về việc này không ạ?
+Người 1: Câu hỏi rất hay! Thượng tôn pháp luật ở cấp xã cực kỳ quan trọng. Cô lấy ví dụ, một Chủ tịch xã muốn xây một cái cổng chào xã thật hoành tráng để đón chuẩn Nông thôn mới, nhưng ngân sách xã lại đang cạn kiệt, không có khoản thu bù đắp. Nếu người lãnh đạo vẫn quyết tâm vay mượn nhà thầu để làm, phớt lờ các nguyên tắc tài chính, thì đó là vi phạm pháp luật. Việc chúng ta rèn luyện tư duy phản biện hôm nay chính là để sau này, nếu các em làm quản lý nhà nước, các em sẽ biết nói "không" với những dự án sai nguyên tắc như vậy.
+
+Slide 3: Tổ chức hoạt động thực hành
+Người 1: Để tiết học sinh động, ở slide 3, cô đã thiết kế một hoạt động đóng vai. Lớp chúng ta sẽ chia thành các nhóm từ ba đến năm sinh viên. Các em sẽ vào vai những "Đại biểu Hội đồng nhân dân xã" đang ngồi trong kỳ họp để thẩm tra dự toán ngân sách của Xã Bình Minh cho năm hai không trăm hai mươi bảy.
+Người 2: Chà, đóng vai Đại biểu Hội đồng nhân dân cơ ạ! Trọng trách lớn quá cô ơi. Vậy chúng em sẽ phải thẩm tra theo quy trình như thế nào ạ?
+Người 1: Các em sẽ đi qua một quy trình ba bước rất chặt chẽ. Bước một là Tiếp nhận: các em sẽ nhận bảng số liệu giả định của Xã Bình Minh. Bước hai là Tính toán: các em phải bấm máy tính để tìm ra cơ cấu phần trăm của từng khoản thu, khoản chi. Và bước ba, bước quan trọng nhất là Đối chiếu: các em sẽ dùng lăng kính của nguyên tắc quản lý Ngân sách nhà nước đã học ở tiết một và hai để soi chiếu, tìm ra những điểm hợp lý hoặc bất hợp lý trong bản dự toán này.
+
+Slide 4: Bộ tiêu chí phân tích (Căn cứ Luật NSNN 2025) - Tiêu chí 1: Đánh giá cơ cấu nguồn thu
+Người 1: Để các "Đại biểu" có thể làm việc, chúng ta cần một bộ tiêu chí dựa trên Luật Ngân sách nhà nước hai không trăm hai mươi lăm. Hãy nhìn vào slide 4, Tiêu chí đầu tiên là Đánh giá cơ cấu nguồn thu. Nguồn thu của một xã sẽ gồm ba phần: Thu xã được hưởng một trăm phần trăm, Thu phân chia theo tỷ lệ phần trăm với cấp trên, và Thu bổ sung từ ngân sách cấp trên.
+Người 2: Cô ơi, thu xã hưởng một trăm phần trăm là những khoản như thế nào ạ? Và câu hỏi kiểm tra "Xã có tự chủ được tài chính không" có ý nghĩa gì ở đây?
+Người 1: Thu xã hưởng một trăm phần trăm thường là những khoản thu nhỏ lẻ tại địa phương, ví dụ như tiền thu phí từ cái chợ của xã, hay lệ phí đăng ký hộ tịch, khai sinh, khai tử. Nếu các khoản tự thu này, cộng với phần được phân chia mà đủ để xã chi trả các hoạt động, thì xã đó có tính "tự chủ tài chính" cao. Ngược lại, giống như một người đi làm nhưng lương không đủ sống, tháng nào cũng phải xin thêm tiền "trợ cấp" từ bố mẹ, thì xã đó phụ thuộc tài chính hoàn toàn vào khoản "Thu bổ sung từ cấp trên".
+
+Slide 5: Bộ tiêu chí phân tích (Tiếp theo)
+Người 1: Chuyển sang slide 5, chúng ta có hai tiêu chí sinh tử tiếp theo. Tiêu chí 2 là Kỷ luật chi, cụ thể là quỹ dự phòng. Luật bắt buộc mọi bản dự toán phải trích lập quỹ dự phòng từ hai phần trăm đến năm phần trăm tổng chi ngân sách cấp xã.
+Người 2: Tại sao lại bắt buộc phải giữ lại từ hai phần trăm đến năm phần trăm thưa cô? Giả sử xã đó đang cần tiền xây trường học, lấy luôn tiền đó xây có được không ạ?
+Người 1: Tuyệt đối không được em nhé! Quỹ dự phòng giống như một khoản "bảo hiểm" bắt buộc. Em hãy tưởng tượng, giữa năm bất ngờ xảy ra một trận lũ lụt, dịch tả lợn Châu Phi, hay một đại dịch như Covid-19. Xã lấy tiền đâu để mua vật tư y tế, cứu trợ người dân ngay lập tức? Quỹ dự phòng chính là để dùng cho những tình huống khẩn cấp đó.
+Người 2: Dạ em hiểu rồi. Vậy còn Tiêu chí số 3: Nguyên tắc cân đối thì sao ạ?
+Người 1: Nguyên tắc cân đối là "vòng kim cô" nghiêm ngặt nhất. Công thức cốt lõi là: Tổng chi phải nhỏ hơn hoặc bằng Tổng thu. Luật quy định rất rõ: Ngân sách cấp xã tuyệt đối không được phép bội chi. Nói một cách dân dã là "liệu cơm gắp mắm", làm ra bao nhiêu thì chỉ được tiêu bấy nhiêu. Hội đồng nhân dân cấp xã tuyệt đối không được giơ tay biểu quyết duyệt một bản dự toán mà tiền chi ra lại vượt quá số tiền thu vào. Giữ vững ba tiêu chí này, các em đã sẵn sàng để bóc tách số liệu của Xã Bình Minh rồi đấy!
+
+Slide 6: Phân tích Xã Bình Minh: Tiêu chí 2 (Kỷ luật dự phòng)
+Người 1: Bây giờ chúng ta cùng áp dụng ngay lý thuyết vào thực tế của Xã Bình Minh ở slide 6 nhé. Các em hãy nhìn vào bảng so sánh. Tổng chi của xã Bình Minh dự kiến là mười lăm nghìn triệu đồng, tức là mười lăm tỷ đồng. Theo quy định của Luật, mức trích lập dự phòng bắt buộc phải từ hai phần trăm đến năm phần trăm của tổng chi.
+Người 2: Dạ thưa cô, nếu tính nhẩm thì hai phần trăm của mười lăm tỷ là ba trăm triệu, còn năm phần trăm là bảy trăm năm mươi triệu đồng. Vậy xã Bình Minh phải trích lập trong khoảng từ ba trăm đến bảy trăm năm mươi triệu đồng đúng không ạ?
+Người 1: Rất chính xác! Nhưng các em hãy nhìn xem số liệu thực tế xã Bình Minh trích lập là bao nhiêu? Chỉ có hai trăm triệu đồng! Bấm máy tính thử phép tính hai trăm chia cho mười lăm nghìn, ta sẽ thấy tỷ lệ thực tế chỉ đạt một phẩy ba mươi ba phần trăm.
+Người 2: Ôi, vậy là vi phạm rồi! Mức này nằm dưới cả mức tối thiểu là hai phần trăm.
+Người 1: Đúng vậy, đây là một sai phạm nghiêm trọng! Cô lấy ví dụ thực tế, giả sử năm đó xã Bình Minh gặp một cơn bão lớn làm tốc mái trạm y tế xã. Nếu quỹ dự phòng chỉ vỏn vẹn hai trăm triệu, xã sẽ không xoay sở kịp tiền để vừa sửa trạm y tế, vừa mua thuốc men khẩn cấp cứu trợ bà con. Kỷ luật dự phòng sinh ra là để ngăn chặn những rủi ro như thế.
+
+Slide 7: Kết luận pháp lý: Vi phạm Tiêu chí 2
+Người 1: Từ phát hiện đó, chúng ta chuyển sang slide 7 để đưa ra kết luận pháp lý. Bản dự toán của Xã Bình Minh đã vi phạm khoản 1 Điều 10 của Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm.
+Người 2: Dạ, với vai trò là "Đại biểu Hội đồng nhân dân xã" thẩm tra bản dự toán này, nhóm chúng em sẽ phải làm gì tiếp theo ạ? Chẳng lẽ cứ nhắm mắt cho qua?
+Người 1: Tuyệt đối không được nhắm mắt cho qua! Trách nhiệm của các em, những đại biểu đại diện cho tiếng nói của nhân dân, là phải bắt buộc Ủy ban nhân dân xã điều chỉnh lại số liệu. Cụ thể, các em phải yêu cầu họ cắt giảm một khoản chi nào đó chưa thực sự cấp bách, để đắp thêm ít nhất một trăm triệu nữa vào quỹ dự phòng, nâng quỹ này lên mức tối thiểu ba trăm triệu đồng. Chỉ khi nào họ sửa xong, Hội đồng nhân dân mới tiến hành biểu quyết thông qua.
+
+Slide 8: Phân tích Xã Bình Minh: Tiêu chí 3 (Nguyên tắc cân đối)
+Người 1: Gác lại chuyện dự phòng, chúng ta sang slide 8 để kiểm tra Tiêu chí 3: Nguyên tắc cân đối. Lần này Xã Bình Minh làm ăn ra sao? Các em nhìn vào hình ảnh chiếc cân: Đĩa cân bên trái là Tổng thu mười lăm tỷ đồng, đĩa cân bên phải là Tổng chi cũng mười lăm tỷ đồng.
+Người 2: Hai đĩa cân thăng bằng tuyệt đối! Tổng thu bằng Tổng chi và không hề xảy ra tình trạng thâm hụt. Như vậy là xã Bình Minh đã làm tốt tiêu chí này đúng không cô?
+Người 1: Rất tốt! Bản dự toán đã tuân thủ đúng quy định cốt lõi: "chỉ ngân sách địa phương cấp tỉnh mới được phép bội chi". Ở cấp xã, tuyệt đối không được phép bội chi. Các em thử tưởng tượng, nếu xã thu có mười lăm tỷ mà vung tay vẽ ra các dự án chi tới mười sáu tỷ, rồi định đi vay nhà thầu một tỷ để đắp vào, thì đó là hành động vi phạm pháp luật và sẽ để lại gánh nặng nợ nần cho nhiệm kỳ sau. Rất may, Xã Bình Minh đã "liệu cơm gắp mắm" đúng số tiền mình có.
+
+Slide 9: Phân tích Xã Bình Minh: Kiểm tra tuân thủ nguồn bổ sung
+Người 1: Chúng ta tiếp tục soi đến một chi tiết rất hay ở slide 9: Kiểm tra tuân thủ nguồn bổ sung. Trong năm, Xã Bình Minh nhận được hai tỷ đồng từ ngân sách cấp trên. Đây không phải tiền cho không để tiêu xài tự do, mà là "nguồn bổ sung có mục tiêu" được "đóng dấu" rõ ràng là để sửa trường mầm non.
+Người 2: Vậy là mình phải lấy kính lúp dò sang phần Chi xem họ có mang hai tỷ đó đi làm việc khác không, đúng không cô? Ví dụ họ mang đi xây cổng chào thì sao ạ?
+Người 1: Cách tư duy của em rất chuẩn! Nếu mang hai tỷ đó đi xây cổng chào hay làm đường, dù là việc tốt cho xã, thì vẫn là chi sai mục đích và vi phạm pháp luật. Nhưng khi rà soát hạng mục chi của Bình Minh, ta thấy họ đã bố trí đúng và đủ hai tỷ đồng cho hạng mục "sửa trường mầm non" nằm trong mục chi đầu tư phát triển. Đánh giá ở đây là hoàn toàn hợp lệ, xã đã giữ đúng chữ tín và tuân thủ nguyên tắc sử dụng tiền đúng mục đích, đúng đối tượng đã cam kết.
+
+Slide 10: Tổng kết Framework: 4 Bước kiểm tra dự toán (CLO4)
+Người 1: Qua việc phân tích Xã Bình Minh, cô trò chúng ta đã hình thành được một tư duy thẩm tra rất logic. Ở slide 10, cô đã đóng gói nó lại thành một "Framework" - tức là bộ khung 4 bước kiểm tra dự toán. Đây chính là chìa khóa để các em đạt được chuẩn đầu ra số bốn của môn học này.
+Người 2: Thật tiện lợi quá cô ạ. Vậy là cứ cầm bất kỳ bản dự toán nào, chúng em cứ nhắm mắt áp dụng đủ các bước này là ra vấn đề. Bước một là Cân đối tổng thể: lấy Tổng Chi so với Tổng Thu, bắt buộc Tổng Chi phải nhỏ hơn hoặc bằng Tổng Thu, cấm tuyệt đối thiết kế dự toán có thâm hụt.
+Người 1: Rất thuộc bài! Và ngay sau đó, em nhảy sang Bước hai: Kỷ luật Dự phòng. Em lấy máy tính ra chia tỷ lệ xem số tiền 'Dự phòng ngân sách' có lọt vào biên độ an toàn từ hai phần trăm đến năm phần trăm tổng chi ngân sách xã hay không. Chỉ cần trượt ra khỏi vùng này là phải yêu cầu làm lại ngay. Hai bước còn lại của bộ khung này là gì, chúng ta sẽ cùng tiếp tục khám phá ở slide tiếp theo nhé!
+
+Slide 11: Tổng kết Framework: 4 Bước kiểm tra dự toán (Tiếp theo)
+Người 1: Chúng ta tiếp tục với hai bước cuối cùng của "Framework" kiểm tra dự toán ở slide 11. Bước ba là kiểm tra Nguồn bổ sung có mục tiêu. Các em phải đối chiếu xem số tiền mà cấp trên hỗ trợ ghi ở 'Phần Thu' có khớp từng đồng với số tiền phân bổ cho dự án đó ở 'Phần Chi' hay không. Ví dụ, huyện rót xuống năm trăm triệu đồng chỉ đích danh để mua máy tính cho trường tiểu học xã, thì ở phần chi, xã cũng phải ghi đúng năm trăm triệu đồng cho hạng mục mua sắm thiết bị giáo dục đó, không được đem đi sửa trạm y tế.
+Người 2: Dạ, em hiểu rồi. Tiền nào mua mắm thì không thể đem đi mua tương. Vậy còn Bước bốn là rà soát tỷ lệ phân chia thì mình kiểm tra thế nào ạ?
+Người 1: Ở Bước bốn, các em sẽ lấy các khoản thu phân chia, ví dụ như tiền sử dụng đất hay lệ phí trước bạ, đối chiếu với các Nghị quyết hiện hành của Hội đồng nhân dân cấp tỉnh xem xã có đang áp dụng đúng tỷ lệ phần trăm được giữ lại hay không. Nếu tỉnh quy định xã chỉ được giữ lại ba mươi phần trăm tiền thu từ đất, mà bản dự toán lại ghi giữ lại năm mươi phần trăm để chi xài là sai luật hoàn toàn.
+
+Slide 12: Đánh giá tính tự chủ tài chính (CLO5)
+Người 1: Chuyển sang slide 12, chúng ta sẽ học cách đo lường "sức khỏe" tài chính của một xã thông qua chỉ số đánh giá tính tự chủ tài chính. Công thức tính rất đơn giản. Cô đọc chậm để các em ghi chép nhé: Tỷ lệ tự chủ bằng, mở ngoặc, Thu xã được hưởng một trăm phần trăm, cộng với, Thu phân chia theo tỷ lệ phần trăm, đóng ngoặc, tất cả đem chia cho Tổng chi ngân sách.
+Người 2: Dạ, công thức này em ghi kịp rồi ạ. Nhưng mình đọc kết quả của tỷ lệ này như thế nào thưa cô?
+Người 1: Tỷ lệ này càng cao thì chứng tỏ chính quyền cơ sở đó càng độc lập, càng tự chủ và giảm thiểu được sự phụ thuộc vào nguồn bổ sung cân đối từ ngân sách cấp trên. Em cứ hình dung nó giống hệt như một thanh niên mới ra trường. Nếu tiền lương tự kiếm được (là thu xã hưởng) cộng với tiền hoa hồng dự án (thu phân chia) mà đủ để trang trải tiền nhà, tiền ăn (tổng chi), thì cậu thanh niên đó độc lập. Còn nếu tháng nào cũng phải gọi điện xin tiền bố mẹ (nhận bổ sung từ cấp trên) thì tính tự chủ rất thấp.
+
+Slide 13: Đánh giá trách nhiệm pháp lý khâu Lập dự toán
+Người 1: Tiền bạc luôn gắn liền với trách nhiệm. Slide 13 sẽ cho chúng ta thấy rõ trách nhiệm pháp lý trong khâu lập dự toán. Ở cấp xã, Chủ tịch Ủy ban nhân dân xã là người phải chịu trách nhiệm toàn diện về tính chính xác và hợp pháp của bộ hồ sơ dự toán trước khi trình ra Hội đồng nhân dân.
+Người 2: Vậy giả sử Chủ tịch xã trình lên một bản dự toán có sai phạm, nhưng các đại biểu Hội đồng nhân dân xã lại cứ thế nhắm mắt bấm nút biểu quyết thông qua thì ai có lỗi ạ?
+Người 1: Trong trường hợp đó, Hội đồng nhân dân cấp xã đã thiếu trách nhiệm. Nếu thông qua một bản dự toán vi phạm luật, ví dụ như cho phép bội chi hay trích sai mức dự phòng, thì cơ quan nhà nước cấp trên hoàn toàn có quyền bãi bỏ Nghị quyết đó của Hội đồng nhân dân xã, đồng thời xem xét kỷ luật các cá nhân có liên quan.
+
+Slide 14: Bài tập kiểm chứng cuối tiết: Tình huống Xã C
+Người 1: Để kiểm chứng xem các "đại biểu" lớp ta đã thạo việc chưa, cô mời các em nhìn lên slide 14, xử lý ngay Tình huống Xã C. Ủy ban nhân dân Xã C trình ra một dự toán ngân sách năm hai không trăm hai mươi bảy với các số liệu như sau: Tổng thu ngân sách là bảy tỷ đồng (đã tính toán chuẩn xác). Tổng chi ngân sách là tám tỷ đồng, trong đó đã trích lập Quỹ dự phòng là ba trăm triệu đồng.
+Người 2: Chà, thu bảy tỷ mà chi tới tám tỷ, tức là đang thiếu mất một tỷ đồng! Họ xử lý chỗ thiếu hụt này thế nào vậy cô?
+Người 1: Xã C đã đưa ra phương án cân đối là: Vay tạm ứng từ Kho bạc Nhà nước một tỷ đồng để xử lý chênh lệch, lấy tiền đó đi làm đường giao thông. Nhiệm vụ của em bây giờ là vận dụng bốn bước phân tích vừa học, đánh giá xem bản dự toán này có hợp pháp không? Và Hội đồng nhân dân xã C nên ra phán quyết như thế nào?.
+
+Slide 15: Lời giải & Phán quyết của HĐND (Xã C)
+Người 2: Dạ thưa cô, để em thử giải quyết tình huống này ở slide 15 xem sao ạ. Đầu tiên, em xét Tiêu chí Dự phòng. Số tiền dự phòng là ba trăm triệu đồng, đem chia cho tổng chi tám tỷ đồng thì bằng ba phẩy bảy mươi lăm phần trăm. Con số này nằm trọn trong chuẩn bắt buộc từ hai phần trăm đến năm phần trăm, nên tiêu chí này là hợp pháp.
+Người 1: Lập luận về dự phòng rất xuất sắc! Thế nhưng có điểm nào vi phạm nghiêm trọng không?
+Người 2: Dạ có ạ! Đó chính là Tiêu chí Cân đối. Tổng chi là tám tỷ đồng lại lớn hơn tổng thu bảy tỷ đồng, dẫn đến thâm hụt ngân sách một tỷ đồng. Theo như cô dạy thì Luật Ngân sách nhà nước hai không trăm hai mươi lăm quy định rất rõ: Chỉ ngân sách cấp tỉnh mới được bội chi. Cấp xã tuyệt đối không được phép bội chi và càng không được vay nợ để bù đắp thâm hụt. Việc Xã C định vay Kho bạc một tỷ để làm đường là hoàn toàn trái luật.
+Người 1: Rất chính xác! Đóng vai là Hội đồng nhân dân xã, em sẽ ra phán quyết gì?
+Người 2: Em sẽ thẳng thừng bác bỏ bản dự toán này! Bắt buộc Ủy ban nhân dân xã C phải mang về rà soát lại, cắt bỏ các dự án chưa cần thiết để giảm tổng chi xuống mức tối đa là bảy tỷ đồng, sao cho Tổng chi nhỏ hơn hoặc bằng Tổng thu.
+Người 1: Tốt lắm! Nhưng đừng quên một chi tiết nhỏ mang tính "tử huyệt" nhé. Khi em buộc họ cắt giảm tổng chi xuống còn bảy tỷ đồng, thì mức trích lập dự phòng cũng sẽ thay đổi. Phải yêu cầu họ tính toán lại số tiền quỹ dự phòng sao cho bằng từ hai phần trăm đến năm phần trăm của bảy tỷ đồng trước khi trình duyệt lại. Nếu không, dự toán mới lại tiếp tục sai phạm về tỷ lệ dự phòng đấy. Tiết học thực hành của chúng ta hôm nay đến đây là kết thúc, các em làm việc nhóm rất xuất sắc!
+

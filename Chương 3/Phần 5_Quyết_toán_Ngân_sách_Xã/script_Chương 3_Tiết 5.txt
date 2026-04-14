@@ -1,0 +1,91 @@
+﻿Slide 1: Tiết 5/6 - Quyết toán ngân sách xã (Mục 3.3.3)
+Người 1: Chào các em. Hôm nay chúng ta sẽ bước sang buổi thứ hai của Chương ba: Quản lý ngân sách xã, thuộc học phần Quản lý tài chính công. Chủ đề trọng tâm của tiết học thứ năm này là Mục ba chấm ba chấm ba: Quyết toán ngân sách xã.
+Người 2: Dạ thưa cô, nhắc đến từ "quyết toán", em hình dung nó giống như việc cuối năm mình lôi sổ sách ra cộng trừ xem năm qua đã kiếm được bao nhiêu và tiêu hết bao nhiêu, đúng không ạ?
+Người 1: Em liên tưởng rất thực tế! Đối với một cấp chính quyền cơ sở như cấp xã, việc này còn đòi hỏi tính pháp lý và kỷ luật rất cao. Trong tiết học này, chúng ta sẽ cùng đi qua ba nội dung chính: Thứ nhất là các yêu cầu khắt khe đối với công tác quyết toán. Thứ hai là quy định xử lý tiền kết dư cuối năm. Và thứ ba là quy trình cũng như thời hạn để phê chuẩn báo cáo quyết toán này.
+
+Slide 2: Mục tiêu Tiết học
+Người 1: Trước khi đi vào chi tiết, chúng ta cùng xem xét mục tiêu của tiết học trên slide số hai.
+Người 2: Về mặt kiến thức, em thấy ghi là cần nắm vững các yêu cầu bắt buộc, đặc biệt là nguyên tắc "khớp số liệu với Kho bạc" và "không được quyết toán chi vượt thu" theo Luật Ngân sách Nhà nước năm hai không hai mươi lăm.
+Người 1: Chính xác. Đó là hai nguyên tắc mang tính sống còn mà bất cứ cán bộ tài chính xã nào cũng phải nằm lòng. Bên cạnh kiến thức, chúng ta còn có mục tiêu về thái độ. Các em cần nhận thức sâu sắc tầm quan trọng của tính minh bạch, trung thực và kỷ luật tài chính. Tại sao ư? Vì những con số chốt lại cuối năm của chính quyền cơ sở chính là tiền thuế của nhân dân, nó phản ánh năng lực quản lý và độ tin cậy của bộ máy nhà nước tại địa phương đó.
+
+Slide 3: Tổng quan về Quyết toán Ngân sách Xã
+Người 1: Chuyển sang slide số ba, chúng ta sẽ nhìn lại bức tranh tổng quan. Chu trình quản lý ngân sách luôn đi qua ba bước: Lập dự toán, Chấp hành, và cuối cùng là Quyết toán.
+Người 2: Nghĩa là quyết toán là chốt chặn cuối cùng của một năm ngân sách đúng không cô? Vậy thời điểm nào thì các xã phải thực hiện việc khóa sổ ạ?
+Người 1: Đúng vậy em. Khái niệm quyết toán ngân sách xã chính là việc tổng hợp, kiểm tra và đánh giá toàn bộ tình hình thu và chi ngân sách nhà nước của cấp xã sau một năm. Thời điểm "giờ G" để khóa sổ kế toán được luật ấn định là ngày ba mươi mốt tháng mười hai hằng năm. Hãy tưởng tượng giống như đúng đêm giao thừa, mọi giao dịch thu chi liên quan đến ngân sách năm đó của xã phải được chốt lại để bắt đầu lập báo cáo.
+
+Slide 4: 3.3.3. Yêu cầu Quyết toán Ngân sách Xã (Phần 1 - Tính chính xác)
+Người 1: Bây giờ, chúng ta sẽ đi vào phần cốt lõi nhất ở slide số bốn: Yêu cầu đối với báo cáo quyết toán. Yêu cầu đầu tiên và quan trọng nhất là Tính chính xác. Số liệu phải trung thực và đầy đủ.
+Người 2: Thưa cô, trên slide có nhấn mạnh đến "Số quyết toán thu" và "Số quyết toán chi". Nó có khác gì so với số tiền mặt mà thủ quỹ xã đang giữ ở két sắt không ạ?
+Người 1: Khác hoàn toàn em nhé! Đây là điểm mà rất nhiều người nhầm lẫn. "Số quyết toán thu" phải là số tiền đã thực nộp và đã được hạch toán vào Kho bạc Nhà nước. Tương tự, "Số quyết toán chi" là số tiền đã thực sự được Kho bạc Nhà nước thanh toán.
+Người 2: À, em hiểu rồi. Có nghĩa là nếu xã báo cáo chi một trăm triệu đồng để sửa đường, nhưng số liệu đó chưa được Kho bạc xác nhận thì báo cáo đó là sai, đúng không ạ?
+Người 1: Tuyệt vời, ví dụ của em rất chuẩn! Luật quy định bắt buộc: Số liệu quyết toán của Ủy ban nhân dân cấp xã phải được đối chiếu và xác nhận bằng văn bản với Kho bạc Nhà nước nơi giao dịch. Nếu hai con số này bị lệch, dù chỉ là một nghìn đồng, thì báo cáo quyết toán đó bị coi là không hợp lệ và sẽ bị trả về ngay lập tức.
+
+Slide 5: 3.3.3. Yêu cầu Quyết toán Ngân sách Xã (Phần 2 - Kỷ luật thu chi)
+Người 1: Tiếp nối tính chính xác, slide số năm đưa ra yêu cầu thứ hai: Kỷ luật thu chi. Yêu cầu này bắt buộc xã phải chi tiêu đúng theo dự toán đã được giao từ đầu năm. Nhưng quan trọng hơn cả, hãy chú ý đến ô màu đỏ trên màn hình: Kỷ luật Bội chi.
+Người 2: Ở đây ghi là "Báo cáo quyết toán của ngân sách cấp xã không được quyết toán chi ngân sách lớn hơn thu ngân sách". Tại sao cấp xã lại bị siết chặt nguyên tắc này vậy cô? Em thấy đôi khi nhà nước vẫn có thể đi vay để chi tiêu cơ mà?
+Người 1: Câu hỏi rất hay! Theo khoản năm Điều sáu mươi bảy của Luật Ngân sách nhà nước năm hai không hai mươi lăm, chỉ có cấp Trung ương và cấp Tỉnh mới được phép bội chi và đi vay. Cấp xã thì tuyệt đối không. Nguyên tắc này nhằm đảm bảo an toàn tài chính ở cấp cơ sở.
+Cô lấy một ví dụ thực tế nhé: Giả sử năm nay, tổng nguồn thu của xã A chỉ đạt ba tỷ đồng. Tuy nhiên, trong năm xã lại tự ý xây thêm một nhà văn hóa dẫn đến tổng chi lên tới ba phẩy năm tỷ đồng. Tức là xã bị thâm hụt mất năm trăm triệu đồng. Khi lập báo cáo quyết toán cuối năm, báo cáo này đã vi phạm pháp luật và chắc chắn sẽ bị Hội đồng nhân dân từ chối phê chuẩn.
+
+Slide 6: 3.3.3. Xử lý Kết dư Ngân sách Xã cuối năm.
+Người 1: Chúng ta cùng chuyển sang slide số sáu, tìm hiểu về việc xử lý kết dư ngân sách cuối năm.
+Người 2: Dạ thưa cô, kết dư ngân sách có phải là khoản tiền còn thừa lại sau khi đã trừ đi tất cả các khoản chi trong năm không ạ?
+Người 1: Rất chính xác! Nói một cách hàn lâm thì đó là số chênh lệch lớn hơn giữa tổng thu và tổng chi ngân sách sau khi kết thúc một năm ngân sách. Đối với ngân sách Trung ương và cấp Tỉnh, luật quy định phải trích năm mươi phần trăm vào quỹ dự trữ tài chính, và năm mươi phần trăm còn lại chuyển vào nguồn thu của năm sau.
+Người 2: Thế còn đối với cấp xã thì sao ạ? Có phải chia đôi như vậy không cô?
+Người 1: Đây chính là điểm khác biệt cốt lõi mà các em cần lưu ý! Ở cấp xã, toàn bộ một trăm phần trăm kết dư ngân sách sẽ được hạch toán trực tiếp vào nguồn thu của ngân sách năm sau. Lý do là cấp xã không được phép lập Quỹ dự trữ tài chính. Quy định này giúp chính quyền cơ sở có thể chuyển ngay toàn bộ nguồn tiền tích lũy được sang năm tiếp theo để chủ động đầu tư, phát triển địa phương.
+
+Slide 7: 3.3.3. Quy trình Lập và Xem xét Quyết toán.
+Người 1: Vậy quá trình để chốt được một báo cáo quyết toán tại cấp xã diễn ra như thế nào? Mời các em nhìn vào sơ đồ ba bước trên slide số bảy. Bước đầu tiên, cơ quan hành chính là Ủy ban nhân dân cấp xã sẽ chịu trách nhiệm lập báo cáo quyết toán.
+Người 2: Lập xong thì mang đi đâu duyệt vậy cô? Có nộp thẳng lên Ủy ban nhân dân huyện luôn không ạ?
+Người 1: Chưa nộp lên huyện ngay được đâu em. Báo cáo này phải trải qua bước thứ hai là thẩm tra sơ bộ ngay tại địa phương. Ủy ban nhân dân xã phải trình báo cáo cho Thường trực Hội đồng nhân dân cùng cấp để đại biểu cho ý kiến, từ đó tiếp thu và hoàn chỉnh lại.
+Người 2: À, tức là phải qua cơ quan đại diện cho nhân dân ở xã kiểm tra trước. Rồi bước ba là gì ạ?
+Người 1: Sau khi đã chỉnh sửa hoàn thiện, bước ba là Ủy ban nhân dân xã sẽ chính thức trình báo cáo ra kỳ họp toàn thể của Hội đồng nhân dân cấp xã để xem xét và ra nghị quyết phê chuẩn. Chỉ khi Hội đồng nhân dân "gật đầu", bản báo cáo quyết toán đó mới chính thức có hiệu lực pháp lý.
+
+Slide 8: 3.3.3. Thời hạn Phê chuẩn Quyết toán Ngân sách Xã.
+Người 1: Chuyển sang slide số tám, chúng ta sẽ xem xét mốc thời gian "chốt sổ". Theo luật, Hội đồng nhân dân cấp xã phải xem xét và phê chuẩn báo cáo quyết toán ngân sách cấp mình trước ngày ba mươi mốt tháng ba năm sau.
+Người 2: Nghĩa là nếu làm quyết toán cho năm hai không hai mươi sáu, thì phải được duyệt trước ngày ba mươi mốt tháng ba năm hai không hai mươi bảy phải không cô?
+Người 1: Đúng vậy! Nhưng thực tế không phải lúc nào kỳ họp cũng suôn sẻ. Sẽ có trường hợp báo cáo quyết toán không được Hội đồng nhân dân phê chuẩn vì số liệu chưa rõ ràng hoặc có dấu hiệu chi tiêu sai nguyên tắc.
+Người 2: Nếu bị từ chối thì Ủy ban nhân dân xã phải làm sao ạ?
+Người 1: Khi đó, Ủy ban nhân dân xã có trách nhiệm tiếp tục giải trình, làm rõ những nội dung mà đại biểu Hội đồng nhân dân yêu cầu. Sau đó, họ phải hoàn thiện lại báo cáo và trình lại. Thời gian trình lại do chính Hội đồng nhân dân ấn định, nhưng luật bắt buộc là chậm nhất sau mười ngày làm việc.
+
+Slide 9: 3.3.3. Chế độ Báo cáo sau khi được Phê chuẩn.
+Người 1: Sau khi báo cáo đã được Hội đồng nhân dân xã phê chuẩn thành công, công việc vẫn chưa kết thúc. Slide số chín trình bày về chế độ báo cáo lên cấp trên.
+Người 2: Xã phải gửi báo cáo này đi đâu và trong thời gian bao lâu thưa cô?
+Người 1: Thời hạn rất gấp rút em nhé. Chậm nhất là sau năm ngày làm việc kể từ ngày Hội đồng nhân dân xã có nghị quyết phê chuẩn, báo cáo phải được gửi đi. Có hai nơi nhận bắt buộc: Thứ nhất là Ủy ban nhân dân cấp trên, tức là cấp huyện. Thứ hai là cơ quan tài chính cấp trên, cụ thể là Phòng Tài chính - Kế hoạch cấp huyện.
+Người 2: Họ nhận báo cáo của mấy chục xã về để làm gì vậy cô?
+Người 1: Mục đích là để Phòng Tài chính huyện có đầy đủ số liệu chốt của các xã, từ đó làm cơ sở tổng hợp, lập nên bản báo cáo quyết toán ngân sách địa phương chung của toàn huyện, rồi lại trình lên Ủy ban nhân dân và Hội đồng nhân dân cấp huyện phê duyệt. Dữ liệu từ xã giống như những viên gạch nhỏ để xây nên bức tranh tài chính toàn cảnh của cấp trên vậy.
+
+Slide 10: 3.3.3. Xử lý Sai phạm sau khi Quyết toán.
+Người 1: Cuối cùng, chúng ta đến với một tình huống pháp lý rất hay gặp trên thực tế ở slide số mười. Giả sử báo cáo quyết toán của xã đã được Hội đồng nhân dân phê chuẩn, sổ sách đã chốt xong xuôi. Nhưng một thời gian sau, cơ quan Thanh tra hoặc Kiểm toán nhà nước vào làm việc và lật lại hồ sơ, phát hiện có một khoản chi sai nguyên tắc. Vậy phải xử lý thế nào?
+Người 2: Chốt sổ rồi thì có được mở ra sửa lại không cô? Hay là coi như "xí xóa" cho qua ạ?
+Người 1: Pháp luật về tài chính công tuyệt đối không có khái niệm "xí xóa" em nhé. Căn cứ theo Điều bảy mươi lăm của Luật Ngân sách nhà nước năm hai không hai mươi lăm, nếu phát hiện thu hoặc chi không đúng quy định sau khi quyết toán đã được phê chuẩn, thì vẫn bắt buộc phải thực hiện xử lý triệt để, ví dụ như phải thu hồi lại khoản tiền đã chi sai hoặc truy thu khoản tiền nộp thiếu.
+Người 2: Nhưng số tiền xử lý thu hồi đó sẽ được hạch toán vào đâu nếu sổ sách của năm cũ đã khóa cứng rồi ạ?
+Người 1: Một câu hỏi rất thực tế! Theo luật, số tiền xử lý thu hồi này sẽ không quay ngược lại để sửa báo cáo của năm cũ nữa, mà sẽ được hạch toán quyết toán thẳng vào ngân sách của năm xử lý, tức là năm hiện tại đang làm việc. Việc này vừa bảo đảm tính nghiêm minh, tiền nhà nước không bị thất thoát, vừa tôn trọng tính lịch sử của sổ sách kế toán.
+
+Slide 11: 3.3.3. Trách nhiệm trong công tác Quyết toán
+Người 1: Chào các em, chúng ta tiếp tục bài học với slide số mười một, nói về việc phân định trách nhiệm của ba "nhân vật chính" trong công tác quyết toán ngân sách xã.
+Người 2: Dạ, nhìn trên slide em thấy ba cơ quan là: Ủy ban nhân dân, Hội đồng nhân dân và Kho bạc Nhà nước. Trong đó, Ủy ban nhân dân là người "làm bài", Hội đồng nhân dân là người "chấm điểm", còn Kho bạc đóng vai trò là "trọng tài" đúng không cô?
+Người 1: Sự ví von của em rất chính xác! Ủy ban nhân dân cấp xã chịu trách nhiệm tổ chức khóa sổ kế toán, lập báo cáo trung thực và trình lên Hội đồng nhân dân cùng cấp để xem xét, phê chuẩn. Nhưng để báo cáo đó hợp lệ, nó phải vượt qua "trọng tài" Kho bạc Nhà nước. Kho bạc là nơi tổ chức hạch toán kế toán thu chi. Mọi con số mà xã báo cáo bắt buộc phải đối chiếu và khớp y chang với giấy xác nhận của Kho bạc.
+
+Slide 12: 3.3.3. Các Hành vi bị Nghiêm cấm trong Quyết toán
+Người 1: Chính vì tính chất quan trọng đó, Điều mười tám của Luật Ngân sách nhà nước năm hai không hai mươi lăm đã quy định rất nghiêm khắc các hành vi bị cấm ở slide số mười hai.
+Người 2: Dạ, em thấy có cấm nộp báo cáo chậm thời gian, cấm hạch toán sai nghiệp vụ và cấm phê chuẩn sai thẩm quyền. Nhưng ô màu đỏ cuối cùng lại nhấn mạnh "cố tình trình và phê chuẩn quyết toán chi lớn hơn thu là vi phạm nghiêm trọng". Tại sao lại như vậy thưa cô?
+Người 1: Vì đó là hành vi phá vỡ kỷ luật tài chính quốc gia. Cô lấy ví dụ, nếu chủ tịch xã chi tiêu lố tay, sau đó ép kế toán xào xáo sổ sách để trình một bản quyết toán thâm hụt lên Hội đồng nhân dân, và nếu Hội đồng nhân dân nhắm mắt làm ngơ gật đầu phê chuẩn, thì toàn bộ hệ thống từ người lập đến người duyệt đều đã vi phạm pháp luật và sẽ bị xử lý nghiêm.
+
+Slide 13: Tổng kết: 3 Quy tắc “Cốt lõi” của Quyết toán Ngân sách Xã
+Người 1: Để tóm gọn lại toàn bộ lý thuyết từ đầu tiết đến giờ, các em chỉ cần ghi nhớ đúng ba quy tắc cốt lõi trên slide mười ba.
+Người 2: Thứ nhất là "Thực thu trừ thực chi", tức là tiền phải chạy qua hệ thống Kho bạc Nhà nước. Thứ hai là "Kỷ luật cân đối", tuyệt đối không được quyết toán thâm hụt, chi không được vượt thu. Và thứ ba là "Kết dư", có nghĩa là tiền thừa cuối năm thì dồn một trăm phần trăm thành nguồn thu cho ngân sách xã năm sau để xài tiếp, do cấp xã không lập quỹ dự trữ.
+Người 1: Hoàn toàn chính xác! Các em chỉ cần nắm chắc ba nguyên tắc này là có thể xử lý được hầu hết các sai phạm trong thực tế. Và để chứng minh điều đó, chúng ta sẽ bước sang phần bài tập tình huống nhé.
+
+Slide 14: Bài tập Tình huống Tiết 5
+Người 1: Xin mời các em đọc tình huống trên slide mười bốn: Ngày mười tháng tư năm hai không hai mươi bảy, Chủ tịch Ủy ban nhân dân xã H mới trình Hội đồng nhân dân xã báo cáo quyết toán ngân sách năm hai không hai mươi sáu.
+Người 2: Báo cáo ghi tổng thu là tám tỷ đồng, nhưng tổng chi lại lên tới tám phẩy năm tỷ đồng. Ủa, chi lố mất năm trăm triệu rồi cô?
+Người 1: Đúng vậy em. Nguyên nhân là do cuối năm xã phát sinh khoản chi sửa chữa trạm phát thanh nhưng chưa có nguồn tiền bù đắp. Chủ tịch xã H giải trình rằng: Khoản chi tám phẩy năm tỷ đồng này xã mới tập hợp hóa đơn thôi, chưa kịp ra Kho bạc để đối chiếu số liệu. Chủ tịch đề nghị Hội đồng nhân dân cứ nhắm mắt phê chuẩn chốt sổ trước đi, rồi xã sẽ ghi nhận nợ và thanh toán bù sau.
+Người 2: Chà, trên thực tế em cũng hay nghe mấy vụ "sửa đồ trước, xin duyệt tiền sau" kiểu này. Yêu cầu của bài tập là tìm ra ba sai phạm pháp lý và hỏi Hội đồng nhân dân có được duyệt không đúng không cô?
+
+Slide 15: Lời giải Bài tập Tình huống Tiết 5
+Người 1: Chúng ta cùng lật sang slide mười lăm để xem lời giải. Chắc chắn Hội đồng nhân dân xã H phải kiên quyết từ chối phê chuẩn bản báo cáo này.
+Người 2: Sai phạm đầu tiên em nhìn ra ngay là sai mốc thời gian! Hôm trước cô dạy mốc chốt sổ là trước ngày ba mươi mốt tháng ba năm sau. Xã H đem nộp vào tận ngày mười tháng tư là nộp trễ hạn, vi phạm luật rồi.
+Người 1: Tuyệt vời! Sai phạm thứ hai nằm ở khối số hai: Quyết toán Bội chi. Tổng chi là tám phẩy năm tỷ đồng, lớn hơn tổng thu là tám tỷ đồng. Theo khoản năm Điều sáu mươi bảy Luật Ngân sách nhà nước, báo cáo quyết toán cấp xã không được phép chi lớn hơn thu.
+Người 2: Và sai phạm thứ ba chắc chắn là do chủ tịch xã đòi duyệt khống đúng không ạ?
+Người 1: Rất chuẩn xác! Nguyên tắc cốt lõi là "thực chi". Số tiền quyết toán phải là số tiền đã được "thực thanh toán tại Kho bạc" và phải có biên bản đối chiếu với Kho bạc Nhà nước. Xã H mới chỉ cầm xấp hóa đơn trên tay, chưa hề đối chiếu Kho bạc mà đã đòi Hội đồng nhân dân chốt sổ quyết toán là hoàn toàn trái pháp luật.
+

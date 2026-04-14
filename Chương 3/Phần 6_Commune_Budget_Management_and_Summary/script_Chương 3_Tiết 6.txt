@@ -1,0 +1,79 @@
+﻿Slide 1: Học phần: Quản lý tài chính công - Chương 3: Quản lý ngân sách xã (Tiết 6/6: Hệ thống trách nhiệm, quyền hạn và Tổng kết chương)
+Người 1: Chào các em. Hôm nay chúng ta sẽ bước vào tiết học cuối cùng của Chương ba về Quản lý ngân sách xã, đó là tiết thứ sáu. Các em có thể nhìn lên màn hình, nội dung hôm nay mang tính chất chốt lại toàn bộ quy trình quản lý dòng tiền ở cấp cơ sở.
+Người 2: Dạ thưa cô, ở các tiết trước mình đã học cách lập dự toán và cách chi tiêu tiền rồi, vậy hôm nay mình sẽ học xem ai là người phải chịu trách nhiệm về số tiền đó đúng không ạ?
+Người 1: Em tóm ý rất chuẩn! Hôm nay chúng ta sẽ đi vào ba nội dung chính: Đầu tiên là mục ba chấm ba chấm bốn, tìm hiểu về Hệ thống trách nhiệm và quyền hạn trong quản lý ngân sách xã. Sau đó, chúng ta sẽ Tổng kết lại toàn bộ Chương ba, và cuối cùng là giải quyết các Bài tập tình huống thực tiễn để khắc sâu kiến thức.
+
+Slide 2: Mục tiêu tiết học
+Người 1: Trước khi đi vào chi tiết, chúng ta cùng xem qua mục tiêu của tiết học hôm nay trên slide số hai. Lộ trình của chúng ta gồm có ba đích đến.
+Người 2: Dạ, em thấy mục tiêu về kiến thức là cần hiểu rõ quyền hạn của các bên như Hội đồng nhân dân, Ủy ban nhân dân, Chủ tịch xã, Mặt trận Tổ quốc và Kho bạc. Còn về kỹ năng là vận dụng để giải quyết tình huống.
+Người 1: Rất chính xác. Tuy nhiên, cô muốn nhấn mạnh đặc biệt đến mục tiêu thứ ba: Về mức độ tự chủ và trách nhiệm. Tiền ngân sách của xã tuy quy mô không hàng ngàn tỷ như ngân sách trung ương, nhưng đó là tiền đóng góp mồ hôi nước mắt của bà con nhân dân trong xã. Vì vậy, việc đề cao ý thức tuân thủ kỷ luật tài chính, minh bạch và trách nhiệm giải trình là điều tối quan trọng đối với bất kỳ cán bộ quản lý công nào.
+
+Slide 3: 3.3.4. Tổng quan về Hệ thống trách nhiệm và quyền hạn
+Người 1: Bây giờ, chúng ta cùng nhìn vào bức tranh tổng thể trên slide ba. Việc quản lý tiền của một xã không phải do một cá nhân tự quyết, mà là sự phối hợp chặt chẽ của một "hệ sinh thái" gồm bốn trụ cột. Cột thứ nhất là Cơ quan quyền lực: Hội đồng nhân dân cấp xã. Cột thứ hai là Cơ quan hành chính: Ủy ban nhân dân cấp xã, trực tiếp là Chủ tịch xã và kế toán. Cột thứ ba là Cơ quan kiểm soát dòng tiền: Kho bạc Nhà nước. Và cột cuối cùng là Chủ thể giám sát: Mặt trận Tổ quốc và cộng đồng dân cư.
+Người 2: Có tận bốn bên cùng soi xét dòng tiền cơ ạ? Vậy nếu lỡ xảy ra việc chi tiêu sai mục đích thì quy trách nhiệm cho ai thưa cô?
+Người 1: Đó chính là lý do chúng ta có nguyên tắc cốt lõi nằm ở phần dưới cùng của slide: "Quản lý ngân sách nhà nước phải gắn quyền hạn với trách nhiệm". Tức là anh có quyền duyệt chi, anh phải đền bù nếu chi sai. Anh có thẩm quyền giữ tiền, anh phải chịu trách nhiệm pháp lý nếu làm thất thoát. Mọi thứ phải bảo đảm sự tập trung dân chủ, minh bạch, không ai được phép lạm quyền.
+
+Slide 4: 3.3.4. Trách nhiệm và quyền hạn của HĐND cấp xã (Phần 1 - Quyết định dự toán)
+Người 1: Chuyển sang slide bốn, chúng ta sẽ phân tích trụ cột đầu tiên và cũng là cơ quan có quyền lực cao nhất về tài chính tại cơ sở: Hội đồng nhân dân cấp xã. Ở khâu dự toán, Hội đồng nhân dân chính là người gõ búa quyết định cuối cùng.
+Người 2: Nghĩa là nếu Ủy ban nhân dân xã muốn lấy tiền để xây một con đường mới hay sửa lại trường mầm non thì phải xin phép và được Hội đồng nhân dân duyệt thì mới được làm đúng không ạ?
+Người 1: Hoàn toàn chính xác! Ví dụ, Chủ tịch xã muốn trích ra năm trăm triệu đồng để làm đường bê tông liên thôn, Ủy ban nhân dân phải lập dự toán trình lên. Hội đồng nhân dân sẽ thảo luận, sau đó "Quyết định dự toán" và "Phê duyệt chủ trương". Nếu giữa năm xảy ra mưa bão làm sập cầu, cần thêm tiền sửa chữa khẩn cấp, thì Hội đồng nhân dân cũng phải họp lại để đưa ra "Quyết định điều chỉnh ngân sách" theo đúng luật định.
+
+Slide 5: 3.3.4. Trách nhiệm và quyền hạn của HĐND cấp xã (Phần 2 - Giám sát & Quyết toán)
+Người 1: Không chỉ có quyền cho phép tiêu tiền, slide số năm cho thấy Hội đồng nhân dân còn đóng vai trò "cầm trịch" ở khâu hậu kiểm, tức là kiểm soát quyền lực của Ủy ban nhân dân cùng cấp. Suốt cả năm, họ sẽ thực hiện "Giám sát thực hiện" xem dòng tiền có đi đúng hướng không.
+Người 2: Thế đến cuối năm thì sao cô? Em thấy có ghi "Phê chuẩn quyết toán" trước ngày ba mươi mốt tháng ba năm sau.
+Người 1: Đúng vậy em. Hạn chót là ngày ba mươi mốt tháng ba của năm tiếp theo, Ủy ban nhân dân phải nộp sổ sách để Hội đồng nhân dân xem xét, chốt lại sổ sách của năm cũ. Đặc biệt, Hội đồng nhân dân có một thứ vũ khí rất mạnh trong việc "Xử lý vi phạm".
+Người 2: Vũ khí đó cụ thể là gì vậy cô?
+Người 1: Đó là quyền bãi bỏ các văn bản quy phạm pháp luật về tài chính của Ủy ban nhân dân xã. Cô lấy một ví dụ thực tế: Nếu Ủy ban nhân dân xã tự ý ra văn bản bắt bà con tiểu thương đóng phí vệ sinh chợ cao gấp ba lần quy định của tỉnh, Hội đồng nhân dân xã có quyền "tuýt còi" và bãi bỏ ngay lập tức văn bản trái luật đó để bảo vệ quyền lợi hợp pháp của người dân. Quyền lực nhà nước ở cơ sở được thực thi rất chặt chẽ là vì vậy.
+
+Slide 6: 3.3.4. Trách nhiệm và quyền hạn của UBND cấp xã (Phần 1 - Dự toán)
+Người 1: Chuyển sang slide số sáu, chúng ta sẽ tìm hiểu về cơ quan hành chính nhà nước ở địa phương, đó chính là Ủy ban nhân dân cấp xã. Nếu như Hội đồng nhân dân là người "gõ búa" cấp phép, thì Ủy ban nhân dân chính là người trực tiếp "cầm tiền đi chợ" và điều hành dòng tiền. Trong khâu dự toán, họ có ba nhiệm vụ chính.
+Người 2: Có phải bước đầu tiên là họ phải lên một danh sách những thứ cần chi tiêu không cô? Giống như mẹ em ở nhà hay lên danh sách đi siêu thị ấy ạ.
+Người 1: Ví dụ của em rất chuẩn xác! Bước đầu tiên chính là "Lập dự toán". Ủy ban nhân dân xã phải lên phương án phân bổ ngân sách trình Hội đồng nhân dân quyết định. Khi đã được duyệt, họ bước sang khâu thứ hai là "Giao dự toán", tức là chia tiền về cho từng bộ phận. Ví dụ, Ủy ban giao cho trạm y tế xã năm mươi triệu đồng để mua thuốc men, giao cho ban văn hóa ba mươi triệu đồng để tổ chức lễ hội truyền thống. Cuối cùng, nếu có sự kiện phát sinh ngoài ý muốn như bão lụt làm hỏng đường, Ủy ban nhân dân sẽ phải làm bước thứ ba là lập phương án "Điều chỉnh dự toán" trình Hội đồng nhân dân quyết định.
+
+Slide 7: 3.3.4. Trách nhiệm và quyền hạn của UBND cấp xã (Phần 2 - Chấp hành & Quyết toán)
+Người 1: Trên slide số bảy là giai đoạn tiền bắt đầu được tiêu đi, gọi là khâu "Chấp hành và Quyết toán". Ở đây, Ủy ban nhân dân xã phải tổ chức thực hiện thu chi đúng như bản kế hoạch đã được duyệt.
+Người 2: Nhưng tiêu tiền xong thì phải có ai kiểm tra sổ sách chứ cô? Nếu không thì làm sao biết tiền có bị chi sai mục đích hay không ạ?
+Người 1: Chắc chắn rồi em. Cuối năm, Ủy ban nhân dân xã bắt buộc phải "Lập quyết toán", tức là khóa sổ kế toán và trình Hội đồng nhân dân phê chuẩn. Đặc biệt, có một yêu cầu cực kỳ quan trọng là "Báo cáo và công khai". Ủy ban nhân dân xã không được phép thu chi giấu giếm mà phải dán bảng công khai ngân sách tại trụ sở Ủy ban, hoặc đọc trên hệ thống loa phát thanh của xã để toàn bộ bà con nhân dân đều được biết.
+
+Slide 8: 3.3.4. Trách nhiệm pháp lý của Chủ tịch UBND xã
+Người 1: Vậy nếu sổ sách có vấn đề, thất thoát tiền bạc thì ai sẽ là người bị "gọi tên" đầu tiên? Mời các em nhìn vào slide số tám. Khoản mười bốn Điều ba mươi hai của Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm quy định rất rõ trách nhiệm này.
+Người 2: Nhìn biểu tượng trên slide thì em đoán đó là Chủ tịch Ủy ban nhân dân xã phải không cô?
+Người 1: Đúng vậy em. Chủ tịch Ủy ban nhân dân xã là người đứng đầu cơ quan hành chính nên phải tổ chức thực hiện đúng nhiệm vụ được giao. Họ mang trên vai "Trách nhiệm giải trình", tức là khi cơ quan cấp trên hoặc nhân dân thắc mắc, họ phải đứng ra giải thích rõ ràng. Căng thẳng nhất là "Trách nhiệm pháp lý". Cô lấy ví dụ, nếu kế toán xã làm giả chứng từ để rút ruột công quỹ, Chủ tịch xã vẫn phải chịu trách nhiệm toàn diện trước pháp luật vì đã ký duyệt các khoản chi sai phạm đó.
+
+Slide 9: 3.3.4. Giám sát của cộng đồng về ngân sách xã
+Người 1: Mặc dù đã có các cơ quan nhà nước kiểm tra lẫn nhau, nhưng luật pháp vẫn trao một quyền lực rất lớn cho nhân dân, thể hiện ở slide số chín: Giám sát của cộng đồng. Theo Điều mười sáu của Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm, ngân sách nhà nước được giám sát bởi cộng đồng và Mặt trận Tổ quốc Việt Nam cấp xã sẽ chủ trì việc này.
+Người 2: Việc giám sát này diễn ra như thế nào trên thực tế hở cô? Người dân bình thường như chúng em làm sao biết về nghiệp vụ tài chính mà giám sát ạ?
+Người 1: Người dân không cần phải là chuyên gia kế toán. Nội dung giám sát rất thực tế: họ xem chính quyền có thực hiện công khai ngân sách minh bạch, đúng thời hạn hay không. Ví dụ, xã thông báo chi hai trăm triệu đồng để đổ bê tông đường làng, Mặt trận Tổ quốc và Ban thanh tra nhân dân ở thôn đó sẽ trực tiếp ra đo độ dày của mặt đường, kiểm tra xem chất lượng xi măng có đúng như cam kết hay không. Đó chính là giám sát việc chấp hành tình hình thu chi đấy em.
+
+Slide 10: 3.3.4. Trách nhiệm của Kho bạc Nhà nước
+Người 1: Trạm dừng chân cuối cùng trong hệ thống kiểm soát dòng tiền ở slide mười chính là Kho bạc Nhà nước. Nếu Ủy ban nhân dân xã là người quyết định tiêu tiền, thì Kho bạc chính là "người giữ chìa khóa két sắt". Toàn bộ thu chi của xã đều phải tập trung và quản lý tại Kho bạc.
+Người 2: Vậy nếu Chủ tịch xã cầm hóa đơn ra Kho bạc rút tiền, Kho bạc có bắt buộc phải đưa tiền không cô?
+Người 1: Đây là điểm cốt lõi các em cần nhớ: Kho bạc có chức năng "Kiểm soát chi chặt chẽ". Họ chỉ xuất tiền khi khoản chi đó đã có trong dự toán và đúng định mức. Nếu Chủ tịch xã đem một tờ hóa đơn thanh toán tiền tổ chức tiệc liên hoan vượt quá định mức quy định, Kho bạc Nhà nước hoàn toàn có "Quyền từ chối thanh toán" đối với khoản chi sai nguyên tắc này và báo cáo lên cấp có thẩm quyền ngay lập tức. Cửa ải này giúp chặn đứng rất nhiều khoản chi lãng phí của nhà nước.
+
+Slide 11: Bài tập tình huống tiết 6 (Tình huống 1)
+Người 1: Bây giờ, để kiểm tra xem các em nắm kiến thức đến đâu, chúng ta cùng giải quyết một tình huống thực tế trên slide số mười một nhé. Tình huống đưa ra như sau: Giữa năm ngân sách, do có nguồn thu vượt dự toán, Chủ tịch Ủy ban nhân dân xã quyết định trực tiếp phân bổ số tiền tăng thu này để xây mới một nhà văn hóa thôn mà không báo cáo hay trình Hội đồng nhân dân xã. Ông lập luận rằng, mình là người đứng đầu cơ quan hành chính nên có toàn quyền điều hành trực tiếp nguồn tiền dư này.
+Người 2: Nghe có vẻ hợp lý đấy chứ cô? Mình có dư tiền thì mình xây nhà văn hóa cho bà con thôi, tiện cả đôi đường mà ạ.
+Người 1: Vậy câu hỏi đặt ra là: Quyết định của Chủ tịch Ủy ban nhân dân xã là đúng hay sai theo quy định của pháp luật về quản lý ngân sách? Và lỗi sai nằm ở đâu? Các em hãy thử suy nghĩ xem!
+
+Slide 12: Tổng kết Chương 3 - Quản lý ngân sách xã
+Người 1: Trong lúc các em suy nghĩ câu trả lời, chúng ta hãy cùng nhìn lại bức tranh toàn cảnh của Chương ba trên slide mười hai. Có bốn nội dung trọng tâm các em không được quên. Thứ nhất, về bản chất, ngân sách xã là cấp ngân sách cơ sở, tuy quy mô nhỏ nhưng lại tác động trực tiếp và nhanh chóng đến đời sống kinh tế xã hội của dân cư trên địa bàn.
+Người 2: Dạ, còn điểm thứ hai là "kỷ luật thép về cân đối" phải không cô? Em nhớ đặc thù lớn nhất là ngân sách xã tuyệt đối không được phép bội chi và không được quyết toán chi ngân sách lớn hơn thu ngân sách.
+Người 1: Em nhớ bài rất tốt! Điểm thứ ba là xử lý kết dư, toàn bộ kết dư ngân sách cấp xã cuối năm được hạch toán một trăm phần trăm vào nguồn thu ngân sách năm sau, giúp xã tăng nguồn lực tái đầu tư. Và cuối cùng là trách nhiệm minh bạch, quản lý ngân sách cấp xã đòi hỏi sự phối hợp chặt chẽ giữa quyền quyết định của Hội đồng nhân dân, quyền điều hành của Ủy ban nhân dân và đặc biệt là sự giám sát của cộng đồng thông qua Mặt trận Tổ quốc.
+
+Slide 13: Lời giải bài tập tình huống tiết 6 (Tình huống 1)
+Người 1: Quay trở lại với tình huống lúc nãy, chắc các em đã có câu trả lời rồi. Chuyển sang slide mười ba, cô công bố đáp án: Quyết định của Chủ tịch Ủy ban nhân dân xã là sai và vượt quá thẩm quyền.
+Người 2: Ơ, sao lại sai vậy cô? Chủ tịch xã đâu có bỏ túi riêng đâu ạ?
+Người 1: Mặc dù mục đích là xây nhà văn hóa cho dân, nhưng quy trình đã sai hoàn toàn. Về mặt pháp lý, thẩm quyền quyết định phương án sử dụng số tăng thu ngân sách cấp xã thuộc về Hội đồng nhân dân cấp xã. Ủy ban nhân dân xã chỉ có quyền lập phương án trình Hội đồng nhân dân xem xét, quyết định. Việc Chủ tịch xã tự ý phân bổ nguồn tăng thu ngoài dự toán mà không thông qua cơ quan quyền lực nhà nước tại cơ sở là vi phạm nguyên tắc tập trung dân chủ, xâm phạm thẩm quyền của Hội đồng nhân dân xã.
+
+Slide 14: Bài tập tình huống tiết 6 (Tình huống 2)
+Người 1: Tiếp tục thử thách độ khó, chúng ta sang tình huống thứ hai trên slide mười bốn. Tình huống như sau: Ủy ban nhân dân xã ca tổ chức hội nghị tổng kết cuối năm. Kế toán xã đem hồ sơ, chứng từ ra Kho bạc Nhà nước yêu cầu thanh toán chi phí tổ chức hội nghị. Qua kiểm soát, Kho bạc phát hiện khoản chi tiền ăn và thuê phòng nghỉ cho đại biểu đã vượt quá định mức chi tiêu hiện hành do Hội đồng nhân dân tỉnh quy định. Do đó, Kho bạc đã từ chối thanh toán khoản chi vượt định mức này. Chủ tịch Ủy ban nhân dân xã ca liền lập luận: Ngân sách xã do Hội đồng nhân dân xã quyết định, tài khoản của xã hiện vẫn đang còn tiền, nên Kho bạc không có quyền từ chối xuất quỹ.
+Người 2: Chà, tình huống này căng thẳng thật! Chủ tịch xã nói cũng có lý, tài khoản của xã mình, mình có tiền thì mình tiêu chứ tại sao Kho bạc lại giữ lại ạ?
+Người 1: Vậy theo các em, hành động từ chối thanh toán của Kho bạc là đúng hay sai? Lập luận của Chủ tịch Ủy ban nhân dân xã ca có vi phạm Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm không? Và hướng xử lý đối với khoản chi sai định mức này ra sao?
+
+Slide 15: Lời giải bài tập tình huống tiết 6 (Tình huống 2)
+Người 1: Chúng ta cùng xem đáp án trên slide cuối cùng, slide mười lăm. Kết luận là: Hành động của Kho bạc là đúng, còn lập luận của Chủ tịch xã ca là sai và vi phạm pháp luật.
+Người 2: Ôi, Kho bạc làm đúng ạ? Cơ sở pháp lý ở đâu vậy cô?
+Người 1: Dựa theo khoản bốn Điều tám và điểm bê khoản hai Điều mười hai của Luật Ngân sách nhà nước năm hai không trăm hai mươi lăm, điều kiện bắt buộc để thực hiện khoản chi thường xuyên là phải bảo đảm đúng chế độ, tiêu chuẩn, định mức chi do cơ quan có thẩm quyền quy định. Thêm vào đó, khoản bốn Điều năm mươi tám cũng quy định rõ Kho bạc Nhà nước chỉ thực hiện chi khi các khoản chi đáp ứng đủ điều kiện theo Điều mười hai. Việc từ chối thanh toán khoản chi sai định mức chính là quyền hạn và trách nhiệm kiểm soát chi của Kho bạc. Kho bạc kiểm soát dòng tiền rất chặt chẽ chứ không phải cứ có tiền trong tài khoản là được chi đâu em!
+Người 2: Vậy lỡ ăn uống, thuê phòng xong xuôi hết rồi mà Kho bạc không xuất tiền thì ai sẽ phải trả khoản nợ này hả cô?
+Người 1: Đây chính là bài học đắt giá về trách nhiệm giải trình và pháp lý! Theo khoản mười bốn Điều ba mươi hai, Chủ tịch Ủy ban nhân dân cấp xã phải chịu trách nhiệm toàn diện về những sai sót, sai phạm trong quản lý tài chính. Ngân sách nhà nước sẽ kiên quyết xuất toán khoản chi vượt định mức này. Người ra quyết định chi sai, ở đây là Chủ tịch xã hoặc cá nhân liên quan, phải tự chịu trách nhiệm bồi hoàn phần kinh phí lãng phí, sai chế độ bằng tiền cá nhân, và tuyệt đối không được phép dùng ngân sách xã để thanh toán. Qua đó, chúng ta thấy kỷ luật tài chính công luôn phải được đặt lên hàng đầu.
+
