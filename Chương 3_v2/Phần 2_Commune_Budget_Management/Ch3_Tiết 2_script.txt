@@ -1,0 +1,85 @@
+﻿Slide 1: Chương 3: Quản lý ngân sách xã (Tiết 2 phần 3) - Phạm vi Chi Ngân sách xã và Nguyên tắc quản lý
+Người 1: Chào các em. Hôm nay chúng ta tiếp tục với Học phần Quản lý Tài chính công, do Thạc sĩ Nguyễn Đào Xuân từ Học viện Hành chính và Quản trị công phụ trách. Chúng ta sẽ bước sang Tiết hai của Chương ba, đi sâu vào Phạm vi Chi Ngân sách xã và Nguyên tắc quản lý.
+Người 2: Dạ thưa cô, ở tiết trước chúng ta đã tìm hiểu tổng quan rồi, vậy hôm nay chúng ta sẽ xem xét cụ thể việc cấp xã tiêu tiền vào những việc gì và phải tuân thủ luật chơi như thế nào đúng không ạ?
+Người 1: Chính xác! Việc chi tiêu ở cấp xã không phải cứ có tiền là chi, mà phải theo những khuôn khổ pháp lý rất chặt chẽ. Chúng ta cùng bắt đầu bài học để xem "luật chơi" đó cụ thể là gì nhé.
+
+Slide 2: 3.1.2.2 Quy định thẩm quyền và nguyên tắc phân cấp nhiệm vụ chi (Tiết 2 phần 3)
+Người 1: Các em nhìn lên slide số hai. Cơ quan nào có thẩm quyền quyết định việc phân cấp nhiệm vụ chi giữa ngân sách tỉnh và ngân sách xã? Đó chính là Hội đồng nhân dân cấp tỉnh. Tiêu chí để phân cấp phải phù hợp với năng lực quản lý kinh tế, xã hội, quốc phòng và an ninh của từng địa phương.
+Người 2: Em thấy trên slide có ghi "Nguyên tắc cốt lõi: Nhiệm vụ chi thuộc ngân sách cấp nào do ngân sách cấp đó bảo đảm". Có phải hiểu đơn giản là "tỉnh làm đường của tỉnh thì tỉnh trả tiền, xã xây chợ của xã thì xã tự lo" không cô?
+Người 1: Em lấy ví dụ rất chuẩn. Cấp nào quản lý nhiệm vụ đó thì phải dùng ngân sách của cấp mình để chi trả, không được ỷ lại hay đùn đẩy. Ngoài ra, còn một yêu cầu cân đối rất quan trọng ở cuối slide: Nếu nhà nước ban hành một chính sách mới làm tăng chi ngân sách, thì bắt buộc phải có giải pháp bảo đảm nguồn tài chính để thực hiện, sao cho phù hợp với khả năng cân đối của từng cấp. Tuyệt đối không có chuyện "vẽ ra chính sách nhưng lại để túi tiền trống rỗng".
+
+Slide 3: 3.1.2.2 Các trường hợp ngoại lệ trong nguyên tắc phân cấp chi
+Người 2: Nhưng thưa cô, trong thực tế có những tình huống khẩn cấp, chẳng hạn như bão lũ làm sập cầu của tỉnh nằm trên địa bàn xã. Xã có được phép bỏ tiền ra sửa trước không, hay cứ phải chờ tỉnh mang tiền xuống ạ? Em thấy slide ba có nhắc đến "Ba ngoại lệ".
+Người 1: Tình huống em nêu chính là một trong ba ngoại lệ được pháp luật cho phép đấy! Dù áp dụng nguyên tắc "cấp nào bảo đảm cấp đó", nhưng luật vẫn rất linh hoạt. Ngoại lệ thứ nhất là Khắc phục khẩn cấp: Ngân sách cấp dưới được phép hỗ trợ đơn vị cấp trên đóng trên địa bàn để huy động lực lượng khắc phục thiên tai, dịch bệnh hoặc an ninh trật tự.
+Người 2: Vậy còn "Hỗ trợ chéo" và "Đầu tư hạ tầng" là như thế nào ạ?
+Người 1: Hỗ trợ chéo là việc sử dụng dự phòng ngân sách của địa phương này để cứu trợ địa phương khác, ví dụ xã A trích dự phòng mua lương thực ủng hộ xã B đang bị ngập lụt. Còn ngoại lệ thứ ba, Đầu tư hạ tầng, là việc xã được phép dùng vốn đầu tư phát triển của mình để góp vào dự án hạ tầng của cấp trên. Chẳng hạn, tỉnh làm một con đường lớn chạy qua xã, xã thấy đường này sẽ giúp bà con buôn bán tốt hơn nên xin tự nguyện đóng góp một phần vốn. Tuy nhiên, điều kiện bắt buộc là xã phải bảo đảm khả năng cân đối tài chính và tuyệt đối không được làm ảnh hưởng đến các nhiệm vụ chi chính của xã mình.
+
+Slide 4: 3.1.2.2 Phân loại hạng mục chi đầu tư phát triển của ngân sách xã
+Người 1: Bây giờ chúng ta sang slide số bốn để xem xét loại chi đầu tiên: Chi đầu tư phát triển. Đây là những khoản chi nhằm xây dựng hạ tầng và phát triển kinh tế địa phương. Khoản lớn nhất là Đầu tư dự án, tức là xây dựng các công trình công cộng như trường mầm non, trạm y tế hay đường liên thôn theo Luật Đầu tư công.
+Người 2: Em thấy mục thứ hai ghi là "Hỗ trợ doanh nghiệp". Ngân sách xã eo hẹp thế mà cũng được mang tiền đi hỗ trợ doanh nghiệp kinh doanh sao cô?
+Người 1: À, không phải hỗ trợ bất kỳ doanh nghiệp nào đâu em. Đây là hỗ trợ vốn cho các doanh nghiệp cung cấp sản phẩm, dịch vụ công ích thiết yếu do Nhà nước đặt hàng. Cô lấy ví dụ, xã đặt hàng một hợp tác xã hoặc doanh nghiệp chuyên thu gom, xử lý rác thải sinh hoạt cho toàn bộ bà con trong xã, thì xã sẽ dùng khoản chi này để hỗ trợ họ.
+Người 2: Dạ em hiểu rồi. Còn "Hỗ trợ tài chính" chắc là liên quan đến ngân hàng đúng không ạ?
+Người 1: Đúng vậy. Xã có thể dùng tiền để cấp bù chênh lệch lãi suất hoặc trả phí quản lý ủy thác cho Ngân hàng chính sách xã hội. Nhờ khoản chi này của xã, những hộ nông dân nghèo hoặc thanh niên khởi nghiệp mới có thể vay vốn với lãi suất cực kỳ thấp để chăn nuôi, trồng trọt, phát triển kinh tế gia đình.
+
+Slide 5: 3.1.2.2 Phân loại phạm vi chi thường xuyên của ngân sách xã
+Người 1: Nếu chi đầu tư phát triển là để xây đắp nền móng lâu dài, thì ở slide số năm, Chi thường xuyên lại là khoản tiền để duy trì "hơi thở" hoạt động mỗi ngày của cấp xã. Nó được chia thành bốn nhóm chính. Nhóm một là duy trì Bộ máy nhà nước và Đoàn thể, bao gồm trả lương, phụ cấp cho cán bộ Ủy ban nhân dân, Hội phụ nữ, Đoàn thanh niên.
+Người 2: Nhóm hai và ba em thấy ghi là Giáo dục, Y tế, Quốc phòng, an ninh và Môi trường. Vậy tiền mua thuốc men cho trạm y tế xã hay tiền trả cho đội dân quân tự vệ đi tuần tra ban đêm cũng nằm ở đây đúng không cô?
+Người 1: Hoàn toàn chính xác. Bên cạnh đó còn có chi phí để tổ chức các lớp dạy nghề ngắn hạn cho lao động nông thôn, hay tiền nạo vét cống rãnh, bảo vệ nguồn nước sạch. Và cuối cùng là nhóm An sinh xã hội và Kinh tế. Nhóm này lo những việc vô cùng thiết thực như cứu đói giáp hạt, cấp tiền cho các cơ sở bảo trợ trẻ mồ côi, và đặc biệt là chi sự nghiệp nông nghiệp để duy trì phong trào xây dựng Nông thôn mới tại địa phương.
+Người 2: Nghe cô phân tích qua các ví dụ, em mới thấy túi tiền ngân sách xã tuy nhỏ nhưng phải chia năm xẻ bảy để lo cho đủ mọi mặt đời sống của người dân ở cơ sở.
+Người 1: Đúng vậy em. Để quản lý tốt "túi tiền" này, chúng ta cần những hệ thống công cụ và nguyên tắc bài bản. Chúng ta sẽ cùng tìm hiểu hệ thống đó ở các slide tiếp theo nhé.
+
+Slide 6: 3.2.1 Khái niệm cấu thành hệ thống Quản lý ngân sách xã
+Người 1: Chuyển sang slide số sáu, chúng ta sẽ làm quen với khái niệm cấu thành hệ thống Quản lý ngân sách xã. Hệ thống này bao gồm ba mắt xích chính: thứ nhất là Chủ thể và công cụ, thứ hai là Điều khiển hoạt động, và cuối cùng là Mục tiêu kinh tế xã hội.
+Người 2: Chủ thể ở đây có phải là chính quyền cấp xã, cụ thể là Ủy ban nhân dân không cô?
+Người 1: Đúng rồi em. Chủ thể quản lý sẽ vận dụng các phương pháp và công cụ quản lý tài chính để trực tiếp điều khiển các hoạt động thu và chi của ngân sách xã. Đích đến cuối cùng là nhằm đạt được các mục tiêu đã định ra trong kế hoạch phát triển kinh tế, xã hội của địa phương. Giống như một người nhạc trưởng dùng đũa chỉ huy để cả dàn nhạc cùng tấu lên một bản nhạc hoàn chỉnh vậy.
+
+Slide 7: 3.2.2 Nguyên tắc cơ bản trong quản lý ngân sách xã (Phần 1)
+Người 1: Để hệ thống đó chạy trơn tru, chúng ta phải tuân thủ những nguyên tắc cơ bản. Mời các em nhìn lên slide số bảy. Nguyên tắc đầu tiên là Quản lý thống nhất: ngân sách xã phải được quản lý một cách thống nhất, bảo đảm tính tập trung dân chủ, công khai, minh bạch và công bằng. Kế tiếp là nguyên tắc phân cấp gắn với trách nhiệm, nghĩa là phải có phân công, phân cấp quản lý rõ ràng, gắn quyền hạn với trách nhiệm của từng cơ quan quản lý nhà nước ở các cấp.
+Người 2: Em thấy có nguyên tắc cuối cùng là "Bắt buộc lập dự toán". Vậy giả sử có một tổ chức đột nhiên tài trợ cho xã một khoản tiền, hoặc có khoản chi phát sinh ngoài kế hoạch thì xã có được tự ý thu chi không ạ?
+Người 1: Nguyên tắc bất di bất dịch là toàn bộ các khoản thu và chi của ngân sách xã đều phải được lập dự toán và tổng hợp đầy đủ vào Ngân sách Nhà nước. Mọi khoản phát sinh đều phải tuân thủ quy trình lập và bổ sung dự toán, tuyệt đối không được phép thu chi tùy tiện hay lập "quỹ đen".
+
+Slide 8: 3.2.2 Nguyên tắc tuân thủ pháp luật và định mức thu chi (Phần 2)
+Người 1: Nói về sự chặt chẽ, slide số tám sẽ cho thấy nguyên tắc tuân thủ pháp luật và định mức thu chi. Đối với các khoản thu, xã bắt buộc phải thực hiện theo đúng quy định của các luật về thuế, phí, lệ phí và các khoản thu khác theo pháp luật hiện hành.
+Người 2: Thế còn đối với những khoản chi thì sao cô?
+Người 1: Đối với khoản chi, chỉ được phép thực hiện khi đã có dự toán được cấp có thẩm quyền giao. Tất nhiên, luật vẫn rất linh hoạt khi cho phép một ngoại lệ là được "tạm cấp" ngân sách trong các trường hợp cấp thiết theo Điều năm mươi ba của Luật Ngân sách Nhà nước năm hai nghìn không trăm hai mươi lăm. Ngoài ra, mọi khoản chi phải luôn tuân thủ định mức, bảo đảm đúng chế độ, tiêu chuẩn do cơ quan nhà nước có thẩm quyền ban hành.
+Người 2: Tuân thủ định mức nghĩa là, ví dụ nhà nước quy định tiêu chuẩn mua máy in cho Ủy ban xã tối đa là năm triệu, thì dù kho bạc xã còn thừa tiền cũng không được mua cái máy sáu triệu phải không cô?
+Người 1: Em lấy ví dụ rất đúng. Tuân thủ định mức là để đảm bảo sự công bằng và chống lãng phí trong chi tiêu công.
+
+Slide 9: 3.2.2 Định hướng ưu tiên chi đầu tư phát triển (Phần 3)
+Người 1: Vậy với "túi tiền" có hạn, chính quyền xã sẽ ưu tiên tiêu vào đâu trước? Slide số chín sẽ giải đáp điều này. Định hướng ưu tiên cốt lõi của nhà nước là luôn bảo đảm ưu tiên bố trí ngân sách cho chi đầu tư phát triển.
+Người 2: Dạ, em thấy trên slide liệt kê khá nhiều lĩnh vực được ưu tiên như: phát triển kinh tế, giáo dục, đào tạo, rồi đến mảng khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.
+Người 1: Rất tinh mắt! Bên cạnh đó, chúng ta còn phải đặc biệt ưu tiên cho mục tiêu giảm nghèo bền vững, phát triển nông nghiệp, nông thôn, y tế, cũng như các chính sách dân tộc và bình đẳng giới. Việc dồn lực đầu tư vào những lĩnh vực này chính là cách "gieo hạt" để xây dựng nền móng phát triển lâu dài, nâng cao đời sống người dân, chứ không đơn thuần chỉ là tiêu xài trước mắt.
+
+Slide 10: 3.2.2 Nguyên tắc bảo đảm kinh phí bộ máy và an sinh (Phần 4)
+Người 1: Dù ưu tiên cho đầu tư phát triển, slide số mười nhắc nhở chúng ta rằng ngân sách còn phải làm tốt nhiệm vụ bảo đảm kinh phí cho bộ máy và an sinh xã hội. Cụ thể là phải bố trí ngân sách cho các hoạt động toàn diện nhằm thực hiện nhiệm vụ phát triển kinh tế xã hội, quốc phòng, an ninh, đối ngoại và duy trì kinh phí hoạt động cho bộ máy nhà nước.
+Người 2: Em thấy xã còn phải lo cho các đoàn thể nữa đúng không cô? Trên slide có ghi là bảo đảm cân đối kinh phí cho Đảng ủy xã và cơ quan Mặt trận Tổ quốc Việt Nam tại xã.
+Người 1: Chính xác em ạ. Không chỉ Đảng ủy hay Mặt trận Tổ quốc, mà các tổ chức chính trị, xã hội trực thuộc cũng phải được cấp kinh phí duy trì hoạt động. Cuối cùng, một mảng không thể thiếu là hỗ trợ xã hội, tức là cấp kinh phí để các tổ chức xã hội có thể thực hiện những nhiệm vụ do Nhà nước giao phó. Có như vậy, hệ thống chính trị và an sinh xã hội ở cấp cơ sở mới vận hành đồng bộ và hiệu quả được.
+
+Slide 11: 3.1.2.2 Chi tiết chi thường xuyên: Hoạt động Kinh tế và Môi trường
+Người 1: Chúng ta tiếp tục lật mở "túi tiền" chi thường xuyên của xã qua slide số mười một nhé. Ở mảng Hoạt động Kinh tế và Môi trường, khoản chi này gắn liền với chất lượng sống hàng ngày của người dân. Đầu tiên là sự nghiệp bảo vệ môi trường: tiền để trả cho các xe thu gom rác, xử lý nước thải sinh hoạt, hay các hoạt động ứng phó với biến đổi khí hậu ở địa phương đều lấy từ đây.
+Người 2: Em thấy có cả mục Nông nghiệp và Phát triển nông thôn. Chắc hẳn đây là khoản chi rất lớn đối với các xã nông nghiệp phải không cô?
+Người 1: Đúng vậy em. Khoản này ưu tiên đặc biệt cho chương trình xây dựng Nông thôn mới, ví dụ như tiền mua giống cây trồng mới hỗ trợ bà con, hay làm hệ thống thủy lợi nội đồng. Ngoài ra, không thể không nhắc đến chi Giao thông và Kiến thiết thị chính. Đó là tiền để xã đổ bê tông vá lại những đoạn đường liên thôn bị hỏng, thay bóng đèn đường bị cháy, hay nạo vét cống rãnh trước mùa mưa bão.
+
+Slide 12: 3.1.2.2 Chi tiết chi thường xuyên: Quản lý nhà nước và An sinh xã hội
+Người 1: Sang slide mười hai, chúng ta bàn về hai lĩnh vực mang tính nhân văn và nền tảng của chính quyền cơ sở: Quản lý nhà nước và An sinh xã hội. Về quản lý nhà nước, ngân sách bảo đảm trả lương và kinh phí hoạt động cho các tổ chức xã hội được nhà nước giao nhiệm vụ cụ thể tại địa phương.
+Người 2: Thế còn mảng An sinh xã hội thì sao ạ? Nghe tên thì lớn lao nhưng cụ thể ở cấp xã thì họ chi cho những việc gì cô nhỉ?
+Người 1: Gần gũi lắm em ạ. Đó là tiền mua gạo cứu đói cho những hộ nghèo trong kỳ giáp hạt, tiền hỗ trợ các cơ sở bảo trợ xã hội chăm sóc người già neo đơn, trẻ mồ côi trên địa bàn, hoặc chi cho công tác phòng chống tệ nạn ma túy. Đặc biệt, xã còn có khoản chi để hỗ trợ một phần tiền đóng bảo hiểm xã hội tự nguyện, giúp những người làm nông nghiệp, lao động tự do có cơ hội nhận lương hưu khi về già.
+
+Slide 13: 3.1.2.2 Các nhiệm vụ chi khác theo quy định pháp luật
+Người 2: Vậy tóm lại, ngân sách xã chỉ chi cho hai việc lớn là đầu tư phát triển và chi thường xuyên thôi đúng không cô?
+Người 1: Chưa đủ đâu em! Các em nhìn lên slide mười ba, tùy theo quy định phân cấp, ngân sách xã còn phải gánh thêm bốn "nhiệm vụ chi khác". Thứ nhất, nếu xã có đi vay theo quy định, thì phải chi trả nợ lãi và phí vay. Thứ hai là chi trích lập, bổ sung vào quỹ dự trữ tài chính của địa phương để phòng khi bất trắc.
+Người 2: Mục thứ ba là "Chi chuyển nguồn sang năm sau", cái này hiểu sao cho đúng ạ?
+Người 1: Cô lấy ví dụ, cuối năm xã được cấp tiền để sửa trạm y tế, nhưng vì mưa bão liên miên nên thợ không thi công xong được. Khoản tiền đó chưa tiêu hết sẽ được làm thủ tục "chuyển nguồn" sang năm sau để tiếp tục trả cho nhà thầu. Và nhiệm vụ cuối cùng là chi nộp trả ngân sách cấp trên, thường xảy ra khi xã được cấp trên tạm ứng tiền nhưng cuối năm không dùng hết, hoặc bị thu hồi do chi sai mục đích.
+
+Slide 14: Bài tập tình huống phân tích pháp lý (Kết thúc Tiết 2)
+Người 1: Để xem nãy giờ các em nắm luật lệ quản lý ngân sách vững đến đâu, chúng ta cùng làm một bài tập tình huống thực tế trên slide mười bốn nhé. Tình huống thế này: Có một tuyến đường liên tỉnh, tức là đường thuộc trách nhiệm quản lý và cấp vốn của Ngân sách Tỉnh, chạy qua địa bàn Xã B. Mưa bão làm đường bị sạt lở nặng, đi lại rất nguy hiểm.
+Người 2: Tình huống này quen quen, hình như lúc nãy cô có nhắc đến ở phần ngoại lệ đúng không ạ?
+Người 1: Đúng rồi, nhưng hãy nghe kỹ cách xử lý của Chủ tịch xã B nhé. Thấy đường hỏng nguy hiểm quá, Chủ tịch Ủy ban nhân dân Xã B lập tức quyết định cắt một phần tiền từ nguồn "chi thường xuyên" của xã để tự thuê thợ về sửa chữa lớn tuyến đường này. Giờ cô có hai câu hỏi cho các em thảo luận: Một, việc Chủ tịch xã lấy tiền chi thường xuyên để sửa đường của Tỉnh có vi phạm nguyên tắc quản lý ngân sách không? Và hai, theo luật, ngân sách xã chỉ được phép hỗ trợ xây công trình của cấp trên trong điều kiện nào?
+
+Slide 15: Giải đáp Bài tập tình huống: Chẩn đoán pháp lý
+Người 1: Chắc hẳn các em đã có câu trả lời. Chúng ta cùng xem đáp án "chẩn đoán pháp lý" trên slide mười lăm. Về câu hỏi thứ nhất: Quyết định của Chủ tịch xã B là hoàn toàn sai, đã vi phạm nghiêm trọng nguyên tắc phân cấp chi.
+Người 2: Có phải vì ông ấy đã vi phạm nguyên tắc "Nhiệm vụ chi thuộc cấp nào do cấp đó bảo đảm" không cô? Đường của Tỉnh thì Tỉnh phải chi tiền sửa.
+Người 1: Đúng vậy! Nhưng cái sai lớn nhất ở đây là ông ấy đã lấy sai nguồn tiền. Nếu muốn áp dụng trường hợp "Ngoại lệ" để hỗ trợ cấp trên, thì Xã B chỉ được phép dùng nguồn vốn "Đầu tư phát triển", tuyệt đối không được phép xén bớt nguồn "Chi thường xuyên" - vốn là tiền để trả lương, khám chữa bệnh hay dọn rác của xã.
+Người 2: Ra là vậy. Thế hướng giải quyết đúng đắn nhất trong tình huống cấp bách này là gì thưa cô?
+Người 1: Hướng giải quyết đúng luật là Xã B phải làm báo cáo khẩn cấp lên tuyến trên để Tỉnh tự xuất quỹ sửa chữa, hoặc Tỉnh sẽ ủy quyền xuống cho xã kèm theo quyết định giao dự toán kinh phí để xã làm thay. Nếu xã muốn tự nguyện bỏ tiền túi ra đóng góp, thì phải trích từ vốn đầu tư phát triển, và phải chứng minh được việc bỏ tiền ra sửa đường cho tỉnh không làm ảnh hưởng đến các nhiệm vụ chi quan trọng khác của xã mình. Tóm lại, quản lý tài chính công không có chỗ cho sự tùy hứng, dù mục đích là tốt đẹp. Và đây cũng là nội dung khép lại Tiết học thứ hai của chúng ta!
+
