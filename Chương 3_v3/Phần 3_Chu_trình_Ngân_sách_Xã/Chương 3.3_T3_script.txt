@@ -1,0 +1,56 @@
+﻿Slide 1: Tiết 3/3: Hoàn Thiện Chu Trình Ngân Sách Xã
+Người 1: Chào các bạn. Hôm nay chúng ta sẽ bước vào Tiết học thứ ba, cũng là tiết cuối cùng của Chương ba về Quản lý Ngân sách cấp xã. Chủ đề của chúng ta hôm nay là: Hoàn thiện chu trình ngân sách xã. Như các bạn thấy trên slide, nội dung chính sẽ xoay quanh ba vấn đề: Chấp hành chi, Quyết toán và Trách nhiệm thể chế.
+Người 2: Dạ thưa cô, ở các bài học trước, chúng ta đã tìm hiểu cách xã lên kế hoạch thu tiền và dự toán rồi. Vậy "chấp hành chi" có phải là lúc xã bắt đầu... tiêu tiền không ạ? Nhưng tại sao tiêu tiền lại cần cả một chu trình phức tạp thế cô?
+Người 1: Em hiểu đúng phần cốt lõi rồi đấy! "Chấp hành chi" chính là việc thực hiện tiêu tiền. Tuy nhiên, tiền của nhà nước không giống như tiền trong ví cá nhân. Việc xuất quỹ phải tuân thủ pháp luật nghiêm ngặt, chi đúng mục đích, chốt sổ sách rõ ràng và cuối cùng là phải có người chịu trách nhiệm giải trình. Đó là lý do chúng ta cần tìm hiểu kỹ giai đoạn cuối cùng này.
+
+Slide 2: Lộ Trình Hoạt Động Của Giai Đoạn Cuối
+Người 1: Để hoàn thành chu trình, chúng ta hãy nhìn vào lộ trình ba bước trên slide 2. Trạm đầu tiên là Tổ chức chi ngân sách, nơi chúng ta làm rõ các quy định, hình thức xuất quỹ và cách xử lý khi gặp sự cố. Trạm thứ hai là Khóa sổ và Quyết toán, giải quyết bài toán chênh lệch tiền bạc và chốt sổ cuối năm. Cuối cùng, trạm thứ ba là Trách nhiệm thể chế, tức là thẩm quyền quyết định và báo cáo của Ủy ban Nhân dân cấp xã.
+Người 2: Nhìn các biểu tượng trên slide thì em thấy rất dễ nhớ: cái ví tiền là lúc xuất chi, quyển sổ tích dấu V là lúc khóa sổ quyết toán, còn cây búa của tòa án là lúc quy trách nhiệm giải trình. Hôm nay chúng ta sẽ đi theo đúng trình tự này phải không cô?
+Người 1: Tuyệt vời, em liên tưởng rất trực quan. Và bây giờ, chúng ta sẽ bước ngay vào trạm dừng chân đầu tiên: Tổ chức xuất ví tiền ngân sách như thế nào.
+
+Slide 3: Yêu Cầu Tổ Chức Chi Ngân Sách Xã
+Người 1: Các em nhìn lên slide 3, việc xuất tiền từ Kho bạc Nhà nước được quản lý qua ba khối yêu cầu rất chặt chẽ. Khối thứ nhất là Chi thường xuyên, mang tính cố định. Ví dụ như chi trả tiền lương cho cán bộ xã, hay chi phụ cấp, trợ cấp xã hội. Các khoản này cứ căn cứ theo dự toán và tiến độ thực hiện hằng tháng mà xuất quỹ. Khối thứ hai là Chi đầu tư và biến động, thường là các dự án xây dựng hạ tầng, không phát sinh thường xuyên.
+Người 2: Em hiểu rồi, ví dụ như xã xây một trạm y tế hay làm một con đường bêtông liên thôn thì sẽ thuộc nhóm thứ hai đúng không ạ? Nhưng làm sao để tránh việc nhà thầu nhận tiền xong lại thi công chậm tiến độ cô nhỉ?
+Người 1: Đó là lý do pháp luật quy định tiến độ chi của nhóm này là thanh toán theo khối lượng và tiến độ thực tế. Tức là anh làm xong phần móng, tôi nghiệm thu thì mới trả tiền phần móng. Khối thứ ba cực kỳ quan trọng, đó là Chế tài tuân thủ. Nếu một đơn vị không chịu nộp báo cáo quyết toán đúng hạn, cơ quan tài chính sẽ yêu cầu Kho bạc Nhà nước tạm đình chỉ chi tiền ngay lập tức.
+Người 2: Tạm đình chỉ luôn ạ? Nhỡ xã đang cần tiền gấp để trả lương hoặc khắc phục bão lụt thì cũng bị khóa tài khoản sao cô?
+Người 1: Không em. Pháp luật rất nghiêm minh nhưng cũng có tính nhân đạo. Lệnh đình chỉ chi này sẽ ngoại trừ các khoản chi thiết yếu, bao gồm: chi lương, chi trợ cấp xã hội và chi khắc phục thiên tai.
+
+Slide 4: Hình Thức Chi & Bổ Sung Ngân Sách
+Người 1: Sang slide 4, chúng ta sẽ tìm hiểu về cách thức lấy tiền ra. Hiện nay có hai Hình thức chi tiêu phổ biến: Một là rút dự toán, hai là lập lệnh chi tiền. Nhưng hãy chú ý phần tô màu xám: Yêu cầu tiên quyết là khoản tiền đó bắt buộc phải có trong dự toán đã được duyệt từ đầu năm, và phải có quyết định bằng văn bản của thủ trưởng đơn vị. Không có chuyện tự ý xuất tiền mua sắm ngoài danh mục đã đăng ký.
+Người 2: Dạ, quy định rất chặt chẽ. Nhưng giả sử dự toán đầu năm được duyệt ít quá, giữa chừng xã hết tiền thì có phải "bó tay" không cô?
+Người 1: Đừng lo, chúng ta có Quy trình chi bổ sung từ cấp trên ở ngay phía dưới. Cơ quan tài chính cấp xã có thể làm thủ tục rút dự toán tại Kho bạc Nhà nước. Định mức được rút thêm sẽ do Ủy ban Nhân dân cấp tỉnh quy định, nhằm bổ sung cân đối hàng tháng hoặc bổ sung cho một mục tiêu cụ thể, đảm bảo luôn phù hợp với tình hình thiếu hụt thực tế của địa phương.
+
+Slide 5: Ma Trận Xử Lý Tình Huống Ngân Sách
+Người 1: Trên thực tế, thu chi hiếm khi diễn ra hoàn hảo êm đẹp. Do đó, ngân sách cần một công cụ gọi là Ma trận xử lý tình huống như ở slide 5. Chúng ta có ba tình huống kinh điển. Tình huống 1: Thiếu hụt tạm thời. Nguồn lực xử lý là xin tạm ứng từ ngân sách cấp tỉnh hoặc Quỹ dự trữ tài chính. Nguyên tắc ở đây là "có vay có trả", khoản này bắt buộc phải hoàn trả trong vòng mười hai tháng.
+Người 2: Dạ, giống như mình tạm ứng lương thì cuối năm phải bù lại đúng không ạ. Vậy tình huống thứ hai, Biến động thu chi thì sao cô? Nếu thu không đủ chỉ tiêu thì mình giải quyết thế nào?
+Người 1: Nếu hụt thu, xã bắt buộc phải giảm chi tiêu lại hoặc dùng đến quỹ dự trữ. Ngược lại, nếu năm đó kinh tế tốt, xã tăng thu được nhiều, thì phần dôi dư sẽ được tăng vào dự phòng. Nếu có kết dư, nguyên tắc là phải ưu tiên dùng cho cải cách tiền lương, đầu tư các dự án quan trọng hoặc làm an sinh xã hội.
+Người 2: Em hiểu rồi ạ. Còn tình huống cuối cùng là Chi đột xuất do thiên tai, dịch bệnh. Ở nước ta năm nào cũng có bão lụt, vậy xã lấy tiền từ đâu để phản ứng nhanh ạ? Xin tỉnh cấp xuống thì lâu quá.
+Người 1: Khi đó, xã sẽ sử dụng Dự phòng Ngân sách, một khoản tiền thường được để dành sẵn từ hai đến năm phần trăm tổng chi. Nguyên tắc xử lý tình huống này là trao quyền chủ động: Ủy ban Nhân dân xã toàn quyền quyết định việc xuất quỹ để cứu trợ nhanh chóng, nhưng sau khi xong việc, bắt buộc phải báo cáo lên Hội đồng Nhân dân xã để giám sát minh bạch.
+
+Slide 6: Quyết Toán: Nguyên Tắc Xử Lý Sai Lệch
+Người 1: Chào mừng các bạn quay trở lại. Chúng ta vừa đi qua trạm thứ nhất là "Tổ chức chi". Bây giờ, hãy cùng bước sang trạm thứ hai: Khóa sổ và Quyết toán. Nhìn vào slide số sáu, trọng tâm của giai đoạn này là công tác "Kiểm kê quyết toán", tức là rà soát lại toàn bộ dòng tiền thu chi cuối năm. Pháp luật quy định bốn hướng xử lý rất rạch ròi nếu phát hiện sai lệch.
+Người 2: Dạ, rà soát cuối năm thì không tránh khỏi việc phát hiện sai sót. Ví dụ như xã lỡ thu sai tiền của dân, hay chi nhầm tiền cho nhà thầu thì mình xử lý sao cho đúng luật ạ?
+Người 1: Rất thực tế! Hướng thứ nhất: Nếu thu sai quy định, ví dụ xã lỡ thu thừa tiền lệ phí chứng thực của người dân, thì bắt buộc phải hoàn trả lại cho họ. Hướng thứ hai: Nếu có nợ thu ngân sách, ví dụ một hộ kinh doanh còn nợ thuế đất, xã phải lập tức truy thu đầy đủ vào ngân sách. Hướng thứ ba: Nếu chi sai quy định, chẳng hạn như thanh toán dư tiền cho đội thi công đường mương, thì bắt buộc phải thu hồi đầy đủ số tiền đó về cho kho bạc. Và cuối cùng, hướng thứ tư: Nếu có khoản tiền phải nộp trả lên ngân sách cấp trên thì phải tiến hành nộp trả kịp thời, không được giữ lại dùng cho việc khác.
+
+Slide 7: Khung Thời Gian Khóa Sổ & Chỉnh Lý Quyết Toán
+Người 1: Việc chốt sổ sách này không thể kéo dài mãi được, mà phải tuân theo một khung thời gian cực kỳ nghiêm ngặt trên slide số bảy. Mốc đầu tiên là ngày ba mươi mốt tháng mười hai của năm trước, chúng ta phải kết thúc năm ngân sách và tiến hành khóa sổ kế toán.
+Người 2: Em thấy sau khi khóa sổ xong, từ ngày mùng một tháng một đến ngày ba mươi mốt tháng một năm nay, lại có một khoảng gọi là "thời gian chỉnh lý". Khoảng thời gian một tháng này dùng để làm gì thưa cô?
+Người 1: Đó là khoảng thời gian "vàng" để kế toán xã tổng hợp số liệu trên sổ sách và chỉnh lý lại các hạch toán cho chuẩn xác trước khi chốt hạ. Đến hết ngày ba mươi mốt tháng một, thời gian chỉnh lý chính thức kết thúc. Và các em đặc biệt lưu ý dòng chữ đỏ cuối slide: Mọi khoản tiền trong dự toán mà chưa thực hiện hoặc chưa chi hết sẽ bị hủy bỏ hoàn toàn.
+Người 2: Ồ, giống như voucher hết hạn sử dụng đúng không ạ? Tiền chưa tiêu hết là bị thu hồi luôn sao cô?
+Người 1: Chính xác, trừ một vài trường hợp đặc biệt được pháp luật cho phép "chuyển nguồn" sang năm sau, còn lại nếu anh không tiêu hết theo dự toán, anh sẽ mất quyền sử dụng khoản tiền đó.
+
+Slide 8: Xử Lý Kết Dư & Sai Phạm Sau Quyết Toán
+Người 1: Vậy sau khi trừ đi tất cả, nếu trong kho bạc vẫn còn dư tiền thì sao? Slide số tám sẽ cho chúng ta biết cách xử lý. Theo Điều bảy mươi bốn, Luật Ngân sách Nhà nước hai không hai mươi lăm, ta có công thức tính bằng lời như sau: Tổng thu ngân sách, trừ đi tổng chi ngân sách, sẽ bằng Kết dư.
+Người 2: Tức là xã làm ăn giỏi, thu được nhiều tiền thuế phí hơn số tiền chi ra thì sẽ có phần kết dư. Khoản dư này xã có được tự ý chia nhau hay đem đi liên hoan cuối năm không cô?
+Người 1: Tuyệt đối không em nhé! Hướng xử lý bắt buộc là: Toàn bộ số tiền kết dư của ngân sách cấp xã phải được hạch toán chuyển thành thu ngân sách của năm tiếp theo. Bên cạnh đó, slide này cũng nhắc nhở về việc xử lý sai phạm sau phê chuẩn. Giả sử Hội đồng Nhân dân xã đã gõ búa phê chuẩn quyết toán xong xuôi, nhưng vài tháng sau thanh tra, kiểm toán nhà nước về kiểm tra lại phát hiện ra việc chi khống tiền xây nhà văn hóa thì sao? Khi đó, mọi cá nhân, tập thể liên quan sẽ bị xử lý nghiêm ngặt theo quy định tại khoản tám Điều bảy mươi ba của Luật Ngân sách hiện hành.
+
+Slide 9: Thẩm Quyền & Trách Nhiệm: UBND Cấp Xã
+Người 1: Tiền bạc đã chốt xong, vậy ai sẽ là người đứng mũi chịu sào? Chúng ta sang trạm cuối cùng ở slide chín: Thẩm quyền và Trách nhiệm. Đóng vai trò là cơ quan hành pháp, Ủy ban Nhân dân cấp xã có ba quyền hạn và trách nhiệm lớn nhất. Thứ nhất là giao nhiệm vụ thu chi chi tiết cho từng cơ quan bộ phận, đặc biệt phải làm rõ tiền chi cho các lĩnh vực như giáo dục, y tế hay chuyển đổi số.
+Người 2: Dạ, quyền thứ hai em thấy là điều chỉnh dự toán khi có biến động lớn. Còn quyền thứ ba là phân bổ chi tiết cho các khoản chưa được chia từ đầu năm đúng không ạ?
+Người 1: Rất đúng! Được giao quyền hạn lớn để điều hành dòng tiền, nhưng đi kèm với đó, Chủ tịch Ủy ban Nhân dân xã phải là người chịu trách nhiệm giải trình cuối cùng nếu để xảy ra thất thoát, tham nhũng trên địa bàn mình quản lý.
+
+Slide 10: Tổng Kết Chu Trình Ngân Sách Xã
+Người 1: Và để khép lại toàn bộ bài học, các em hãy nhìn vào vòng tròn trên slide mười. Đây chính là Tổng kết chu trình Ngân sách Xã. Các em có thể thấy nó là một vòng lặp khép kín, minh bạch, đảm bảo tính tự chủ và tuân thủ pháp luật.
+Người 2: Nhìn vào sơ đồ này thì bức tranh tổng thể thật sự rất dễ hiểu ạ. Giai đoạn một là lập dự toán - giống như lên kế hoạch đầu năm. Giai đoạn hai là chấp hành - tức là đi thu đúng, thu đủ và chi tiêu chuẩn mực. Cuối cùng, giai đoạn ba là khóa sổ, quyết toán - để báo cáo thành quả của cả một năm.
+Người 1: Em tổng kết rất sắc bén! Một chu trình tốt không chỉ giúp xã có đủ nguồn lực để xây điện, đường, trường, trạm, mà còn tạo ra niềm tin cho người dân. Và đó cũng là nội dung khép lại Tiết ba của Chương ba. Cảm ơn các bạn đã đồng hành và lắng nghe!
+

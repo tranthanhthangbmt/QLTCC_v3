@@ -1,0 +1,87 @@
+﻿Slide 1: CHƯƠNG 3: QUẢN LÝ NGÂN SÁCH XÃ - CHẤP HÀNH DỰ TOÁN NGÂN SÁCH XÃ (Tiết 2/3)
+Người 1: Chào các em. Hôm nay chúng ta sẽ bước sang tiết thứ hai của Chương ba, một nội dung vô cùng quan trọng mang tên: Chấp hành dự toán ngân sách xã. Các em hãy chú ý lên màn hình, biểu tượng của bài học hôm nay là hình một chiếc khiên bảo vệ lấy một biểu đồ tăng trưởng.
+Người 2: Dạ thưa cô, hình chiếc khiên này có phải mang ý nghĩa là chúng ta phải bảo vệ tiền của nhà nước, không được để thất thoát trong quá trình tiêu tiền đúng không ạ?
+Người 1: Em liên tưởng rất đúng! Chiếc khiên tượng trưng cho sự bảo vệ và kỷ luật tài chính nghiêm ngặt. Khi chúng ta "chấp hành" hay nói dân dã là thực hiện việc thu và chi tiền, chúng ta không được làm tùy tiện mà phải có tấm khiên pháp luật và các quy tắc bảo vệ. Cụ thể tấm khiên đó hoạt động như thế nào, chúng ta cùng đi vào nội dung chi tiết.
+
+Slide 2: Tổng quan cấu trúc tiết học
+Người 1: Trước khi đi vào chi tiết, chúng ta cùng xem qua lộ trình của tiết học ngày hôm nay trên slide số hai. Lộ trình của chúng ta được chia làm bốn khối nội dung chính. Khối một là Tổng quan và phân bổ. Khối hai là Chấp hành thu ngân sách. Khối ba là Chấp hành chi ngân sách. Và khối bốn là Cơ chế điều hành ngân sách.
+Người 2: Em thấy cấu trúc này rất rõ ràng ạ. Đầu tiên là phải giao tiền, phân bổ tiền về các nơi. Sau đó đi thu tiền về, rồi mang tiền đi chi tiêu, và cuối cùng là cách xử lý khi có tình huống phát sinh, đúng không cô?
+Người 1: Chính xác là như vậy! Em đã tóm tắt được toàn bộ vòng đời của việc chấp hành ngân sách rồi đấy. Giờ chúng ta sẽ dừng chân ở khối đầu tiên để tìm hiểu thế nào là chấp hành dự toán nhé.
+
+Slide 3: Khái niệm và Yêu cầu cốt lõi
+Người 1: Chúng ta cùng chuyển sang slide số ba. Vậy "Chấp hành dự toán ngân sách" là gì? Nói một cách hàn lâm, đây là quá trình sử dụng tổng hợp các biện pháp kinh tế, tài chính và hành chính nhằm biến các chỉ tiêu thu, chi trên giấy tờ thành hiện thực. Nói một cách dễ hiểu, dự toán là bản kế hoạch, còn chấp hành chính là hành động xắn tay áo lên để đi thu tiền thật và chi tiền thật.
+Người 2: Dạ, đã là thu chi tiền thật thì chắc chắn sẽ có những quy định khắt khe. Vậy yêu cầu cốt lõi khi nhà nước đi thu tiền và chi tiền là gì thưa cô?
+Người 1: Rất sắc sảo. Đối với việc thu ngân sách, yêu cầu đặt ra là bộ máy phải tinh gọn và tạo điều kiện thuận lợi nhất cho người nộp. Cô lấy ví dụ, thay vì bắt bà con tiểu thương ở chợ xã phải bỏ sạp hàng lên tận ủy ban để nộp phí vệ sinh hay phí chợ, cán bộ xã có thể mang mã quy-rờ đến tận nơi để bà con quét mã chuyển khoản. Vừa nhanh, vừa minh bạch. Ngược lại, đối với việc chi ngân sách, yêu cầu là phải tuân thủ nghiêm ngặt dự toán. Ủy ban xã và Kho bạc Nhà nước phải phối hợp chặt chẽ như một người gác cổng, bảo vệ từng đồng tiền chi ra.
+
+Slide 4: Dòng chảy phân bổ và giao dự toán
+Người 1: Để có tiền đi chợ, thì đầu tiên người mẹ phải phát tiền cho các con. Trong ngân sách cũng vậy, slide số bốn sẽ cho các em thấy dòng chảy phân bổ và giao dự toán. Dòng chảy này đi qua ba bước. Bước một, Hội đồng nhân dân quyết định dự toán, sau đó Ủy ban nhân dân xã sẽ giao dự toán xuống. Bước hai, Đơn vị dự toán cấp một sẽ phân bổ chi tiết cho các Đơn vị sử dụng ngân sách trực thuộc. Và bước ba, bản phân bổ này phải được gửi cho Cơ quan tài chính và Kho bạc nhà nước để làm căn cứ thực thi.
+Người 2: Có kho bạc kiểm tra thì chắc là khó mà làm sai được cô nhỉ? Nếu lỡ phân bổ sai tiền thì sao ạ?
+Người 1: Nếu phân bổ sai, cơ quan tài chính cấp xã sẽ kiểm tra và yêu cầu phải điều chỉnh lại trong vòng mười ngày làm việc. Và ở đây có một "Nguyên tắc thép" mà các em bắt buộc phải nhớ: Không một cá nhân hay tổ chức nào được tự ý thay đổi nhiệm vụ ngân sách đã được giao.
+Người 2: Kể cả là Chủ tịch xã cũng không được tự ý đổi tiền từ việc xây nhà văn hóa sang việc làm đường giao thông đúng không ạ?
+Người 1: Chuẩn xác! Muốn thay đổi mục đích sử dụng số tiền đó, bắt buộc phải làm quy trình điều chỉnh trình lên Hội đồng nhân dân, chứ Chủ tịch xã không được tự ý ký quyết định chuyển đổi. Đó chính là tính kỷ luật của Nguyên tắc thép.
+
+Slide 5: Tổ chức chấp hành thu: Nguyên tắc 4 "Đúng"
+Người 1: Giờ chúng ta sang bước hành động đầu tiên: Đi thu tiền. Các em hãy nhìn vào slide số năm. Để tổ chức thu ngân sách, cán bộ xã phải nằm lòng Nguyên tắc bốn "Đúng". Nguyên tắc chung ở đây là: Chỉ thu các khoản được pháp luật cho phép, không được tăng thu bằng mọi giá, và nếu thu sai thì bắt buộc phải hoàn trả cho người dân.
+Người 2: Bốn chữ "Đúng" ở đây cụ thể là gì thưa cô?
+Người 1: Đó là: Đúng khoản, Đúng thẩm quyền, Đúng quy trình và Đúng thời hạn. Đúng khoản nghĩa là phải có cơ sở pháp lý. Đúng thẩm quyền là cấp xã chỉ được thu những gì nhà nước giao cho xã thu. Đúng quy trình là phải có biên lai, thủ tục rõ ràng. Và Đúng thời hạn là để đảm bảo xã có dòng tiền chi tiêu.
+Người 2: Cô cho em một ví dụ thực tế được không ạ? Giả sử xã em muốn làm cổng làng, thế là xã ra quy định bắt buộc mỗi hộ gia đình phải đóng góp năm trăm nghìn đồng. Việc này có vi phạm nguyên tắc bốn "Đúng" không cô?
+Người 1: Ví dụ của em rất hay và rất thực tế! Việc ép buộc người dân đóng mức cố định năm trăm nghìn đồng cho quỹ tự nguyện là vi phạm nghiêm trọng nguyên tắc "Đúng khoản" và "Đúng thẩm quyền". Quỹ đóng góp xây dựng thiết chế nông thôn mới phải dựa trên tinh thần hoàn toàn tự nguyện của người dân, nhà nước không được phép ép buộc hay giao chỉ tiêu cố định. Nếu cố tình thu, xã đang vi phạm nguyên tắc "không tăng thu bằng mọi giá" và sẽ phải hoàn trả lại toàn bộ số tiền ép buộc đó cho bà con.
+
+Slide 6: ĐẢM BẢO MINH BẠCH VÀ DÂN CHỦ TRONG THU NGÂN SÁCH
+Người 1: Ở phần trước chúng ta đã nắm được nguyên tắc thu tiền. Nhưng thu đúng thôi chưa đủ, mà còn phải thu một cách công khai. Mời các em nhìn vào ba trụ cột trên slide số sáu: Chính quyền, Người dân và Báo cáo. Trách nhiệm của chính quyền xã là phải công khai toàn bộ quy trình, thủ tục trước, trong và sau khi thu tiền.
+Người 2: Việc công khai này để người dân có quyền giám sát đúng không cô? Nhưng thực tế thì người dân giám sát bằng cách nào ạ?
+Người 1: Đúng vậy em. Luật Ngân sách Nhà nước năm hai nghìn không trăm hai mươi lăm quy định rất rõ: Nhân dân có quyền được biết, được bàn bạc và kiểm tra. Cô lấy ví dụ, khi thu Quỹ phòng chống thiên tai, xã không chỉ thông báo trên loa phát thanh mà còn phải dán danh sách niêm yết tại nhà văn hóa thôn. Hộ nào đã nộp bao nhiêu, tổng thu toàn thôn là bao nhiêu, tất cả phải rõ ràng. Mọi số liệu này sau đó phải được tổng hợp vào đúng biểu mẫu chuẩn mực để báo cáo lên trên. Không có chỗ cho những cuốn sổ ghi chép mập mờ hay những khoản thu "bỏ túi".
+
+Slide 7: ĐIỀU KIỆN THỰC HIỆN CHI NGÂN SÁCH
+Người 1: Thu tiền đã khó, chi tiền sao cho đúng luật lại càng khó hơn. Chúng ta chuyển sang khối nội dung thứ ba: Chấp hành chi ngân sách ở slide số bảy. Điều kiện tiên quyết để được rút một đồng tiền ra khỏi kho bạc là gì? Đó là khoản chi ấy phải có trong dự toán đã được giao từ đầu năm, và phải có quyết định chi của thủ trưởng đơn vị, tức là Chủ tịch Ủy ban nhân dân xã.
+Người 2: Em thấy trên slide chia ra ba nhóm chi: Chi thường xuyên, Chi đầu tư phát triển và Chi mua sắm. Vì sao phải chia nhỏ ra như vậy ạ? Cứ có trong dự toán là chi thôi chứ cô?
+Người 1: Chia ra vì mỗi loại tiền có một "bộ luật" quản lý riêng em ạ. Đối với chi thường xuyên như điện nước, văn phòng phẩm, thì phải bám sát định mức nhà nước cho phép, trừ khi đơn vị đó tự chủ thì theo quy chế chi tiêu nội bộ. Còn nếu xã xuất tiền để xây đường giao thông thì đó là Chi đầu tư phát triển, lúc này không chỉ tuân thủ Luật Ngân sách mà phải tuân thủ tuyệt đối Luật Đầu tư công. Tương tự, nếu xã mua dàn máy tính mới thì phải thực hiện đấu thầu theo Luật Đấu thầu và áp mức giá trần của nhà nước. Tiền nào đi với luật nấy, rất chặt chẽ!
+
+Slide 8: QUY TRÌNH TỔ CHỨC CHI NGÂN SÁCH (LƯU ĐỒ)
+Người 1: Vậy thực tế để lấy được tiền về xã, cán bộ kế toán phải làm gì? Các em hãy nhìn vào lưu đồ hai bước trên slide số tám. Bước một, đơn vị sử dụng ngân sách, ở đây là Ủy ban nhân dân xã, phải lập một bộ hồ sơ đề nghị thanh toán gửi ra Kho bạc Nhà nước. Bước hai, Kho bạc sẽ đóng vai trò là "người gác cổng" thực hiện khâu kiểm soát.
+Người 2: Kho bạc sẽ kiểm tra những gì thưa cô? Lỡ hồ sơ bị từ chối thì sao ạ?
+Người 1: Kho bạc sẽ soi rất kỹ xem hồ sơ có hợp pháp không, có đúng với dự toán không. Giống như em xin mẹ tiền mua sách, mẹ sẽ kiểm tra xem em có thực sự mua sách hay lại lấy tiền đi chơi game vậy. Nếu hồ sơ hoàn hảo, kho bạc sẽ "Chấp thuận thanh toán" và xuất quỹ. Nếu sai, họ sẽ "Từ chối thanh toán" ngay lập tức. Lý do từ chối thường là: Xã đòi chi một khoản không hề có trong dự toán, làm sai thủ tục hành chính, hoặc vi phạm quy định về vốn đầu tư.
+
+Slide 9: YÊU CẦU TIẾN ĐỘ VÀ CHẾ TÀI KỶ LUẬT CHI
+Người 1: Chúng ta sang slide số chín. Tiền trong kho bạc không phải cứ thích rút lúc nào là rút, mà phải theo tiến độ. Với các khoản chi hàng tháng như tiền lương, phụ cấp cán bộ xã, hay chi hoạt động cơ quan thì sẽ được rút đều đặn. Còn với các khoản chi đầu tư xây dựng, thì nhà thầu xây được bao nhiêu phần trăm khối lượng công trình, kho bạc mới cho rút bấy nhiêu tiền.
+Người 2: Ở dưới em thấy có hình bàn tay cản lại với dòng chữ "Chế tài kỷ luật". Kho bạc có quyền phạt không cho xã rút tiền đúng không cô?
+Người 1: Chính xác! Đó gọi là lệnh "Tạm đình chỉ chi". Khi xã vi phạm nghiêm trọng việc nộp báo cáo hoặc chậm trễ làm quyết toán, cơ quan tài chính sẽ tuýt còi và yêu cầu Kho bạc đóng băng tài khoản, không cho xuất quỹ nữa.
+Người 2: Đóng băng tài khoản thì cán bộ xã nhịn đói luôn hả cô? Không có lương sao làm việc được ạ?
+Người 1: Đừng lo, pháp luật của chúng ta rất nhân văn. Kể cả khi bị đình chỉ chi, vẫn có ngoại lệ. Các khoản liên quan đến con người như tiền lương, phụ cấp và trợ cấp xã hội cho người nghèo vẫn được phép chi bình thường để đảm bảo bộ máy và đời sống an sinh không bị tê liệt.
+
+Slide 10: HÌNH THỨC CHI VÀ BỔ SUNG TỪ NGÂN SÁCH CẤP TRÊN
+Người 1: Khép lại phần chi, chúng ta xem slide số mười về Hình thức chi. Hiện nay có hai hình thức là "Lệnh chi tiền" và "Rút dự toán", trong đó rút dự toán là hình thức phổ biến nhất. Kế toán xã mang giấy tờ ra kho bạc rút tiền về chi tiêu theo hạn mức đã được giao.
+Người 2: Thế nếu xã thu không đủ tiền để tự chi thì làm sao có tiền mà rút ạ?
+Người 1: Khi đó xã sẽ được rút phần "Bổ sung từ ngân sách cấp trên", tức là tiền do tỉnh hoặc huyện rót xuống. Mũi tên đi xuống trên slide thể hiện dòng tiền này. Nó gồm hai loại: "Bổ sung cân đối" là khoản tiền cố định được rút hàng tháng theo mức Ủy ban nhân dân Tỉnh cho phép để xã đủ tiền hoạt động. Còn "Bổ sung có mục tiêu" là tỉnh cho tiền để làm một việc cụ thể, ví dụ như xây trạm y tế, thì xã chỉ được rút theo đúng tiến độ của công trình đó mà thôi.
+
+Slide 11: CƠ CHẾ NGOẠI LỆ 1: TẠM CẤP NGÂN SÁCH
+Người 1: Bốn khối nội dung trước đã cho chúng ta thấy một bức tranh vận hành ngân sách trong điều kiện bình thường, lý tưởng. Nhưng thực tế thì luôn có những biến số. Khối nội dung thứ tư trên slide số mười một sẽ giới thiệu cho các em các cơ chế ngoại lệ. Đầu tiên là "Tạm cấp ngân sách".
+Người 2: Tạm cấp nghĩa là sao ạ? Giả sử đầu tháng một năm mới, Hội đồng nhân dân chưa kịp họp xong để giao dự toán chính thức, thì ủy ban xã lấy đâu ra tiền để trả lương cho cán bộ ạ? Chẳng lẽ bắt mọi người nhịn đói làm việc?
+Người 1: Câu hỏi của em chạm đúng vào bản chất của vấn đề rồi đấy! Pháp luật không bao giờ để bộ máy nhà nước bị "đóng băng" chỉ vì thủ tục giấy tờ. Trong trường hợp chưa có dự toán chính thức, Kho bạc Nhà nước sẽ trực tiếp thực hiện "Tạm cấp" cho xã. Tuy nhiên, chỉ được tạm cấp cho những khoản không thể trì hoãn như: tiền lương, phụ cấp, và công vụ phí thiết yếu.
+Người 2: Vậy khi nào có dự toán chính thức thì số tiền tạm cấp này tính sao thưa cô?
+Người 1: Ở cuối slide có ghi chữ "Thu hồi" rất lớn. Ngay khi dự toán chính thức được giao xuống, Kho bạc sẽ lập tức hạch toán thu hồi lại số tiền đã tạm cấp. Giống như em ứng trước tiền tiêu vặt của tháng sau, đến khi mẹ phát tiền thì mẹ sẽ trừ thẳng vào số tiền đó vậy.
+
+Slide 12: PHÂN BIỆT: ĐIỀU CHỈNH VÀ ỨNG TRƯỚC DỰ TOÁN
+Người 1: Chúng ta sang slide số mười hai để phân biệt hai khái niệm rất hay bị nhầm lẫn: "Điều chỉnh dự toán" và "Ứng trước dự toán".
+Người 2: Em nghe tên thì thấy Điều chỉnh có vẻ là thay đổi trong năm hiện tại, còn Ứng trước là vay mượn của năm sau, có đúng không cô?
+Người 1: Rất thông minh! Thứ nhất, "Điều chỉnh dự toán" xảy ra trong chính năm đó. Khi xã gặp tình trạng thu không đạt dự kiến, hoặc có nhiệm vụ phòng chống dịch bệnh đột xuất, Ủy ban nhân dân xã sẽ ra quyết định điều chỉnh cơ cấu chi, ví dụ bớt tiền xây hàng rào để chuyển sang mua thuốc men, và phải báo cáo Thường trực Hội đồng nhân dân. Thứ hai, "Ứng trước dự toán" chính là tiêu lẹm vào tiền của năm sau. Chỉ được dùng cho các dự án cực kỳ cấp bách và hạn mức tối đa không được vượt quá ba mươi phần trăm dự toán.
+Người 2: Nếu ứng trước mà năm sau xã lại không có tiền để bù vào thì sao ạ?
+Người 1: Kỷ luật tài chính ở đây rất nghiêm khắc: Bắt buộc năm sau phải bố trí tiền để thu hồi khoản nợ này. Nguyên tắc thép là: Sẽ khóa chức năng ứng trước mới nếu như xã chưa thu hồi xong khoản nợ cũ. Không có chuyện nợ chồng nợ.
+
+Slide 13: QUẢN TRỊ RỦI RO: XỬ LÝ TĂNG/GIẢM THU - CHI
+Người 1: Chúng ta sang slide số mười ba với hai mũi tên lên và xuống. Đây là kịch bản cuối năm khi xã tổng kết lại sổ sách. Kịch bản một (Mũi tên đi lên): Xã làm ăn giỏi, thu vượt mức hoặc chi không hết tiền.
+Người 2: Ôi thế thì tốt quá! Tiền dư này ủy ban xã có được lấy ra để liên hoan hay chia thưởng cho cán bộ ăn Tết không cô?
+Người 1: Tuyệt đối không em nhé! Số tiền dư này phải được trình Ủy ban quyết định phương án sử dụng trước ngày hai mươi tám tháng hai của năm sau. Và tiền chỉ được phép dùng cho các mục đích thiết thực như: Bổ sung quỹ dự phòng, tạo nguồn cải cách tiền lương, hoặc chi cho các chính sách an sinh xã hội cho người nghèo.
+Người 2: Vậy còn kịch bản hai (Mũi tên đi xuống), khi xã bị thất thu do khách quan như thiên tai mất mùa thì sao ạ?
+Người 1: Khi đó, bước bắt buộc đầu tiên là xã phải tự "thắt lưng buộc bụng", tức là điều chỉnh giảm các nhiệm vụ chi không cần thiết lại. Nếu cắt giảm hết mức rồi mà vẫn không đủ tiền để duy trì hoạt động, Ủy ban nhân dân xã phải làm báo cáo gửi Sở Tài chính để trình lên Ủy ban nhân dân Tỉnh xem xét, rót tiền hỗ trợ.
+
+Slide 14: QUY ĐỊNH VỀ QUỸ DỰ PHÒNG NGÂN SÁCH XÃ
+Người 1: Ở slide trước cô có nhắc đến Quỹ dự phòng. Mời các em xem slide số mười bốn. Đây chính là "quỹ khẩn cấp" của xã. Quy mô của quỹ này bắt buộc phải trích lập từ hai phần trăm đến năm phần trăm tổng chi ngân sách cấp xã. Lưu ý nhỏ là không tính phần tiền bổ sung có mục tiêu từ cấp trên vào tổng chi này.
+Người 2: Quỹ khẩn cấp này chỉ dùng khi có bão lụt hay dịch bệnh thôi đúng không cô? Ai là người có quyền mở két lấy tiền ạ?
+Người 1: Đúng vậy, mục đích chính là để chống thiên tai, dịch bệnh, hoặc xử lý các vấn đề an ninh quốc phòng đột xuất. Vì tính chất khẩn cấp "chống dịch như chống giặc", nên Chủ tịch Ủy ban nhân dân xã có quyền quyết định chi ngay lập tức để cứu dân, cứu tài sản. Tuy nhiên, sau khi chi xong thì định kỳ phải có văn bản báo cáo lại cho Thường trực Hội đồng nhân dân xã để đảm bảo tính minh bạch.
+
+Slide 15: TỔNG KẾT TIẾT 2: KHUNG CHẤP HÀNH DỰ TOÁN
+Người 1: Chúng ta đã đi đến slide cuối cùng, slide số mười lăm. Để gói gọn lại toàn bộ tiết học ngày hôm nay, các em chỉ cần ghi nhớ "Khung chấp hành dự toán" với ba trụ cột sau: Một: Thu chuẩn mực. Phải nằm lòng nguyên tắc Bốn "Đúng" là Đúng khoản, Đúng thẩm quyền, Đúng quy trình và Đúng thời hạn. Hai: Chi nghiêm ngặt. Chỉ được xuất tiền khi có đủ giấy tờ hợp pháp và phải lọt qua cửa ải kiểm soát chặt chẽ của Kho bạc Nhà nước.
+Người 2: Và trụ cột thứ ba là Linh hoạt có kiểm soát. Tức là dùng đến các vũ khí dự phòng khi có biến cố, bao gồm: Tạm cấp, Ứng trước tối đa ba mươi phần trăm, và Quỹ dự phòng từ hai đến năm phần trăm, phải không cô?
+Người 1: Em tổng kết cực kỳ xuất sắc! Việc thu tiền và tiêu tiền của xã đã xong. Nhưng làm sao để biết những đồng tiền đó được chi đúng mục đích và không bị tham ô nhũng nhiễu? Chúng ta sẽ tìm câu trả lời trong tiết học tiếp theo: Tiết ba, Quy trình Quyết toán Ngân sách Xã. Xin chào và hẹn gặp lại các em!
+
